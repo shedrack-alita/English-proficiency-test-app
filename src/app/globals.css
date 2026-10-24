@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #f6f7fb;
+  --surface: #ffffff;
+  --surface-2: #f1f3f9;
+  --line: #e3e6ef;
+  --ink: #141a2e;
+  --muted: #5d6680;
+  --brand: #3b3fd8;
+  --brand-ink: #ffffff;
+  --brand-soft: #eceeff;
+  --brand-strong: #2a2db0;
+  --accent: #f5a524;
+  --ok: #16a34a;
+  --ok-soft: #e7f7ed;
+  --bad: #dc2626;
+  --bad-soft: #fdecec;
+  --warn: #b45309;
+  --warn-soft: #fff4e0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0c0f1c;
+    --surface: #141829;
+    --surface-2: #1b2034;
+    --line: #272d45;
+    --ink: #e8ebf7;
+    --muted: #9aa2bd;
+    --brand: #7b7ff5;
+    --brand-ink: #0c0f1c;
+    --brand-soft: #22264a;
+    --brand-strong: #9ea1ff;
+    --accent: #f7b54a;
+    --ok: #34d17a;
+    --ok-soft: #12291d;
+    --bad: #f87171;
+    --bad-soft: #2f1618;
+    --warn: #fbbf57;
+    --warn-soft: #2d2410;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-brand: var(--brand);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-strong: var(--brand-strong);
+  --color-accent: var(--accent);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition
+    focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand disabled:cursor-not-allowed disabled:opacity-50;
+}
+@utility btn-primary {
+  @apply btn bg-brand text-brand-ink shadow-sm hover:bg-brand-strong;
+}
+@utility btn-secondary {
+  @apply btn border border-line bg-surface text-ink hover:bg-surface-2;
+}
+@utility btn-ghost {
+  @apply btn text-muted hover:bg-surface-2 hover:text-ink;
+}
+@utility card {
+  @apply rounded-2xl border border-line bg-surface shadow-[0_1px_2px_rgba(16,24,40,0.04)];
+}
+@utility input {
+  @apply w-full rounded-xl border border-line bg-surface px-3.5 py-2.5 text-sm text-ink placeholder:text-muted/70
+    outline-none transition focus:border-brand focus:ring-4 focus:ring-brand/15;
+}
+@utility label {
+  @apply mb-1.5 block text-sm font-medium text-ink;
+}
