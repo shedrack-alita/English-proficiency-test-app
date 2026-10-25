@@ -1,4 +1,5 @@
 import "server-only";
+import { randomInt } from "node:crypto";
 import { all, get, run, transaction, type Executor, type Row } from "./db";
 import {
   MAX_FEEDBACKS,
@@ -283,17 +284,19 @@ export async function startAttempt(
     }
     if (minutes <= 0 || count <= 0) throw new AttemptError("This test is not fully configured yet.");
 
-    // Shuffled tests draw a random set; ordered tests (the full paper) keep paper order.
-    const order = test.shuffle ? "RANDOM()" : "position, id";
+    // Shuffled tests give each candidate their own order (and their own set when fewer questions
+    // are shown than the test holds); ordered tests keep paper order.
     const topics = practice?.topics?.length ? practice.topics : null;
     const topicFilter = topics ? `AND topic IN (${topics.map(() => "?").join(",")})` : "";
-    const ids = (
+    const pool = (
       await all(
-        `SELECT id FROM questions WHERE test_id = ? ${topicFilter} ORDER BY ${order} LIMIT ?`,
-        [test.id, ...(topics ?? []), count],
+        `SELECT id, md5(passage) AS passage_key, passage <> '' AS has_passage
+         FROM questions WHERE test_id = ? ${topicFilter} ORDER BY position, id`,
+        [test.id, ...(topics ?? [])],
         tx,
       )
-    ).map((r) => Number(r.id));
+    ).map((r) => ({ id: Number(r.id), group: r.has_passage ? String(r.passage_key) : `q${r.id}` }));
+    const ids = (test.shuffle ? shuffleKeepingPassages(pool) : pool).slice(0, count).map((q) => q.id);
     if (ids.length === 0) throw new AttemptError("No questions match the topics you chose.");
 
     const now = Date.now();
@@ -305,6 +308,25 @@ export async function startAttempt(
     );
     return Number(created!.id);
   });
+}
+
+/**
+ * Random order that keeps questions on the same passage together and in paper order
+ * (a cloze passage's blanks stay 1, 2, 3...). Questions are shuffled as groups.
+ */
+function shuffleKeepingPassages<T extends { group: string }>(items: T[]) {
+  const groups = new Map<string, T[]>();
+  for (const item of items) {
+    const list = groups.get(item.group);
+    if (list) list.push(item);
+    else groups.set(item.group, [item]);
+  }
+  const order = [...groups.values()];
+  for (let i = order.length - 1; i > 0; i--) {
+    const j = randomInt(i + 1);
+    [order[i], order[j]] = [order[j], order[i]];
+  }
+  return order.flat();
 }
 
 export async function saveAnswer(candidateId: number, attemptId: number, questionId: number, choice: Letter) {
@@ -404,11 +426,16 @@ export type ExamQuestion = {
 };
 
 /** Everything the exam screen needs — never includes correct answers. */
+/** Options that only make sense in their printed position ("All of the above", "A and B together"). */
+const POSITIONAL_OPTION = /\b(all|none|both|neither) of (the )?(above|these|the options)\b|\b[A-E] and [A-E]\b/i;
+
 export async function getExamView(attempt: AttemptRow, test: TestSummary) {
   const [loaded, answers] = await Promise.all([loadQuestions(attempt.questionIds), savedAnswers(attempt.id)]);
-  // Questions appear in the attempt's own order (random for practice, paper order for mocks).
+  // Questions appear in the attempt's own order. On shuffled tests each attempt also gets its own
+  // option order, except where an option refers to the others by position.
   const questions: ExamQuestion[] = loaded.map((q) => {
-    const keys = test.shuffle ? seededOrder(attempt.id * 7919 + q.id) : [...LETTERS];
+    const fixed = Object.values(q.choices).some((c) => POSITIONAL_OPTION.test(c));
+    const keys = test.shuffle && !fixed ? seededOrder(attempt.id * 7919 + q.id) : [...LETTERS];
     return {
       id: q.id,
       number: q.number,

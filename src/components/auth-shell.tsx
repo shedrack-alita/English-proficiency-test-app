@@ -13,7 +13,18 @@ export async function AuthShell({ title, subtitle, children }: { title: string; 
     <div className="grid min-h-screen lg:grid-cols-2">
       <div className="flex flex-col px-4 py-6 sm:px-10">
         <Logo />
-        <div className="flex flex-1 items-center justify-center py-12">
+        {/* On smaller screens the test centre photo becomes a banner above the form. */}
+        <div className="relative mt-6 overflow-hidden rounded-2xl bg-brand lg:hidden">
+          <div className="absolute inset-0 bg-[url('/images/cbt-centre.jpg')] bg-cover bg-center" aria-hidden />
+          <div className="absolute inset-0 bg-[#1d1f7a]/75" aria-hidden />
+          <div className="relative flex min-h-40 flex-col justify-end p-5 text-white sm:min-h-52 sm:p-7">
+            <p className="text-xs font-medium uppercase tracking-widest text-white/70">{APP_TAGLINE}</p>
+            <p className="mt-2 text-lg font-semibold leading-snug sm:text-xl">
+              {stats.questions.toLocaleString()} questions across {stats.topics} topics, with timed mock exams.
+            </p>
+          </div>
+        </div>
+        <div className="flex flex-1 items-start justify-center py-8 lg:items-center lg:py-12">
           <div className="w-full max-w-sm">
             <h1 className="text-2xl font-semibold tracking-tight">{title}</h1>
             <p className="mt-1.5 text-muted">{subtitle}</p>

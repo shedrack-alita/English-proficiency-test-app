@@ -1,7 +1,7 @@
 import "server-only";
 import fs from "node:fs";
 import path from "node:path";
-import { BANK_VERSION, seed } from "./seed";
+import { BANK_VERSION, UPGRADE_COUNT, seed, upgrade } from "./seed";
 
 /*
  * Storage is Postgres:
@@ -70,8 +70,10 @@ CREATE TABLE IF NOT EXISTS questions (
   answer      TEXT NOT NULL CHECK (answer IN ('A','B','C','D')),
   explanation TEXT NOT NULL DEFAULT '',
   tip         TEXT NOT NULL DEFAULT '',
-  source      TEXT NOT NULL DEFAULT ''
+  source      TEXT NOT NULL DEFAULT '',
+  ref         TEXT NOT NULL DEFAULT ''  -- built-in questions: stable id from the question bank
 );
+ALTER TABLE questions ADD COLUMN IF NOT EXISTS ref TEXT NOT NULL DEFAULT '';
 CREATE INDEX IF NOT EXISTS questions_test ON questions(test_id, position);
 
 -- One row per sitting. Times are epoch milliseconds; question_ids is a JSON array.
@@ -194,27 +196,31 @@ async function open() {
   const db = await createDatabase();
   await db.exec(SCHEMA);
   await seed(db);
+  await upgrade(db);
   return db;
 }
 
 // One database per server instance, created on first use and reused across hot reloads in development.
+// The key changes when the built-in questions or the upgrades change, so a running server picks them up.
+const contentKey = `${BANK_VERSION}:${UPGRADE_COUNT}`;
 const globalForDb = globalThis as unknown as { eptPg?: Promise<Database>; eptPgBankVersion?: string };
 
 export function getDb() {
   let pending: Promise<Database> | undefined;
   if (!globalForDb.eptPg) {
     pending = open();
-  } else if (globalForDb.eptPgBankVersion !== BANK_VERSION) {
+  } else if (globalForDb.eptPgBankVersion !== contentKey) {
     // The database survives hot reloads in development; when new built-in content arrives,
     // re-run the schema and seed so it is installed without restarting the server.
     pending = globalForDb.eptPg.then(async (db) => {
       await db.exec(SCHEMA);
       await seed(db);
+      await upgrade(db);
       return db;
     });
   }
   if (pending) {
-    globalForDb.eptPgBankVersion = BANK_VERSION;
+    globalForDb.eptPgBankVersion = contentKey;
     globalForDb.eptPg = pending.catch((error) => {
       globalForDb.eptPg = undefined; // retry on the next request
       throw error;

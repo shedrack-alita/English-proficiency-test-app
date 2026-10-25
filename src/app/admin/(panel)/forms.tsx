@@ -126,8 +126,8 @@ export function TestForm({ initial, categories }: { initial: TestFormValues; cat
 
       <label className="flex items-center gap-2.5 text-sm">
         <input type="checkbox" name="shuffle" defaultChecked={initial.shuffle} className="size-4 accent-brand" />
-        Shuffle questions and options for each attempt
-        <span className="text-muted">(off keeps the paper order)</span>
+        Give each candidate their own question and option order
+        <span className="text-muted">(off keeps the paper order for everyone)</span>
       </label>
 
       <button type="submit" disabled={pending} className="btn-primary">
