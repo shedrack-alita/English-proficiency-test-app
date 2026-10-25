@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState, useTransition } from "react";
-import { AlertTriangle, BookOpen, Check, ChevronLeft, ChevronRight, Clock3, CloudOff, LayoutGrid, Loader2, X } from "lucide-react";
+import { AlertTriangle, BookOpen, Check, ChevronLeft, ChevronRight, Clock3, CloudOff, Loader2 } from "lucide-react";
 import { recordAnswer, submitAttempt } from "@/app/actions";
 import { Logo, ProgressBar, RichText, cx } from "@/components/ui";
 import { KIND_LABEL, type TestKind } from "@/lib/constants";
@@ -24,7 +24,6 @@ export function ExamRunner({ exam }: { exam: Exam }) {
   const [index, setIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<number, Letter>>(exam.answers);
   const [saveState, setSaveState] = useState<SaveState>("idle");
-  const [navOpen, setNavOpen] = useState(false);
   const [confirmOpen, setConfirmOpen] = useState(false);
   const [timedOut, setTimedOut] = useState(false);
   const [submitting, startSubmit] = useTransition();
@@ -85,7 +84,6 @@ export function ExamRunner({ exam }: { exam: Exam }) {
   const go = useCallback(
     (i: number) => {
       setIndex(Math.max(0, Math.min(questions.length - 1, i)));
-      setNavOpen(false);
     },
     [questions.length],
   );
@@ -173,9 +171,6 @@ export function ExamRunner({ exam }: { exam: Exam }) {
             <Clock3 className="size-4" aria-hidden />
             {formatClock(remaining)}
           </div>
-          <button type="button" onClick={() => setNavOpen(true)} className="btn-secondary px-3 lg:hidden" aria-label="Show question list">
-            <LayoutGrid className="size-4" />
-          </button>
           <button type="button" onClick={() => setConfirmOpen(true)} className="btn-primary hidden sm:inline-flex" disabled={submitting}>
             Submit
           </button>
@@ -250,6 +245,9 @@ export function ExamRunner({ exam }: { exam: Exam }) {
                   </button>
                 </div>
               </div>
+
+              {/* On smaller screens the question list sits below the options instead of in a sidebar. */}
+              <div className="card mt-6 p-5 lg:hidden">{navigator}</div>
             </section>
           </div>
         </main>
@@ -258,25 +256,6 @@ export function ExamRunner({ exam }: { exam: Exam }) {
           <div className="card sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto p-5">{navigator}</div>
         </aside>
       </div>
-
-      {/* Mobile question list */}
-      {navOpen && (
-        <div className="fixed inset-0 z-40 lg:hidden" role="dialog" aria-modal="true" aria-label="Question list">
-          <div className="absolute inset-0 bg-black/40" onClick={() => setNavOpen(false)} />
-          <div className="absolute inset-y-0 right-0 w-full max-w-sm overflow-y-auto bg-surface p-5 shadow-xl">
-            <div className="mb-4 flex items-center justify-between">
-              <h2 className="font-semibold">Questions</h2>
-              <button type="button" onClick={() => setNavOpen(false)} className="btn-ghost px-2" aria-label="Close">
-                <X className="size-5" />
-              </button>
-            </div>
-            {navigator}
-            <button type="button" onClick={() => setConfirmOpen(true)} className="btn-primary mt-6 w-full" disabled={submitting}>
-              Submit
-            </button>
-          </div>
-        </div>
-      )}
 
       {/* Submit confirmation */}
       {confirmOpen && !timedOut && (

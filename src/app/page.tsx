@@ -38,12 +38,13 @@ export default async function Home() {
     <div className="flex min-h-screen flex-col">
       <header className="mx-auto flex w-full max-w-6xl items-center justify-between gap-3 px-4 py-5 sm:px-6">
         <Logo />
-        <div className="flex gap-2">
-          <Link href="/login" className="btn-ghost">
+        <div className="flex shrink-0 gap-1.5 sm:gap-2">
+          <Link href="/login" className="btn-ghost whitespace-nowrap px-3 sm:px-4">
             Sign in
           </Link>
-          <Link href="/signup" className="btn-primary">
-            Create account
+          <Link href="/signup" className="btn-primary whitespace-nowrap px-3 sm:px-4">
+            <span className="sm:hidden">Sign up</span>
+            <span className="hidden sm:inline">Create account</span>
           </Link>
         </div>
       </header>
