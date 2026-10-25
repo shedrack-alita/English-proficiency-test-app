@@ -1,4 +1,4 @@
-import type { Client, InStatement } from "@libsql/client";
+import type { Database, Executor } from "./db";
 import { hashPassword } from "./password";
 import bank from "./seed-data/bank.json";
 
@@ -29,57 +29,75 @@ type BankFile = {
 
 const data = bank as unknown as BankFile;
 export const BANK_VERSION = data.version;
-const CHUNK = 200;
 
-const insertQuestion = (testId: number, position: number, q: BankQuestion): InStatement => ({
-  sql: `INSERT INTO questions
-        (test_id, position, topic, instruction, passage, prompt, choice_a, choice_b, choice_c, choice_d, answer, explanation, tip, source)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-  args: [testId, position, q.topic, q.instruction, q.passage, q.prompt, ...q.choices, q.answer, q.explanation, q.tip, q.source],
-});
+/** Rows per INSERT: 14 columns each, well under Postgres's parameter limit. */
+const CHUNK = 100;
+const COLUMNS = 14;
+/** Any fixed number; serialises seeding when several server instances start at once. */
+const SEED_LOCK = 7_310_001;
 
-export async function seed(client: Client) {
-  const current = await client.execute("SELECT value FROM meta WHERE key = 'bank_version'");
+async function insertQuestions(tx: Executor, testId: number, list: BankQuestion[]) {
+  for (let i = 0; i < list.length; i += CHUNK) {
+    const slice = list.slice(i, i + CHUNK);
+    const values = slice
+      .map((_, r) => `(${Array.from({ length: COLUMNS }, (_, c) => `$${r * COLUMNS + c + 1}`).join(", ")})`)
+      .join(",\n");
+    const params = slice.flatMap((q, j) => [
+      testId,
+      i + j + 1,
+      q.topic,
+      q.instruction,
+      q.passage,
+      q.prompt,
+      ...q.choices,
+      q.answer,
+      q.explanation,
+      q.tip,
+      q.source,
+    ]);
+    await tx.query(
+      `INSERT INTO questions
+       (test_id, position, topic, instruction, passage, prompt, choice_a, choice_b, choice_c, choice_d, answer, explanation, tip, source)
+       VALUES ${values}`,
+      params,
+    );
+  }
+}
+
+export async function seed(db: Database) {
+  const current = await db.query("SELECT value FROM meta WHERE key = 'bank_version'");
   if (current.rows[0]?.value === data.version) return;
 
-  const tx = await client.transaction("write");
-  try {
+  await db.transaction(async (tx) => {
+    await tx.query("SELECT pg_advisory_xact_lock($1)", [SEED_LOCK]);
     // Another server instance may have installed this version while we waited for the lock.
-    const again = await tx.execute("SELECT value FROM meta WHERE key = 'bank_version'");
-    if (again.rows[0]?.value === data.version) {
-      await tx.commit();
-      return;
-    }
+    const again = await tx.query("SELECT value FROM meta WHERE key = 'bank_version'");
+    if (again.rows[0]?.value === data.version) return;
 
-    const admins = await tx.execute("SELECT COUNT(*) AS n FROM admins");
+    const admins = await tx.query("SELECT COUNT(*) AS n FROM admins");
     if (Number(admins.rows[0].n) === 0) {
-      await tx.execute({
-        sql: "INSERT INTO admins (username, password_hash) VALUES (?, ?)",
-        args: ["admin", hashPassword(process.env.EPT_ADMIN_PASSWORD || "admin123")],
-      });
+      await tx.query("INSERT INTO admins (username, password_hash) VALUES ($1, $2)", [
+        "admin",
+        hashPassword(process.env.EPT_ADMIN_PASSWORD || "admin123"),
+      ]);
     }
 
     // Replace previous built-in content.
-    await tx.batch([
+    await tx.query(
       "DELETE FROM attempt_answers WHERE attempt_id IN (SELECT a.id FROM attempts a JOIN tests t ON t.id = a.test_id WHERE t.builtin = 1)",
-      "DELETE FROM attempts WHERE test_id IN (SELECT id FROM tests WHERE builtin = 1)",
-      "DELETE FROM questions WHERE test_id IN (SELECT id FROM tests WHERE builtin = 1)",
-      "DELETE FROM tests WHERE builtin = 1",
-    ]);
+    );
+    await tx.query("DELETE FROM attempts WHERE test_id IN (SELECT id FROM tests WHERE builtin = 1)");
+    await tx.query("DELETE FROM questions WHERE test_id IN (SELECT id FROM tests WHERE builtin = 1)");
+    await tx.query("DELETE FROM tests WHERE builtin = 1");
 
     const byRef = new Map(data.questions.map((q) => [q.ref, q]));
-    const addTest = async (args: (string | number)[]) => {
-      const rs = await tx.execute({
-        sql: `INSERT INTO tests (title, category, description, kind, time_limit, question_limit, shuffle, position, builtin)
-              VALUES (?, ?, ?, ?, ?, ?, ?, ?, 1)`,
-        args,
-      });
-      return Number(rs.lastInsertRowid);
-    };
-    const addQuestions = async (testId: number, list: BankQuestion[]) => {
-      for (let i = 0; i < list.length; i += CHUNK) {
-        await tx.batch(list.slice(i, i + CHUNK).map((q, j) => insertQuestion(testId, i + j + 1, q)));
-      }
+    const addTest = async (params: (string | number)[]) => {
+      const rs = await tx.query(
+        `INSERT INTO tests (title, category, description, kind, time_limit, question_limit, shuffle, position, builtin)
+         VALUES ($1, $2, $3, $4, $5, $6, $7, $8, 1) RETURNING id`,
+        params,
+      );
+      return Number(rs.rows[0].id);
     };
 
     let position = 0;
@@ -87,20 +105,14 @@ export async function seed(client: Client) {
       const list = mock.refs.map((ref) => byRef.get(ref)).filter((q): q is BankQuestion => !!q);
       if (list.length === 0) continue;
       const id = await addTest([mock.title, "Mock Examination", mock.description, "official", mock.minutes, list.length, 0, position++]);
-      await addQuestions(id, list);
+      await insertQuestions(tx, id, list);
     }
     const bankId = await addTest([data.bank.title, "Question Bank", data.bank.description, "practice", 0, 0, 1, position++]);
-    await addQuestions(bankId, data.questions);
+    await insertQuestions(tx, bankId, data.questions);
 
-    await tx.execute({
-      sql: "INSERT INTO meta (key, value) VALUES ('bank_version', ?) ON CONFLICT (key) DO UPDATE SET value = excluded.value",
-      args: [data.version],
-    });
-    await tx.commit();
-  } catch (error) {
-    await tx.rollback();
-    throw error;
-  } finally {
-    tx.close();
-  }
+    await tx.query(
+      "INSERT INTO meta (key, value) VALUES ('bank_version', $1) ON CONFLICT (key) DO UPDATE SET value = excluded.value",
+      [data.version],
+    );
+  });
 }

@@ -1,5 +1,5 @@
 import "server-only";
-import { all, get, getDb, run } from "./db";
+import { all, get, run, transaction } from "./db";
 import { PASS_MARK, percent, type CandidateAccess, type TestKind } from "./constants";
 import { parseCsv } from "./csv";
 import type { Letter } from "./data";
@@ -83,7 +83,9 @@ export async function getOverview() {
     get(`SELECT
            (SELECT COUNT(*) FROM candidates) AS candidates,
            (SELECT COUNT(*) FROM tests) AS tests,
-           (SELECT COUNT(*) FROM questions) AS bank,
+           (SELECT COALESCE(MAX(n), 0) FROM (
+              SELECT COUNT(*) AS n FROM questions q JOIN tests t ON t.id = q.test_id WHERE t.kind = 'practice' GROUP BY t.id
+            ) s) AS bank,
            (SELECT COUNT(*) FROM attempts WHERE submitted_at IS NOT NULL) AS attempts,
            (SELECT COUNT(*) FROM attempts WHERE submitted_at IS NOT NULL AND score * 100.0 >= total * ${PASS_MARK}) AS passed,
            (SELECT AVG(score * 100.0 / total) FROM attempts WHERE submitted_at IS NOT NULL AND total > 0) AS avg_pct,
@@ -92,8 +94,8 @@ export async function getOverview() {
     all(`${RESULT_SELECT} ORDER BY a.submitted_at DESC LIMIT 8`),
     all(`SELECT q.topic, COUNT(*) AS total, SUM(CASE WHEN aa.choice = q.answer THEN 1 ELSE 0 END) AS correct
          FROM attempts a
-         JOIN json_each(a.question_ids) j
-         JOIN questions q ON q.id = j.value
+         CROSS JOIN LATERAL jsonb_array_elements_text(a.question_ids::jsonb) AS j(value)
+         JOIN questions q ON q.id = j.value::int
          LEFT JOIN attempt_answers aa ON aa.attempt_id = a.id AND aa.question_id = q.id
          WHERE a.submitted_at IS NOT NULL
          GROUP BY q.topic
@@ -118,18 +120,24 @@ export async function getOverview() {
   };
 }
 
-/** Sign-up numbers. created_at is stored by SQLite as a UTC "YYYY-MM-DD HH:MM:SS" string. */
+/** Sign-up numbers. created_at is stored as a UTC "YYYY-MM-DD HH:MM:SS" string, so its first 10 characters are the day. */
+/** SQL for the UTC date `daysAgo` days before today, as "YYYY-MM-DD". */
+const utcDay = (daysAgo: number) =>
+  `to_char((now() AT TIME ZONE 'UTC')::date - ${Math.floor(daysAgo)}, 'YYYY-MM-DD')`;
+
 export async function getSignupStats(days = 14) {
   const [counts, daily] = await Promise.all([
     get(`SELECT
            COUNT(*) AS total,
-           SUM(CASE WHEN date(created_at) = date('now') THEN 1 ELSE 0 END) AS today,
-           SUM(CASE WHEN date(created_at) >= date('now', '-6 days') THEN 1 ELSE 0 END) AS week,
-           SUM(CASE WHEN date(created_at) >= date('now', '-29 days') THEN 1 ELSE 0 END) AS month,
+           COUNT(*) FILTER (WHERE left(created_at, 10) >= ${utcDay(0)}) AS today,
+           COUNT(*) FILTER (WHERE left(created_at, 10) >= ${utcDay(6)}) AS week,
+           COUNT(*) FILTER (WHERE left(created_at, 10) >= ${utcDay(29)}) AS month,
            (SELECT COUNT(DISTINCT candidate_id) FROM attempts WHERE submitted_at IS NOT NULL) AS tested
          FROM candidates`),
-    all(`SELECT date(created_at) AS day, COUNT(*) AS n FROM candidates
-         WHERE date(created_at) >= date('now', ?) GROUP BY day`, [`-${days - 1} days`]),
+    all(
+      `SELECT left(created_at, 10) AS day, COUNT(*) AS n FROM candidates
+       WHERE left(created_at, 10) >= ${utcDay(days - 1)} GROUP BY 1`,
+    ),
   ]);
   const byDay = new Map(daily.map((r) => [String(r.day), Number(r.n)]));
   const today = new Date();
@@ -175,12 +183,12 @@ async function assertUniqueTitle(title: string, exceptId = 0) {
 
 export async function createTest(input: TestInput) {
   await assertUniqueTitle(input.title);
-  const { lastInsertRowid } = await run(
+  const created = await get(
     `INSERT INTO tests (title, category, description, kind, time_limit, question_limit, shuffle, position)
-     VALUES (?, ?, ?, ?, ?, ?, ?, (SELECT COALESCE(MAX(position), 0) + 1 FROM tests))`,
+     VALUES (?, ?, ?, ?, ?, ?, ?, (SELECT COALESCE(MAX(position), 0) + 1 FROM tests)) RETURNING id`,
     [input.title, input.category, input.description, input.kind, input.timeLimit, input.questionLimit, input.shuffle ? 1 : 0],
   );
-  return lastInsertRowid;
+  return Number(created!.id);
 }
 
 export async function updateTest(id: number, input: TestInput) {
@@ -194,16 +202,12 @@ export async function updateTest(id: number, input: TestInput) {
 
 /** Deletes a test with its questions, attempts and answers. */
 export async function deleteTest(id: number) {
-  const db = await getDb();
-  await db.batch(
-    [
-      { sql: "DELETE FROM attempt_answers WHERE attempt_id IN (SELECT id FROM attempts WHERE test_id = ?)", args: [id] },
-      { sql: "DELETE FROM attempts WHERE test_id = ?", args: [id] },
-      { sql: "DELETE FROM questions WHERE test_id = ?", args: [id] },
-      { sql: "DELETE FROM tests WHERE id = ?", args: [id] },
-    ],
-    "write",
-  );
+  await transaction(async (tx) => {
+    await run("DELETE FROM attempt_answers WHERE attempt_id IN (SELECT id FROM attempts WHERE test_id = ?)", [id], tx);
+    await run("DELETE FROM attempts WHERE test_id = ?", [id], tx);
+    await run("DELETE FROM questions WHERE test_id = ?", [id], tx);
+    await run("DELETE FROM tests WHERE id = ?", [id], tx);
+  });
 }
 
 /* ------------------------------------------------------------------ */
@@ -253,8 +257,8 @@ export async function listQuestions(testId: number, filter: { topic?: string; se
   }
   const search = filter.search?.trim();
   if (search) {
-    where.push(`(prompt LIKE ? OR instruction LIKE ? OR passage LIKE ? OR choice_a LIKE ? OR choice_b LIKE ?
-                 OR choice_c LIKE ? OR choice_d LIKE ? OR source LIKE ?)`);
+    where.push(`(prompt ILIKE ? OR instruction ILIKE ? OR passage ILIKE ? OR choice_a ILIKE ? OR choice_b ILIKE ?
+                 OR choice_c ILIKE ? OR choice_d ILIKE ? OR source ILIKE ?)`);
     args.push(...Array<string>(8).fill(`%${search}%`));
   }
   const clause = where.join(" AND ");
@@ -440,7 +444,11 @@ export async function importQuestionsCsv(testId: number, text: string, defaultTo
     stmts.push({ sql: QUESTION_INSERT, args: questionArgs(testId, position++, q) });
   });
 
-  if (stmts.length > 0) await (await getDb()).batch(stmts, "write");
+  if (stmts.length > 0) {
+    await transaction(async (tx) => {
+      for (const s of stmts) await run(s.sql, s.args, tx);
+    });
+  }
   const skipped = body.length - stmts.length;
   return { inserted: stmts.length, skipped, duplicates, problems };
 }
@@ -473,7 +481,7 @@ export async function listCandidates(search = "") {
             MAX(a.submitted_at) AS last_active
      FROM candidates c
      LEFT JOIN attempts a ON a.candidate_id = c.id AND a.submitted_at IS NOT NULL
-     WHERE c.full_name LIKE ? OR c.email LIKE ? OR c.course LIKE ? OR c.department LIKE ?
+     WHERE c.full_name ILIKE ? OR c.email ILIKE ? OR c.course ILIKE ? OR c.department ILIKE ?
      GROUP BY c.id
      ORDER BY c.id DESC`,
     [q, q, q, q],
@@ -519,31 +527,24 @@ export async function updateCandidate(
 
 /** Deletes a candidate with their attempts, answers and feedback. */
 export async function deleteCandidate(id: number) {
-  const db = await getDb();
-  await db.batch(
-    [
-      { sql: "DELETE FROM attempt_answers WHERE attempt_id IN (SELECT id FROM attempts WHERE candidate_id = ?)", args: [id] },
-      { sql: "DELETE FROM attempts WHERE candidate_id = ?", args: [id] },
-      { sql: "DELETE FROM feedbacks WHERE candidate_id = ?", args: [id] },
-      { sql: "DELETE FROM candidates WHERE id = ?", args: [id] },
-    ],
-    "write",
-  );
+  await transaction(async (tx) => {
+    await run("DELETE FROM attempt_answers WHERE attempt_id IN (SELECT id FROM attempts WHERE candidate_id = ?)", [id], tx);
+    await run("DELETE FROM attempts WHERE candidate_id = ?", [id], tx);
+    await run("DELETE FROM feedbacks WHERE candidate_id = ?", [id], tx);
+    await run("DELETE FROM candidates WHERE id = ?", [id], tx);
+  });
 }
 
 /** Lets a candidate retake an official test by removing their attempts at it. */
 export async function resetAttempts(candidateId: number, testId: number) {
-  const db = await getDb();
-  await db.batch(
-    [
-      {
-        sql: "DELETE FROM attempt_answers WHERE attempt_id IN (SELECT id FROM attempts WHERE candidate_id = ? AND test_id = ?)",
-        args: [candidateId, testId],
-      },
-      { sql: "DELETE FROM attempts WHERE candidate_id = ? AND test_id = ?", args: [candidateId, testId] },
-    ],
-    "write",
-  );
+  await transaction(async (tx) => {
+    await run(
+      "DELETE FROM attempt_answers WHERE attempt_id IN (SELECT id FROM attempts WHERE candidate_id = ? AND test_id = ?)",
+      [candidateId, testId],
+      tx,
+    );
+    await run("DELETE FROM attempts WHERE candidate_id = ? AND test_id = ?", [candidateId, testId], tx);
+  });
 }
 
 /* ------------------------------------------------------------------ */
@@ -569,7 +570,7 @@ export async function listResults(filter: { testId?: number; candidateId?: numbe
 export async function getRanking(testId: number) {
   const rows = await all(
     `${RESULT_SELECT} AND a.test_id = ?
-     ORDER BY a.candidate_id, (a.score * 1.0 / a.total) DESC, a.submitted_at ASC`,
+     ORDER BY a.candidate_id, (a.score * 1.0 / NULLIF(a.total, 0)) DESC NULLS LAST, a.submitted_at ASC`,
     [testId],
   );
   const best = new Map<number, ResultRow>();

@@ -46,7 +46,7 @@ export async function getCandidate(id: number) {
 }
 
 export async function findCandidateForLogin(email: string) {
-  const r = await get("SELECT * FROM candidates WHERE email = ?", [email]);
+  const r = await get("SELECT * FROM candidates WHERE email = lower(?::text)", [email]);
   return r ? { ...toCandidate(r), passwordHash: String(r.password_hash) } : null;
 }
 
@@ -82,9 +82,9 @@ export type TestSummary = {
 const TEST_SELECT = `
   SELECT t.*,
          (SELECT COUNT(*) FROM questions q WHERE q.test_id = t.id) AS question_count,
-         (SELECT json_group_array(topic) FROM (
-            SELECT topic, MIN(position) AS p FROM questions q WHERE q.test_id = t.id GROUP BY topic ORDER BY p
-          )) AS topics
+         (SELECT COALESCE(json_agg(s.topic ORDER BY s.p), '[]')::text FROM (
+            SELECT topic, MIN(position) AS p FROM questions q WHERE q.test_id = t.id GROUP BY topic
+          ) s) AS topics
   FROM tests t`;
 
 function toTest(r: Row): TestSummary {
@@ -234,7 +234,7 @@ export async function finalizeAttempt(attemptId: number) {
        score = (SELECT COUNT(*) FROM attempt_answers aa
                 JOIN questions q ON q.id = aa.question_id AND q.answer = aa.choice
                 WHERE aa.attempt_id = attempts.id
-                  AND aa.question_id IN (SELECT value FROM json_each(attempts.question_ids)))
+                  AND aa.question_id IN (SELECT value::int FROM jsonb_array_elements_text(attempts.question_ids::jsonb)))
      WHERE id = ? AND submitted_at IS NULL`,
     [Math.min(Date.now(), attempt.expiresAt), attemptId],
   );
@@ -297,12 +297,13 @@ export async function startAttempt(
     if (ids.length === 0) throw new AttemptError("No questions match the topics you chose.");
 
     const now = Date.now();
-    const res = await run(
-      "INSERT INTO attempts (candidate_id, test_id, question_ids, started_at, expires_at, total) VALUES (?, ?, ?, ?, ?, ?)",
+    const created = await get(
+      `INSERT INTO attempts (candidate_id, test_id, question_ids, started_at, expires_at, total)
+       VALUES (?, ?, ?, ?, ?, ?) RETURNING id`,
       [candidate.id, test.id, JSON.stringify(ids), now, now + minutes * 60_000, ids.length],
       tx,
     );
-    return res.lastInsertRowid;
+    return Number(created!.id);
   });
 }
 
@@ -352,7 +353,10 @@ type QuestionRow = {
 
 async function loadQuestions(ids: number[]) {
   if (ids.length === 0) return [];
-  const rows = await all("SELECT * FROM questions WHERE id IN (SELECT value FROM json_each(?))", [JSON.stringify(ids)]);
+  const rows = await all(
+    "SELECT * FROM questions WHERE id IN (SELECT value::int FROM jsonb_array_elements_text(?::jsonb))",
+    [JSON.stringify(ids)],
+  );
   const byId = new Map<number, QuestionRow>(
     rows.map((r) => [
       Number(r.id),
@@ -514,8 +518,8 @@ async function getTopicScores(candidateId: number) {
     all(
       `SELECT q.topic, COUNT(*) AS total, SUM(CASE WHEN aa.choice = q.answer THEN 1 ELSE 0 END) AS correct
        FROM attempts a
-       JOIN json_each(a.question_ids) j
-       JOIN questions q ON q.id = j.value
+       CROSS JOIN LATERAL jsonb_array_elements_text(a.question_ids::jsonb) AS j(value)
+       JOIN questions q ON q.id = j.value::int
        LEFT JOIN attempt_answers aa ON aa.attempt_id = a.id AND aa.question_id = q.id
        WHERE a.candidate_id = ? AND a.submitted_at IS NOT NULL
        GROUP BY q.topic`,

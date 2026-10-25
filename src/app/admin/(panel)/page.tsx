@@ -71,7 +71,7 @@ export default async function AdminOverviewPage() {
       </div>
 
       <div className="mt-6 grid gap-4 sm:grid-cols-3">
-        <QuickLink href="/admin/tests" title={`${o.tests} tests`} body={`${o.bank} questions in all`} />
+        <QuickLink href="/admin/tests" title={`${o.tests} tests`} body={`${o.bank.toLocaleString()} questions in the bank`} />
         <QuickLink href="/admin/candidates" title="Candidates" body="Edit access, reset attempts" />
         <QuickLink href="/admin/feedback" title={`${o.feedbacks} feedback`} body="Read what candidates say" />
       </div>

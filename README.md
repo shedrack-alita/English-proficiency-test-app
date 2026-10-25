@@ -12,57 +12,49 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000. Locally the app uses a SQLite file at `data/eptprep.db`, created and
-seeded automatically on first request. Delete the `data/` folder to start fresh.
+Open http://localhost:3000. Locally the app uses **PGlite**, a real Postgres database that runs
+inside Node and is stored in `data/pglite/`. It is created and seeded automatically on the first
+request, so no database server is needed. Stop the dev server and delete the `data/` folder to
+start fresh. To use your Neon database locally instead, put `DATABASE_URL` in `.env.local`.
 
-## Deploy to Netlify
+## Deploy to Vercel (with Neon)
 
-Netlify runs the app as serverless functions, which can't keep a database file, so the hosted
-site stores its data in **Turso** (hosted SQLite, free tier). The tables and the 1,000 built-in
+Vercel runs the app as serverless functions, which can't keep a database on disk, so the hosted
+site stores its data in **Neon** (hosted Postgres, free tier). The tables and the 1,000 built-in
 questions are created automatically on the first request.
 
-**1. Create the database (Turso)**
+**1. Create the database (Neon)**
 
-1. Sign up at https://turso.tech and create a database (any name, e.g. `eptprep`, nearest region).
-2. On the database page, copy the **URL** (`libsql://…turso.io`) and create a **token**.
+1. Sign up at https://neon.tech and create a project (pick the region nearest your users).
+2. On the project dashboard, click **Connect** and copy the connection string
+   (`postgresql://…neon.tech/neondb?sslmode=require`).
 
-**2. Create the Netlify site and set its environment variables**
+**2. Create the Vercel project**
 
-From this folder (`cbt-web`):
+1. Import the GitHub repository at https://vercel.com/new. Vercel detects Next.js.
+2. If the app sits in a subfolder of the repository, set **Root Directory** to `cbt-web`.
+3. Under **Environment Variables**, add the variables below, then deploy.
 
-```bash
-npx netlify-cli login
-npx netlify-cli sites:create --name eptprep
-npx netlify-cli link --name eptprep
-npx netlify-cli env:set TURSO_DATABASE_URL "libsql://your-db-your-org.turso.io"
-npx netlify-cli env:set TURSO_AUTH_TOKEN "your-token"
-npx netlify-cli env:set EPT_SECRET "$(node -e "console.log(require('crypto').randomBytes(32).toString('hex'))")"
-npx netlify-cli env:set EPT_ADMIN_PASSWORD "choose-a-strong-admin-password"
-```
+Vercel's Neon integration (Storage tab) can also create the database and set `DATABASE_URL`
+for you; the app accepts `DATABASE_URL` or `POSTGRES_URL`.
 
-(The site name must be unique on Netlify; pick another if `eptprep` is taken. You can also set the
-three variables in the Netlify UI under Site configuration → Environment variables.)
-
-**3. Deploy**
+To generate `EPT_SECRET`:
 
 ```bash
-npx netlify-cli deploy --build --prod
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```
 
-The command prints the live URL (e.g. `https://eptprep.netlify.app`) to share with students.
-
-If you deploy from a Git repository instead, set the site's **Base directory** to `cbt-web`; the
-build settings come from `netlify.toml`.
+Every push to the main branch redeploys the site. Netlify works the same way (set the same
+variables; `netlify.toml` holds the build settings).
 
 ### Environment variables
 
 | Variable | Needed | Purpose |
 | --- | --- | --- |
-| `TURSO_DATABASE_URL` | Hosted | Turso database URL. Unset locally → `data/eptprep.db`. |
-| `TURSO_AUTH_TOKEN` | Hosted | Turso database token. |
+| `DATABASE_URL` | Hosted | Neon connection string. Unset locally → PGlite in `data/pglite`. |
 | `EPT_SECRET` | Hosted | Long random string that signs login cookies. Locally one is generated into `data/.secret`. |
-| `EPT_ADMIN_PASSWORD` | Recommended | Initial admin password, used when the database is first created (default `admin123`). |
-| `EPT_DB_PATH` | Optional | Local SQLite file location. |
+| `EPT_ADMIN_PASSWORD` | Recommended | Initial admin password, used when the database is first set up (default `admin123`). |
+| `EPT_DB_PATH` | Optional | Local PGlite folder. |
 
 ## Admin panel
 
@@ -167,12 +159,11 @@ never touched.
 ```
 src/app/                 pages (landing, sign-up, login, dashboard, tests, results, feedback, exam, admin)
 src/app/actions.ts       server actions (sign-up, sign-in, start/save/submit attempt, feedback)
-src/lib/db.ts            schema and libSQL connection (Turso when hosted, file locally)
+src/lib/db.ts            Postgres schema and connection (Neon when hosted, PGlite locally)
 src/lib/seed.ts          seeds the built-in tests from src/lib/seed-data/bank.json
 src/lib/admin-data.ts    admin queries (overview, sign-ups, tests, questions, candidates, results)
 content/bank/            question source files; scripts/build-bank.mjs turns them into bank.json
 src/lib/data.ts          queries, scoring and attempt rules
 src/lib/session.ts       signed-cookie sessions
 ```
-#   E n g l i s h - p r o f i c i e n c y - t e s t - a p p  
- 
+# English-proficiency-test-app
