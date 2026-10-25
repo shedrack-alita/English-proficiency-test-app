@@ -1,0 +1,173 @@
+# "English Placement Test" with its published solutions (PDF supplied by the EPTPREP owner).
+# Each item printed three choices; EPTPREP adds a fourth wrong choice so items fit the four-option format.
+# The two continuous texts (items 21-50 and 66-90) are presented as cloze passages. Explanations and tips: EPTPREP.
+@source English Placement Test (with published solutions)
+
+@topic Tense and Aspect
+@instruction Choose the correct answer to complete the sentence.
+@tip General truths and facts take the present simple ("Water boils at 100°C").
+Water ____ at a temperature of 100°C. | is to boil | is boiling | *boils | boiled || A scientific fact is expressed with the present simple: "boils".
+@topic Lexis and Structure
+@tip Weather statements use "it" as a dummy subject: "It is very hot", "It rains".
+In some countries ____ very hot all the time. | there is | is | *it is | they are || Statements about weather need the dummy subject "it": "it is very hot".
+@tip To express purpose, use "to" + verb (the infinitive of purpose), not "for to" or "for -ing".
+In cold countries people wear thick clothes ____ warm. | for keeping | *to keep | for to keep | keeping for || Purpose is expressed with the infinitive: "to keep warm".
+@tip "The weather" takes the definite article when we mean the weather in general conversation.
+In England people are always talking about ____. | a weather | *the weather | weather | weathers || We talk about "the weather"; "weather" is uncountable and takes "the" here.
+In some places ____ almost every day. | *it rains | there rains | it raining | rains it || Weather verbs take the dummy subject "it": "it rains".
+@tip "Any" is used in negative sentences and questions; "some" in positive statements.
+In deserts there isn't ____ grass. | the | some | *any | no || In a negative sentence ("isn't"), use "any".
+@tip "Weather" is uncountable, so it never takes "a".
+Places near the Equator have ____ weather even in the cold season. | a warm | the warm | *warm | warms || "Weather" is uncountable, so no article: "warm weather".
+@tip Superlatives take "the": the coldest, the best, the most important.
+In England ____ time of year is usually from December to February. | coldest | *the coldest | colder | most cold || A superlative referring to one particular period takes "the": "the coldest time".
+@tip "Most people" (general) has no "of"; "most of the people" (a specific group) needs "of the".
+____ people don't know what it's like in other countries. | The most | Most of | *Most | Mostly || "Most people" refers to people in general and needs no "of".
+@tip "Few" goes with countable plurals (people), "little" with uncountables; "very less" is not English.
+Very ____ people can travel abroad. | less | little | *few | fewer of || "People" is countable, so "very few people".
+@topic Tense and Aspect
+@tip A finished event at a stated past time (in 1960) takes the past simple, not the present perfect.
+Mohammed Ali ____ his first world title fight in 1960. | has won | *won | is winning | had been winning || A completed event at a definite past time ("in 1960") takes the past simple.
+@tip For an action completed before another past action, use the past perfect ("had won").
+After he ____ an Olympic gold medal he became a professional boxer. | *had won | have won | was winning | has won || Winning the medal happened before he became a professional, so the past perfect "had won".
+@topic Lexis and Structure
+@tip "Make someone do something" takes the bare infinitive (no "to").
+His religious beliefs ____ his name when he became champion. | have made him | made him to change | *made him change | made him changing || "Make" + object + bare infinitive: "made him change".
+@topic Tense and Aspect
+@tip Third conditional (unreal past): "If + had + past participle, ... would have + past participle".
+If he ____ his first fight with Sonny Liston, no one would have been surprised. | has | would have | *had | has had || The main clause "would have been" signals the third conditional, so "if he had lost".
+@topic Lexis and Structure
+@tip "Both ... and" is a correlative pair; don't mix it with "or".
+He has travelled a lot ____ as a boxer and as a world-famous personality. | *both | and | or | either || "Both ... and" introduces two parallel items: both as a boxer and as a personality.
+He is very well known ____ the world. | all in | *all over | in all | over all || The idiom is "all over the world".
+@topic Tense and Aspect
+@tip Verbs of belief and opinion (believe, know, think) are not normally used in the continuous form.
+Many people ____ he was the greatest boxer of all time. | is believing | are believing | *believe | believes || "Believe" is a stative verb and takes the simple form; "many people" is plural.
+@topic Lexis and Structure
+@tip After a superlative, use "in" for places or groups: "the best in the world".
+To be the best ____ the world is not easy. | from | *in | of | at || After a superlative, "in" is used with a place: "the best in the world".
+@tip "Must" has no past form; use "had to" for past obligation.
+Like any top sportsman, Ali ____ train very hard. | *had to | must | should | ought || The sentence describes a past necessity, and "must" has no past form, so "had to".
+@topic Tense and Aspect
+@tip "Will" expresses a prediction about the future.
+Even though he has now lost his title, people ____ always remember him as a champion. | would | *will | did | have || A confident prediction about the future takes "will".
+
+@topic Collocation
+@instruction Choose the best option for each numbered blank in the passage.
+@tip In a cloze passage, check grammar (tense, articles, relative pronouns) as well as meaning. Read the sentences before and after each blank.
+@passage
+The history of (21) is (22) short one. For many centuries men (23) to fly, but with (24) success. In the 19th century a few people succeeded (25) in balloons. But it wasn't until the beginning of (26) century that anybody (27) able to fly in a machine (28) was heavier than air, in other words, in (29) we now call a "plane". The first people to achieve "powered flight" were the Wright brothers. (30) was the machine which was the forerunner of the jumbo jets and supersonic airliners that are (31) common sight today. They (32) hardly have imagined that in 1969, (33) more than half a century later, a man (34) landed on the moon.
+
+Already (35) is taking the first steps towards the stars. Although space satellites have existed (36) less than forty years, we are now dependent (37) them for all kinds of (38). Not only (39) being used for scientific research in space, but also to see what kind of weather (40). By 1998 there (41) have been satellites in space for forty years, and the "space superpowers" are planning to (42) massive space stations built. When these (43) completed it will be the first time (44) astronauts will be able to work in space in large numbers. (45) all that, in many ways the most remarkable flight (46) all was (47) of the flying bicycle, which the world saw on television, (48) across the Channel from England to France, with nothing (49) a man to power it. As the bicycle-flyer said, "It's the first time (50) what hard work it is to be a bird!"
+@end
+Choose the best option for blank (21). | aeroplane | *the aeroplane | an aeroplane | aeroplanes the || A singular countable noun used for the whole class of machines takes "the": "the history of the aeroplane".
+Choose the best option for blank (22). | *quite a | a quite | quite | a quiet || The word order is "quite a short one".
+Choose the best option for blank (23). | are trying | try | *had tried | have try || The trying happened over centuries before the 20th century, so the past perfect "had tried".
+Choose the best option for blank (24). | *little | few | a little | less of || "Success" is uncountable, and "but with ... success" is negative, so "little" (hardly any).
+Choose the best option for blank (25). | to fly | *in flying | into flying | for fly || The pattern is "succeed in doing something".
+Choose the best option for blank (26). | *this | next | that | these || The writer means the 20th century, the century in which the text was written: "this century".
+Choose the best option for blank (27). | were | is | *was | are || "Anybody" is singular and the time is past, so "was".
+Choose the best option for blank (28). | who | *which | what | whom || "Which" refers to a thing (the machine) in a relative clause.
+Choose the best option for blank (29). | who | which | *what | that || "What" means "the thing that": "in what we now call a plane".
+Choose the best option for blank (30). | His | Their | *Theirs | There || "Theirs" (their machine) is a possessive pronoun standing alone.
+Choose the best option for blank (31). | such | *such a | so | so a || "Sight" here is countable and singular: "such a common sight".
+Choose the best option for blank (32). | *could | should | couldn't | can || "Could hardly" is already negative in meaning; "couldn't hardly" would be a double negative.
+Choose the best option for blank (33). | *not much | not many | no much | not so || "Not much more than half a century" refers to an amount of time.
+Choose the best option for blank (34). | will be | had been | *would be | is || The future seen from the past ("they could hardly have imagined that ... ") takes "would be".
+Choose the best option for blank (35). | a man | *man | the man | men the || "Man" without an article means humankind in general.
+Choose the best option for blank (36). | since | during | *for | from || "For" + a length of time: "for less than forty years".
+Choose the best option for blank (37). | from | of | *on | to || The adjective "dependent" takes "on".
+Choose the best option for blank (38). | informations | *information | an information | information's || "Information" is uncountable: no plural, no "an".
+Choose the best option for blank (39). | *are they | they are | there are | are there || After "Not only" at the start of a clause, the subject and verb are inverted: "not only are they being used".
+Choose the best option for blank (40). | *is coming | comes | coming | come || The weather on its way is described as happening now: "what kind of weather is coming".
+Choose the best option for blank (41). | would | must | *will | shall to || "By 1998 there will have been" is the future perfect, looking ahead from the time of writing.
+Choose the best option for blank (42). | *have | make | let | get to || The causative pattern is "have something built".
+Choose the best option for blank (43). | will be | *are | will have been | were || In a future time clause after "when", English uses the present: "when these are completed".
+Choose the best option for blank (44). | when | where | *that | which || After "the first time", English uses "that": "the first time that astronauts will be able ...".
+Choose the best option for blank (45). | Apart | *For | Except | Beside || "For all that" means "in spite of all that".
+Choose the best option for blank (46). | *of | above | at | from || "The most remarkable flight of all" uses "of" after a superlative with "all".
+Choose the best option for blank (47). | it | *that | that one | this one || "That of the flying bicycle" means "the flight of the flying bicycle".
+Choose the best option for blank (48). | *flying | to fly | fly | flown || After "saw (something)", the -ing form describes the action in progress: "saw ... flying".
+Choose the best option for blank (49). | apart | *but | than | except of || "Nothing but" means "only": nothing but a man to power it.
+Choose the best option for blank (50). | I realize | *I've realized | I am realizing | I realized || After "It's the first time", English uses the present perfect: "I've realized".
+
+@topic Lexis and Structure
+@instruction Choose the correct answer to complete the sentence.
+@nopassage
+@tip "Say" is not followed by a personal object ("say that"); "tell" is ("tell someone that").
+Many teachers ____ their students should learn a foreign language. | say to | *say | tell | speak || "Say" takes a clause directly ("say (that) their students should ..."); "tell" would need an object and "that".
+@tip The pattern is "the same as", not "the same like" or "the same than".
+Learning a second language is not the same ____ learning a first language. | *as | like | than | to || "The same" is followed by "as".
+It takes ____ to learn any language. | long time | long | *a long time | the long time || The expression is "it takes a long time".
+@tip Superlatives of short adjectives use "-est": hard, harder, the hardest.
+It is said that Chinese is the world's ____ language to master. | harder | *hardest | more hard | most hard || A superlative is needed: "the world's hardest language".
+@tip "Which" or "that" introduces a relative clause about things; "who" is for people.
+English is quite difficult because of all the exceptions ____ have to be learnt. | who | *which | what | whom || "Which" refers to the exceptions (things).
+@tip "Be willing to" expresses readiness; "want" is rarely used in the continuous form.
+You can learn the basic structures of a language quite quickly, but only if you ____ make an effort. | are wanting | will to | *are willing to | willing || "Are willing to" means "are ready to".
+@tip "Be used to" (accustomed to) is followed by an -ing form.
+A lot of people aren't used ____ grammar in their own language. | to the study | to study | *to studying | studying || After "be used to", use the -ing form: "used to studying".
+@tip "Wish" about the past takes the past perfect: "I wish I had started earlier".
+Many adult students wish they ____ their language studies earlier. | would start | would have started | *had started | have started || A wish about a past situation takes the past perfect.
+@tip "On one's own" means alone, without help.
+In some countries students have to spend a lot of time working ____ their own. | *on | by | in | for || The idiom is "on their own".
+There aren't ____ easy ways of learning a foreign language in your own country. | no | *any | some | none || "Aren't" is already negative, so "any" (not "no").
+@tip "Listen" needs "to" before its object; "hear" does not.
+Some people try to improve their English by ____ the BBC World Service. | hearing | listening | *listening to | hearing to || "Listen" takes "to" before an object.
+@tip A gerund (-ing form) can be the subject of a sentence.
+____ with a foreign family can be a good way to learn a language. | Live | Life | *Living | To living || The subject is a gerund: "Living with a foreign family".
+@tip "It's no use" is followed by an -ing form.
+It's no use ____ to learn a language just by studying a dictionary. | to try | *trying | in trying | try || The expression is "it's no use doing something".
+@tip "Would rather" is followed by the bare infinitive; the negative is "would rather not".
+Many students ____ take tests. | *would rather not | would rather prefer not | would rather not to | would not rather || The negative of "would rather" is "would rather not" + base verb.
+@tip "It's time" + past tense means "it should happen now".
+Some people think it's time we all ____ a single international language. | learn | should learn | *learnt | had learnt || After "it's time we ...", the past simple is used for the present.
+
+@topic Collocation
+@instruction Choose the best option for each numbered blank in the passage.
+@tip Watch the time markers in a narrative: "in 1988" takes the past simple, "ever since" the present perfect continuous, "by the time" the future perfect.
+@passage
+Charles Walker is a teacher at a school in Norwich. He (66) the staff of the school in 1988 and (67) there ever since. Before (68) to Norwich, he taught in Italy and in Wales, and before that he (69) a student at Cambridge University. So far he (70) in Norwich for as long as he was in Wales, but he likes the city a lot and (71) like to stay there for at least another two years, or, (72) he puts it, until his two children (73) grown up a bit. He met his wife, Kate, in 1982 while he (74) abroad for a while, and they got married in 1986. Their two children, Mark and Susan, (75) both born in Norwich. Mark, (76) is four, has just started at nursery school, but (77) sister (78) at home for another couple of years, because she is nearly two years (79) than him.
+
+Charles and Kate (80) to live in the country, but now they have children, they (81) into the city. Charles wanted a house (82) the school (83) get to work easily. Unfortunately, (84) one the two of them really wanted was too expensive, so they (85) buy one a bit further away. By the time the children (86) to secondary school, (87) Charles and Kate hope will be in Norwich, the Walkers (88) living there for at least fifteen years. They can't be sure if they (89), but if they (90), their friends won't be too surprised.
+@end
+Choose the best option for blank (66). | has joined | *joined | joins | was joining || "In 1988" is a finished past time, so the past simple "joined".
+Choose the best option for blank (67). | *has been working | worked | works | was working || "Ever since" links the past to now, so the present perfect continuous.
+Choose the best option for blank (68). | move | to move | *moving | moved || After the preposition "before", use the -ing form.
+Choose the best option for blank (69). | has been | *was | was being | is || A completed past state: "he was a student".
+Choose the best option for blank (70). | isn't | wasn't | *hasn't been | hadn't been || "So far" refers to the time up to now, so the present perfect.
+Choose the best option for blank (71). | should | *would | could | will || The polite expression of a wish is "would like".
+Choose the best option for blank (72). | how | which | *as | like || The idiom is "as he puts it".
+Choose the best option for blank (73). | *have | will have | will be | had || In a future time clause after "until", the present perfect: "until his children have grown up".
+Choose the best option for blank (74). | was to live | *was living | had been living | lived || The meeting interrupted a longer temporary situation: past continuous "was living".
+Choose the best option for blank (75). | are | *were | have been | was || Being born happened in the past: "were born".
+Choose the best option for blank (76). | *who | which | he | whom || "Who" introduces a non-defining relative clause about a person.
+Choose the best option for blank (77). | *his | their | her | its || The sister belongs to Mark, so "his sister".
+Choose the best option for blank (78). | shall stay | stays | *will be staying | stayed || A planned arrangement over a future period: "will be staying".
+Choose the best option for blank (79). | *younger | more young | the younger | youngest || The comparative of "young" before "than" is "younger".
+Choose the best option for blank (80). | are used | use | *used | were used || "Used to + verb" describes a past habit or state that no longer exists.
+Choose the best option for blank (81). | *have moved | move | moved | had moved || A past action with a present result ("now they have children"): present perfect.
+Choose the best option for blank (82). | next | *near | close | nearby || "Near the school"; "next" and "close" would need "to".
+Choose the best option for blank (83). | in order | for | *to | so || "To get to work easily" expresses purpose ("in order" would need "to").
+Choose the best option for blank (84). | *the | a | that | an || "The one (that) the two of them really wanted" is a specific house.
+Choose the best option for blank (85). | must | should | *had to | ought || A past necessity: "had to buy".
+Choose the best option for blank (86). | *go | will go | will have gone | went || In a future time clause after "by the time", the present simple is used.
+Choose the best option for blank (87). | that | *which | what | who || A non-defining relative clause after a comma uses "which".
+Choose the best option for blank (88). | *will have been | have been | will be | had been || "By the time ..." with a duration looks back from a future point: future perfect continuous "will have been living".
+Choose the best option for blank (89). | stay | do stay | *will stay | stayed || In an indirect question after "if" (= whether), the future "will stay" is normal.
+Choose the best option for blank (90). | *don't | didn't | won't | wouldn't || In a first conditional "if" clause, the present simple: "if they don't".
+
+@topic Tag Questions
+@instruction Choose the correct question tag.
+@nopassage
+@tip Work out the auxiliary in the statement (is, has, will, would, had) and repeat it in the tag with the opposite polarity. "'s" can be "is" or "has": check the next word.
+John's coming to see you, ____? | hasn't he | wasn't he | *isn't he | doesn't he || "John's coming" = "John is coming", so the tag is "isn't he?"
+It's been a long time since you've seen him, ____? | *hasn't it | isn't it | haven't you | wasn't it || "It's been" = "it has been", so the tag is "hasn't it?"
+He's due to arrive tomorrow, ____? | won't he | *isn't he | will he | doesn't he || "He's due" = "he is due", so the tag repeats "is": "isn't he?"
+He won't be getting in till about 10.30, ____? | isn't he | is he | *will he | won't he || The statement is negative ("won't"), so the tag is positive: "will he?"
+You met him while you were on holiday, ____? | *didn't you | weren't you | haven't you | don't you || "Met" is past simple, so the tag uses "did": "didn't you?"
+I think I'm expected to pick him up, ____? | *aren't I | don't I | are you | am I || The tag follows the reported clause "I'm expected", so "aren't I?"
+No doubt you'd rather he stayed in England now, ____? | didn't you | *wouldn't you | shouldn't you | hadn't you || "You'd rather" = "you would rather", so the tag is "wouldn't you?"
+Nobody else has been told he's coming, ____? | is he | has he | *have they | haven't they || "Nobody" makes the statement negative, so the tag is positive, and it takes "they": "have they?"
+We'd better not stay up too late tonight, ____? | didn't we | have we | *had we | hadn't we || "We'd better" = "we had better"; the statement is negative, so "had we?"
+I suppose it's time we called it a day, ____? | didn't we | *isn't it | don't I | wasn't it || The tag follows the main idea "it's time", so "isn't it?"

@@ -1,0 +1,168 @@
+# United Nations Language Proficiency Examination, English: Practice Examination (PDF supplied by the EPTPREP owner).
+# Reading comprehension, vocabulary and grammar sections. The PDF has no answer key: answers were worked out by EPTPREP;
+# item 51 is left out (two options acceptable). Listening items need audio and are left out. Explanations and tips: EPTPREP.
+@source UN Language Proficiency Examination (English) practice paper
+
+@topic Comprehension
+@instruction Read the passage and choose the response that most accurately agrees with what you have read.
+@tip Pick the option that is directly supported by the text. Options that are partly true, too extreme ("all", "never") or not mentioned are traps.
+@passage
+The potato, like other root crops, has an unearned reputation in some countries as an inferior food, or a poor person's staple. While roots are the main ingredient of the diet of half a million people, the potato's nutritive content of protein, fibre, minerals, and vitamins B1, B2 and C hardly makes it inferior. Medical researchers report that potatoes are even better than milk for malnourished children, who often cannot digest milk. Potatoes provide a high-quality protein similar to that in dairy products. Unfortunately, the potato is still out of reach of a poor person's budget in many developing countries such as Indonesia and the Philippines.
+@end
+According to this passage, why might potatoes be better than milk for children who are improperly nourished? | Potatoes contain quite a bit of calcium. | Potatoes have more B vitamins than milk. | *These children often cannot assimilate milk. | These children often cannot find a supply. || The passage says malnourished children "often cannot digest milk"; "assimilate" means absorb or digest.
+The potato ____. | *does not deserve its bad reputation | is the main food for half a million people | is not available in many developing countries | can hardly be called nutritious || The potato's reputation is called "unearned", i.e. undeserved. Roots (not potatoes alone) feed half a million people, and potatoes are unaffordable, not unavailable.
+@passage
+"Anting" is a noun that is entering the language because of ornithologists, or bird watchers. Anting refers to an activity in which birds rub themselves with defence fluids or, sometimes, other bodily fluids of ants. In the past scientists thought anting had no function and that it was a vice like smoking or drinking. However, most ornithologists now think that birds use ant fluids to kill parasites. Among those ants that birds favour are the Azteca ants, which produce formic acid, a repellent so effective that it will drive off army ants. Birds often crash dive into Azteca nests and allow the insects to crawl all over their bodies, or they grasp them in their beaks and rub them through their feathers. The birds get such relief from their treatment that some appear to swoon and even lose their balance.
+@end
+"Anting" ____. | is an activity unique to bird watchers | refers to the killing of Azteca ants by parasites | *is a relatively new word in the English language | refers to the way ants defend themselves || The first sentence says "anting" is a noun "that is entering the language", so it is a new word.
+Birds sometimes dive into Azteca ant nests because ____. | they lose their balance as they enter | they are trying to kill the ants | *they are seeking relief from parasites | they are repelled by the Azteca ants || Ornithologists think birds "use ant fluids to kill parasites", and the birds "get such relief from their treatment".
+@passage
+Tall children score slightly higher on intelligence tests and perform somewhat better academically than their shorter classmates, perhaps because more is expected of them, researchers for a National Health Examination survey have found. The magnitude of the difference is not large, however, and certainly not worth giving children growth hormones to make them taller, said Dr. Darrell Wilson of Stanford University. He and his colleagues concluded there was a definite link between height and scores on tests of both intelligence and achievement. The association remained even after controlling for other factors, including socioeconomic status, birth order, family size and rate of physical maturity. Dr. Wilson said the difference was small but significant. The researchers based their findings on data from a study involving nearly 14,000 children from six to 17 years old.
+@end
+One cause the researchers suggested for the connection between height and test scores was the tall children's ____. | greater rate of physical maturity | increased growth hormone production | *response to greater expectations | general health and better nutrition || The researchers suggest tall children do better "perhaps because more is expected of them".
+The researchers found that the difference between the test scores of tall and short children ____. | can be linked to socioeconomic status | *is meaningful although it is small | appears to be inexplicable | is worthless for measuring intelligence || Dr Wilson said "the difference was small but significant"; the link remained after controlling for socioeconomic status.
+@passage
+Worker involvement in the protection of health at work is gaining ground in the European Economic Community (EEC), where most States have overhauled their national laws on job safety during the past decade. Today, worker representatives should be informed and consulted on health and safety matters and they are entitled in one way or another to inspect workplaces and investigate accidents. The watchdog role is assigned to statutory work councils, safety delegates and voluntary bodies. But what rights do EEC workers actually enjoy, and how much real use have they made of them? A study of these questions recently published by the ILO reveals a chequered picture of greatly varying approaches and degrees of success.
+@end
+In this passage the author suggests that ____. | statutory work councils have done a great deal to protect worker health and safety | most States in the EEC have taken a similar approach to worker safety | *the results of worker involvement in health protection have been uneven | worker groups do not have enough power to enforce safety laws || The study reveals "a chequered picture of greatly varying approaches and degrees of success", i.e. uneven results.
+@passage
+The Pronunciation Research Unit, which is made up of three linguists and a clerk, is charged with upholding the standard of spoken language at the British Broadcasting Corporation (BBC). Today, the unit concerns itself mostly with proper nouns, leaving ordinary vocabulary and grammar to the discretion of the announcers, who deliver the 2,000 hours of BBC broadcasting each week. Though many still speak the Queen's English, or the plummy, southern English known as Received Pronunciation, there is a good deal of room for variation now.
+@end
+The author suggests that ____. | the BBC broadcasters have learned to be very discreet | the pronunciation of people from the south of England is changing | nouns are the least problematic in terms of pronunciation | *accents other than Received Pronunciation are now acceptable || "There is a good deal of room for variation now": accents other than Received Pronunciation are accepted.
+@passage
+A long time back a reviewer ridiculed William Carlos Williams for saying one reason a poet wrote was to become a better person. I was fresh out of graduate school and I easily sided with the reviewer. But now I see Williams was right. I do not think Williams was advocating writing as therapy, nor the naive idea that after writing a poem one is less depraved. I believe Williams discovered that a lifetime of writing was a slow, accumulative way of accepting one's life as valid. We sweat through poem after poem to realize what dumb animals know by instinct and reveal in their behaviour: my life is all I have got. We are off to know ourselves, even if our method of learning is painfully convoluted.
+@end
+The author of this passage has come to realize the value of writing as ____. | *a means of coming to terms with your existence | an efficient way of understanding your true feelings | an aid to help you better understand your world | a potential therapy for your instinctive behaviour || Writing is "a slow, accumulative way of accepting one's life as valid", i.e. coming to terms with one's existence. The writer rejects the idea of therapy and calls the method "convoluted", not efficient.
+@passage
+There is a special kind of person who is more likely than most to take the first step to help and to stay with the effort to the end: the altruist. According to Dr. Staub, "There is a pattern of child-rearing that seems to encourage altruism in later years. A warm and nurturing relationship between parent and child is essential, but not enough in itself. The parents who transmit altruism most effectively exert a firm control over their children. Although they are nurturing, they are not permissive. They use a combination of firmness, warmth and reasoning. They point out to children the consequences to others of misbehaviour, and good behaviour. And they actively guide the child to do good, to share, to be helpful."
+@end
+This passage suggests that some adults have become altruists because their parents ____. | taught them to feel sorry for the less fortunate | encouraged them in later years | *were not only encouraging but also strict | taught them that misbehaviour deserves punishment || Effective parents are "nurturing" but "not permissive", combining "firmness, warmth and reasoning".
+@passage
+To many developing countries, tourism has appeared to be a bonanza, a source of precious foreign exchange, a stimulant to foreign investment in splendid hotels and a creator of employment in service industries. Now there are many second thoughts as the real cost in economic distortion and pollution of the social environment is totalled up.
+
+The distortion arises from land speculation in tourist areas, inflation of land values in principal cities and the unbalanced development that caters to the requirements of pleasure seekers from abroad as much as to the needs of the indigenous people. Roads, water supply and telecommunications are often designed with tourism primarily in mind. One critic estimates that infrastructural expenses of this kind, plus imports of luxury items to create creature comforts for visitors, consume more than two thirds of the foreign exchange derived from tourism.
+
+But such economic costs may well be less than the psycho-social impact. At a recent international conference, the mischief wrought by the tourist industry was frequently referred to as catastrophic, especially in those areas described in travel folders as "unspoilt paradises". The conferees agreed that all too often travel does not heighten understanding between peoples of different cultures but intensifies prejudices on both sides and, among the host people, creates imitation, frustration, loss of traditional authenticity, commercialized hospitality and xenophobia.
+
+This process has of course been observed before now, but it has been vastly accelerated by the speed, convenience and reach of the jet plane and by the economic feasibility of travel for masses of people. In Africa, for example, tourism is the most rapidly developing industry, with annual growth rates of 20 to 40 per cent in some countries. Moreover, the predominance of the packaged tour virtually precludes any real contact with local people and presents the traveller, not as an individual fellow human, but as a member of a closed party.
+
+Though developing countries may be the most vulnerable, no country is immune. This year it is expected that visitors to one small Mediterranean country will outnumber the country's total population. To accommodate them, the most beautiful parts of the country's coast have been converted into tawdry vacationlands which create monumental pollution. So pervasive are the tourists there that the natives often feel like strangers in their own land. Though it may be too late to save this country, is there anything that can be done for areas where the numbers are not yet so great? Better education of both tourists and hosts seems the only hope.
+@end
+According to the author of the text, tourism in developing countries ____. | has been an invaluable stimulant to economic development | *may not be as economically beneficial as was originally hoped | has had greater economic costs than psycho-social impact | has become a total social and economic disaster for all concerned || The first paragraph says there are "many second thoughts" as the real costs are totalled up; (d) is too extreme and (c) reverses the text.
+The development stimulated by tourism ____. | *has often not directly benefited the native inhabitants | has not produced any foreign revenue for the host countries | has not improved the infrastructure in most countries | has all been concentrated in the capital cities || Development "caters to the requirements of pleasure seekers from abroad as much as to the needs of the indigenous people", and infrastructure is designed "with tourism primarily in mind".
+Participants in a recent conference on tourism expressed the belief that ____. | places described as "unspoilt paradises" are not the best areas for tourists | the lack of hospitality from host country people causes frustration in tourists | the economic costs of tourism are probably less than critics imply | *tourism does little to improve understanding between people of different countries || The conferees agreed that "travel does not heighten understanding between peoples of different cultures but intensifies prejudices".
+The author feels that the undesirable aspects of tourism ____. | are the biggest problem developing countries currently face | have been aggravated by too much contact between tourists and local people | *have been aggravated by the widespread availability of travel opportunities | can no longer be overcome by most of the Mediterranean countries || The process "has been vastly accelerated by ... the jet plane and by the economic feasibility of travel for masses of people". The text says packaged tours prevent contact, so (b) is wrong.
+The author says that people in one Mediterranean country ____. | have found their monuments to be polluted | *are apt to be outnumbered by tourists | have frequently had to move to arid vacationlands | have found themselves outnumbering tourists || Visitors to one small Mediterranean country "will outnumber the country's total population".
+@passage
+It is just before dawn and the garden cross spider is getting ready for another hot summer's day. It is still dark, and being cold-blooded, he is feeling rather chilly. But he gets up and eats a few key strands of his web, and then sets about spinning a new one to serve for the coming day.
+
+Theories abound as to why garden cross spiders (and most other web-building spiders) should find this seemingly pointless daily ritual necessary, and why they should do it in the cold pre-dawn. Researchers at Oxford University believe they have found at least part of the answer. The spiders are not eating their webs; they are drinking them.
+
+Water is a big problem for spiders. Their lungs must be kept moist, but they lose a lot of liquid during the course of the day. Hunting spiders can wander off for a drink if they are thirsty, but web-builders must stick around, as it were, for their prey. Worse still, their webs are generally built in exposed places: good for catching flies, but bad for getting dried out by the wind. Flies are juicy, and satisfy thirst as well as hunger, but if they are scarce, the spiders have a problem.
+
+The researchers found that the webs catch a lot of moisture, as well as flies. By eating its web, a spider can take up enough water to restore 10 per cent of its daily respiratory loss. Webs are consumed in the humid pre-dawn because this is when they are wettest. And, as a bonus, a web spun in the moist morning air is better able to soak up water for the following day.
+
+The water taken up by the spider silk also helps to capture prey. The glue with which spiders coat their webs is stickier when wet. Maximising the water content of the thread thus increases the chances of catching and keeping unwary flies. It also contributes to the extraordinary elasticity which allows a web to intercept flying insects without snapping.
+
+Spiders' webs are made from two different types of silk: structural and capture thread. Structural silk is rigid and gives the web strength. It is the capture silk that does the clever tricks. It can stretch without strain by up to four times its original length to absorb the momentum of an incoming fly. It then springs back without sagging when the strain is removed.
+
+The presence of water is crucial to these properties. The researchers had previously found that a liquid droplet on the stretched silk acts as a miniature windlass, reeling it back in by the power of its surface tension. They also knew that water was necessary for the capture web to be able to stretch in the first place. But they did not know why.
+
+So they enlisted the help of some chemists from Cambridge, who discovered that the capture web has regions of highly mobile molecules, more like a liquid than a solid. The chemists believe that these molecules are flexible "springs" connecting rigid crystalline regions of the silk. With a little more research, they should be able to work out the composition of both the flexible and the rigid units. Armed with this information, they might even be able to produce their own drinkable stretch material one day.
+@end
+Spiders' webs ____. | are eaten when it rains heavily | *are eaten for their water content | are less efficient when wet | absorb less moisture early in the day || The researchers concluded that spiders "are not eating their webs; they are drinking them".
+Which of the following is NOT cited as a reason why web-building spiders get thirsty? | They cannot leave their webs to look for water. | They frequently spin their webs in places unprotected from the wind. | A shortage of flies can leave them with insufficient moisture. | *They get very sticky after they have spun their webs. || The text mentions staying near the web, exposed sites and scarce flies. Stickiness refers to the glue on the web, not the spider, and is not a cause of thirst.
+The capture web ____. | *retains its elasticity after impact | can absorb a fly four times its own size | gives the web its main strength | does not break when the prey is removed || Capture silk "springs back without sagging when the strain is removed". It stretches to four times its length (not a fly four times its size), and structural silk gives strength.
+The word "it" in the phrase "reeling it back in" (paragraph 7) means ____. | a liquid droplet | *stretched silk | a miniature windlass | water || The droplet acts as a windlass "reeling it back in": what is reeled in is the stretched silk.
+The chemists from Cambridge ____. | discovered how to make even better stretch material | *discovered the existence of flexible and rigid units in the capture web | believe that the function of the flexible units is to stabilise the web | believe that the rigid crystalline areas could be made more flexible || They discovered regions of mobile molecules connecting rigid crystalline regions; they have not yet made a material.
+
+@topic Vocabulary in Context
+@instruction Select the word or group of words that best completes the sentence.
+@nopassage
+@tip Read the whole sentence for clues to meaning and tone, and check that the word also fits grammatically.
+The resolution was adopted for three ____ reasons. | *compelling | concentrate | corrosive | covetous || "Compelling" reasons are strong and convincing, which explains why the resolution was adopted.
+It is ____ that she reach the capital with the prisoner's pardon. | unimportant | *imperative | haphazard | fortunate || "Imperative" means vitally important; note the subjunctive "that she reach" after it.
+Because they did not want him to succeed, they made every effort to ____ his plans. | pursue | flaunt | prevent | *thwart || To "thwart" plans is to stop them from succeeding. "Prevent" needs a different structure ("prevent him from ...").
+John brought all the ____ he needed for the camping trip. | glare | *gear | gore | gleam || "Gear" is equipment for a particular activity.
+Several members of the department ____ her statement. | reformed | signified | *verified | informed || To "verify" a statement is to confirm that it is true.
+The development of microprocessors represents a great technological ____. | break-out | breakdown | break-up | *breakthrough || A "breakthrough" is an important discovery or development.
+She appeared to be ____ with troubles. | *burdened | buoyant | lauded | lucid || One is "burdened with" troubles (weighed down by them).
+The woman was shocked by the ____ details of the crime. | simple | pompous | unaffected | *lurid || "Lurid" details are shockingly vivid or sensational.
+This contract is ____; on no account can it be breached. | defining | fastening | tying | *binding || A "binding" contract is legally enforceable.
+@instruction Select the one word which is closest in meaning to the bold word in the sentence.
+@tip Replace the bold word with each option; the right one keeps the sentence's meaning unchanged.
+It is important that our organization help to **defray** the cost of the operation. | uncover | deter | *offset | determine || To "defray" a cost is to pay or offset it.
+When we reached the evacuation centre, the area was **ablaze**. | cleared out | *on fire | in distress | built up || "Ablaze" means burning fiercely.
+The report was concerned with the **prospects** of outer space exploration. | difficulties | costs | *possibilities | goals || "Prospects" are future possibilities.
+He is one of the most **emulated** photographers. | admired | rewarded | studied | *copied || To "emulate" someone is to imitate them, usually out of admiration.
+Susan paid the delivery man **grudgingly**. | *unwillingly | generously | dejectedly | quickly || "Grudgingly" means unwillingly or resentfully.
+The doctors in the emergency room are known to be **callous**. | friendly | concerned | *insensitive | methodical || "Callous" means showing no concern for others' feelings.
+This programme has resulted in greater **prosperity** for the farmers of the region. | adversity | *affluence | appreciation | autonomy || "Prosperity" is wealth and success: affluence.
+Were the diplomat's answers **candid**? | planned | *honest | silly | convincing || "Candid" means frank and honest.
+His report is **justly** famous for its approach to pollution. | simply | recently | only | *rightly || "Justly" famous means deservedly or rightly famous.
+The minister **withstood** all objections to the proposal. | denied | *resisted | answered | excused || To "withstand" is to resist successfully.
+
+@topic Lexis and Structure
+@instruction Select the one word or phrase that best completes the sentence.
+@tip Indirect (reported) questions keep statement word order: "He wondered why she persisted", not "why did she persist".
+He wondered ____. | why did she persist in making the error | *why she persisted in making the error | why did she persist to make the error | why she persisted to make the error || An indirect question uses statement word order, and "persist" takes "in" + -ing.
+@tip "Doubt it" is the standard short reply; "doubt so" and "don't think it" are not English.
+A: "Has the secretary finished typing the report?" B: "I ____, but I'll ask." | *doubt it | doubt so | don't think it | don't believe it || The idiomatic short answer is "I doubt it". (We say "I don't think so", not "I don't think it".)
+@tip "Due to" is the fixed phrase meaning "because of".
+Due ____ a shortage of textbooks, not everyone got a copy. | of | *to | at | from || The fixed phrase is "due to".
+@tip "The + comparative ..., the + comparative ..." expresses two things changing together.
+____ he gets, the less he exercises. | Older | As old as | As old | *The older || The double comparative pattern is "The older he gets, the less he exercises".
+@tip After "stop" meaning "pause in order to", use "to" + verb or (in American usage) "and" + verb.
+When you're in Richmond, take time to stop ____ the park. | having seen | *and see | seeing | for seeing || "Stop and see" means stop in order to see. "Stop seeing" would mean "no longer see".
+@tip "One of the" + superlative + plural noun: "one of the longest meetings".
+A: "Have the delegates finished their meeting?" B: "Yes, they have. It was one of the ____ on record." | *longest meetings | long meetings | most longest meeting | longest meeting || "One of the" takes a superlative and a plural noun.
+@tip Inversion after negative adverbs: "Seldom have I...", "Rarely do we..."
+Seldom ____ such a complicated problem. | I encountered | I have encountered | when I have encountered | *have I encountered || After "seldom" at the start, the auxiliary comes before the subject: "Seldom have I encountered".
+@tip The auxiliary "do" can replace a verb phrase to avoid repetition: "it always did so".
+When the family finally came to a decision, it always ____ so by consensus. | arrived | came to | *did | had || "Did so" replaces "came to a decision".
+@tip "Explain" takes the thing explained first and "to" before the person: "explain them to us".
+A: "Do you understand all the new policies?" B: "Yes, the director explained ____ yesterday afternoon." | *them all to us | to us all of them | us to all of them | us all of them || "Explain something to someone": "explained them all to us". "Explain us" is not English.
+@tip "Be credited with" (something achieved) is the fixed pattern.
+Galileo Galilei is credited ____ the construction of the first complete astronomical telescope. | by | *with | to | at || A person "is credited with" an achievement.
+@tip "On the other hand" is the fixed phrase for introducing a contrasting point.
+Making money is important. ____, being happy is important, too. | In another hand | On another hand | In the other hand | *On the other hand || The fixed expression is "on the other hand".
+@tip "Stop to do" = pause in order to do; "stop doing" = no longer do.
+A: "Did you go straight back to work after lunch?" B: "No, I stopped ____ a cheque at the bank." | cashing | *to cash | for cashing | for to cash || "Stopped to cash" means stopped in order to cash.
+@tip A gerund subject can have a possessive determiner: "Their getting into trouble...".
+____ into trouble caused the two boys' parents a lot of anxiety. | *Their getting | They're getting | They had got | Their having getting || A gerund phrase acts as the subject, with the possessive "their".
+@tip "Hope" about the future takes the present or "will": "I hope he won't".
+A: "Has the chairman received any orders yet?" B: "No, and I hope he ____." | has | would | wouldn't | *won't || "I hope he won't (receive any)" refers to the future.
+@tip "Couldn't have" + past participle expresses certainty that something was impossible in the past.
+You ____ at the concert. I was at home. | shouldn't have seen me | *couldn't have seen me | mightn't have seen me | mustn't have seen me || Because the speaker was at home, it was impossible: "couldn't have seen me".
+@tip "Look as if" or "look as though" is followed by a clause.
+It looks ____ you don't understand. | that | *as if | as | as like || "It looks as if" + clause expresses an impression.
+@tip In the double comparative, both halves take "the": "The more he was criticized, the less able he was".
+The more he was criticized, ____ he was to complete the task. | less able | the less able | less able to | *the less able to || The second half needs "the" and keeps the structure "able to complete": "the less able he was to complete".
+@tip "There have been many situations ..." uses existential "there".
+____ in my life when my first response was wrong. | Many situations have been | Many situations were | *There have been many situations | In many situations there are || Existence is expressed with "there have been".
+@tip Numbers like "million" take no -s after a specific number: "nine million people".
+____ live in the city and its suburbs. | *Nine million people | Nine millions people | Nine millions of people | Nine millions persons || After a specific number, "million" has no -s and no "of".
+@tip "Luggage", "baggage" and "information" are uncountable: use "much", not "many" or "several".
+Did he take ____ with him? | plenty luggage | lots of luggages | *much luggage | several luggages || "Luggage" is uncountable, so "much luggage".
+@tip Causative "have" + person + bare infinitive: "He has all the staff show their cards" (he makes them show them).
+A: "What does the security guard do to keep trespassers out of the building?" B: "He has ____ their identification cards." | all the staff shown | *all the staff show | shown all the staff | to show all the staff || Causative "have someone do something": "he has all the staff show their cards".
+@tip "Afterwards" means "after that" and stands alone at the end of a clause.
+Swimming is a great way to exercise, but it is not healthy to drink too much ____. | *afterwards | since | after all | following || "Afterwards" means "after swimming".
+
+@topic Tense and Aspect
+@instruction Select the one word or phrase that best completes the sentence.
+@tip "How long since X last ...?" uses the past simple for the last occasion.
+A: "How many weeks have passed since the committee last ____?" B: "I think it's been about three weeks." | has met | had met | *met | has been met || After "since ... last", the past simple names the last occasion: "since the committee last met".
+@tip Past perfect causative: "had had something done" before another past event.
+Tony ____ his car painted just before he wrecked it. | has had | *had had | has have | had have || The painting happened before the past event "wrecked", so the past perfect "had had".
+@tip In future time clauses ("when", "after", "as soon as"), use the present tense.
+When I ____ home, I'll call you. | will get | got | *get | gets || After "when" referring to the future, English uses the present simple.
+@tip The future perfect ("will have completed") describes an action finished before a future point.
+We ____ this work by the time Mr. Stahl returns tomorrow. | would complete | will have been completing | will be completing | *will have completed || "By the time ... tomorrow" points to completion before a future moment: future perfect.
+@tip "Had + subject + past participle" is an inverted third conditional (= "If she had ...").
+____, she would have made the train. | If she hurried | Hadn't she hurried | She hurried | *Had she hurried || "Had she hurried" = "If she had hurried", matching "would have made".
+@tip "Wish" about the past takes the past perfect.
+I wish I ____ to travel with the rest of the group. | am able | *had been able | have been able | will be able || A wish about a past situation takes the past perfect: "had been able".
+She has often wished she ____ advantage of her parents' offer to see her through college. | *had taken | should have taken | ought to take | would have taken || A wish about the past takes the past perfect: "had taken".
+@tip "Just" with the present perfect describes something that happened very recently.
+A: "Did the meeting end long ago?" B: "No, it ____." | had just ended | has just been ending | *has just ended | was still ending || "Has just ended" means it ended a moment ago.

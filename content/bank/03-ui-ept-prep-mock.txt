@@ -1,0 +1,313 @@
+# "UI EPT Preparation Mock" by the UI Proficiency in English test tutorial group (PDF supplied by the EPTPREP owner).
+# Answers follow the group's key ("*"), re-checked by EPTPREP. Explanations and tips: EPTPREP.
+# Changes from the PDF:
+#  - Key corrected: Concord Q12 (is, not has); Parallelism Q11 (a, not d). Mechanics Q5 had no key (answer: occasion).
+#  - Left out: Discourse Q25 (missing), Concord Q30, Mechanics Q22, Q23, Q25, Q27, Stylistic Q17, Parallelism Q19,
+#    SBE Q19 and Q23, Collocation Q4 and Q25 (no option is acceptable, or the key is unclear).
+#  - Spelling items that printed the correct option twice get a different misspelling in place of the repeat.
+#  - Capitalisation items with three options get a fourth mis-capitalised option.
+#  - Tutors' names and contact details are removed from the passages.
+@source UI EPT Preparation Mock (tutorial group)
+
+@topic Discourse Reference
+@instruction From the options a-d, identify the word or expression that the bold word(s) connect with in each of the sentences below.
+@tip A pronoun can point forward (cataphora) as well as back (anaphora). Find the noun phrase that matches it in number and gender and makes sense when substituted.
+When I first laid eyes on **her**, I thought how beautiful Katy looked. | Beautiful Katy | *Katy | Beautiful | Her || "Her" points forward to the person named later in the sentence, Katy. "Beautiful" describes her but is not part of the name.
+The teacher went to the board and **he** wrote on it. | Board | *The teacher | He | He wrote || "He" refers back to the only person mentioned, the teacher.
+@tip An appositive or descriptive phrase after a colon or comma usually renames the subject of the sentence.
+The General was a man to be feared: **a merciless soldier** hated by all. | A man | A merciless soldier | *The General | Hated by all || "A merciless soldier" renames the subject of the sentence, the General.
+@tip In ellipsis, words are left out because they can be recovered from an earlier clause. Rebuild the full clause to see what the remaining word stands for.
+The younger child was very outgoing, the **older** much more reserved. | Older | Older child | The older | *Older child was || The second clause leaves out "child" and "was": "the older (child was) much more reserved", so the group's key gives "older child was".
+@tip "One" often substitutes for a countable noun already mentioned. Supply the noun it replaces.
+"Which ice-cream would you like?" "I would like the pink **one**." | One | *Ice cream | Pink | Pink one || "One" replaces the noun "ice-cream" from the question.
+@tip A pronoun can point forward (cataphora) as well as back (anaphora). Find the noun phrase that matches it in number and gender and makes sense when substituted.
+Here **he** comes, our award-winning host... it's John Doe! | Award winning host | *John Doe | He | Host || "He" points forward to the person finally named, John Doe.
+@tip In replies, a short phrase often stands for a full clause. Rebuild the full answer.
+Alfar: Where are you going? Shola: **To dance.** | *I am going to dance | To dance | Going to dance | Dance || "To dance" is a short answer that stands for the full clause "I am going to dance".
+@tip A pronoun usually refers back to the noun that matches it and makes sense in context.
+I dropped the ice cream because **it** was dirty. | I | *Ice cream | Dirty | It || What was dirty, and was dropped, is the ice cream.
+@tip Lexical cohesion: a writer may refer back with a synonym rather than a pronoun. Find the earlier word with the same meaning.
+Deb: Which dress are you going to wear? Ilerioluwa: I will wear my green **frock**. | Frock | Cloth | *Dress | Gown || "Frock" is a synonym that refers back to "dress" in the question.
+@tip A pronoun can point forward (cataphora) as well as back (anaphora). Find the noun phrase that matches it in number and makes sense when substituted.
+When **they** arrived at the house, all the participants were very tired. | They | People | Candidates | *Participants || "They" points forward to "the participants" in the main clause.
+@tip Words such as "all", "some" and "few" can stand for a noun already mentioned. Supply the noun.
+Ola: Did you enjoy the paintings? Ibukun: A lot were very good but not **all**. | *The paintings | A lot | Paints | All || "Not all" means "not all of the paintings".
+@tip A pronoun usually refers back to the noun that matches it in number and makes sense in context.
+Biodun is very proud of his Chihuahuas. I don't like **them**. | Biodun's | Them | *Chihuahuas | Very proud Chihuahuas || "Them" is plural and refers to the dogs, the Chihuahuas.
+@tip In ellipsis, part of a clause is left out because it can be recovered. Rebuild the full clause.
+I could tell you but **I won't**. | Will not | Could not | *I won't tell you | I will not do so || "I won't" leaves out "tell you", which is recovered from the first clause.
+@tip When two pronouns appear, match each to its antecedent: he/him for a male person, it/them for things.
+**James** likes **yellow apples**. **He** eats **them** every day. | James/he | Them/yellow apples | Yellow apples/James | *James/yellow apples || "He" refers to James and "them" to yellow apples, so the pair is James / yellow apples.
+@tip Place adverbs such as "there" and "here" refer to a place already mentioned.
+Ann is not going to Ukraine soon. Ann has just returned from **there**. | The country | There | Ann | *Ukraine || "There" refers to the place named, Ukraine.
+@tip A pronoun usually refers back to the noun that matches it in number and gender.
+Lucinda loathes the administration; **she** prefers lecturing. | She | Administration | *Lucinda | Loathes || "She" refers to Lucinda, the only female person mentioned.
+Ann has bought enough furniture for the room. Trust me, **they** are nice and beautiful. | *The furniture | They | Nice and beautiful | Trust me || "They" refers back to the furniture (strictly "furniture" is uncountable and takes "it", but the reference is clear).
+@tip Lexical cohesion: a general or summary noun ("the academic title", "the job") can refer back to a specific word used earlier.
+It is un-English to address my aunt as Chief Dr Mrs Okoro. I will advise you to use the **academic title**. | Chief Dr Mrs | Dr Mrs | Chief Dr | *Dr || Of the titles listed, the academic one is "Dr".
+@tip "One" often substitutes for a countable noun already mentioned. Supply the noun it replaces.
+My brother bought a new pair of trousers from the boutique to replace the tattered **one**. | Tattered | *Pair of trousers | Old one | Beautiful trouser || "One" substitutes for "pair of trousers".
+@tip Words such as "both", "either" and "neither" refer to two items already mentioned. Identify both.
+I can neither play the guitar nor blow the trumpet; Bukola can do **both**. | Two | Guitar | *Play the guitar and the trumpet | Play the both || "Both" refers to the two activities just mentioned: playing the guitar and the trumpet.
+@tip Some expressions only make sense once you work out the number they refer to. Do the arithmetic from the context.
+You've bought **one too many**; there are only three of us who need tickets. | Three tickets | *Four tickets | Five tickets | Six tickets || Three people need tickets, so "one too many" means four tickets were bought.
+@tip A pronoun usually refers back to the noun that matches it in number and gender.
+Tunji is a lucky man; finally, **he** has got a sinecure. | Job | Sinecure | He | *Tunji || "He" refers to Tunji.
+Government property belongs to all of us. We should not vandalise **it**. | Spoil it | *Government property | It | Vandalise it || "It" refers to "government property".
+Ibukunoluwa is busy; **he** has a lot to do. | Busy man | He | *Ibukunoluwa | Hardworking Ibukunoluwa || "He" refers to Ibukunoluwa. The other options add descriptions not in the text.
+@tip A pronoun can point forward (cataphora): "There it is, my bag."
+"There **it** is." My beautiful white bag. | White bag | Beautiful bag | *Beautiful white bag | My bag || "It" points forward to the full noun phrase that follows, "my beautiful white bag"; of the options, "beautiful white bag" matches it.
+@tip Quantifiers such as "a great many" stand for a noun phrase already mentioned.
+Most of the young men went off to the war, and **a great many** never came back. | Most of the warriors | Most of the fighters | *Most of the young men | Most of the muscular men || "A great many" refers back to the young men who went to war.
+@tip Lexical cohesion: a writer may refer back with a synonym or more specific word.
+The job didn't offer much; I actually took the **sinecure** for the betterment of my family. | *Job | Opportunity | Sinecure | Offer || "The sinecure" (a paid position with little work) refers back to "the job".
+@tip A pronoun usually refers back to the noun that matches it and makes sense in context.
+You can't get that book anywhere in this country; **it's** completely sold out. | Article | Novel | *Book | Hand out || "It" refers to "that book".
+You should not worry about the price of the drug; **it** is neither here nor there. | *Price of the drug | Price | Drug | It || What "is neither here nor there" (unimportant) is the thing you should not worry about: the price of the drug.
+
+@topic Concord
+@instruction Fill in the blank space in each of the following sentences with the most suitable word from the options.
+@tip Find the true subject first. "In addition to", "as well as", "including", "with" and "together with" add information but do not change the number of the subject.
+Their ability in addition to this opportunity ____ responsible for their success. | *is | was | were | have || The subject is "their ability" (singular); "in addition to this opportunity" is an added phrase. The present "is" fits a general statement.
+The student, as well as his parents, ____ invited to the party. | are | were | *is | has || The subject is "the student" (singular); "as well as his parents" does not make it plural.
+@tip With "neither ... nor" and "either ... or", the verb agrees with the nearer subject.
+Neither the boys nor the girl ____ to wash her feet before entering the church. | have | are | were | *has || The nearer subject is "the girl" (singular), and the pronoun "her" confirms it, so "has".
+@tip Third-person singular subjects take the -s form of the verb in the present simple; habits and today's actions are both in the present here.
+Although the lady always ____ in the sunshine for hours daily, she ____ in it longer than usual today. | *basks/basks | bask/basks | bask/bask | basks/bask || "The lady" and "she" are third-person singular, so both verbs take -s: basks/basks.
+@tip Subjects that are plural in meaning ("more than ten people") take a plural verb.
+More than ten people ____ the short-cut to success here. | takes | *know | have | has || "More than ten people" is plural, so the verb is the plural "know". "Takes" and "has" are singular.
+@tip "Either", "neither", "each" and "every" are singular.
+Either of them ____ suitable. | are | *is | were | as || "Either" means "one or the other" and takes a singular verb.
+@tip Find the true subject first. "Including", "as well as" and "together with" add information but do not change the number of the subject.
+Fikkie including Lekan ____ expected to score 95 percent in the EPT mock exam. | *is | are | has | have || The subject is "Fikkie" (singular); "including Lekan" is an added phrase.
+@tip "More than one" + singular noun takes a singular verb.
+More than one person ____ the short-cut to success. | know | *knows | take | has || "More than one person" is grammatically singular, so "knows".
+@tip "Each" and "every" make a subject singular, even when two nouns are joined by "and".
+Every file drawer and bookcase ____ searched for the documents. | were | *is | have been | are || "Every" makes the compound subject singular: every drawer and (every) bookcase is searched.
+@tip Collective nouns ("a group", "a team", "a class") usually take a singular verb when the group acts as one unit.
+A group of children from that school ____ not being cooperative. | have | has | *is | are || The head of the subject is "a group" (singular); "of children from that school" describes it.
+@tip When "part", "half", "some" or "all" + "of" is the subject, the noun after "of" decides the verb: uncountable or singular noun takes a singular verb.
+The best part of the stories ____ highlighted below. | are | has | *is | have been || The head noun is "part" (singular), so "is".
+@tip Distances, amounts of money and periods of time viewed as one quantity take a singular verb.
+One hundred kilometres ____ a gruelling commute. | are | *is | has | have || "One hundred kilometres" is one distance considered as a whole, so it takes the singular "is". (The PDF's key gave "has", which does not fit before "a gruelling commute".)
+@tip With "or" and "nor", the verb agrees with the nearer subject.
+The girl or her sisters ____ television every day. | watches | *watch | look | looks || The nearer subject is "her sisters" (plural), so "watch". "Look" is the wrong verb for television.
+@tip Find the true subject first. "With", "along with" and "together with" add information but do not change the number of the subject.
+The director with all the cast members ____ very strict and hard working. | were | *is | are | was || The subject is "the director" (singular), and the description is general (present tense), so "is".
+@tip Names of diseases ending in -s (rickets, measles, mumps) take a singular verb.
+Rickets ____ common in many parts of the world. | *is | are | have | has || "Rickets" is the name of a disease and is singular.
+@tip In "one of those ... who ...", the relative clause verb is plural (it refers to the plural noun); the main verb agrees with "one" or the subject.
+Lukgaf ____ one of the students who ____ mathematics is a prerequisite in tertiary institutions. | *is/believe | are/believes | was/believes | were/believe || "Lukgaf is" (singular subject); "who" refers to "the students" (plural), so "believe".
+@tip "All of" + uncountable noun takes a singular verb; "all of" + plural noun takes a plural verb.
+All of the work ____ finished. | *is | are | had | have || "Work" is uncountable, so "all of the work" takes the singular "is".
+@tip Find the true subject first. "With ..." phrases do not change the number of the subject.
+The lady with ten cats ____ in that big house. | sleep | *is | are | seat || The subject is "the lady" (singular); "with ten cats" describes her. "Is (in that big house)" means "lives/is located".
+@tip A collective noun takes a plural verb when its members are thought of individually; a plural pronoun ("their") is a clue.
+The Senate during their interactive session ____ to summon the President to the House. | decides | *decide | was | were || The plural pronoun "their" shows the senators are thought of as individuals, so the verb is plural: "decide".
+@tip Find the head noun of the subject: "The attitude of the people" is headed by "attitude".
+The attitude of the people ____ been encouraging. | are | *has | is | have || The head noun is "attitude" (singular), so "has (been)". "Is been" is not grammatical.
+@tip Subjects joined by "and" take a plural verb.
+Sons and daughters ____ won various awards. | *have | has | may | could || "Sons and daughters" is plural, so "have (won)".
+@tip A continuous passive is formed with "being" + past participle.
+The ball was ____ over the bar. | been kicked | being kick | been kick | *being kicked || The past continuous passive is "was being kicked": "being" + the past participle "kicked".
+@tip With "neither ... nor" and "either ... or", the verb agrees with the nearer subject.
+Neither the Governor, the Federal Government nor the civil servants ____ the economic depression. | caused | causes | *cause | causing || The nearer subject is "the civil servants" (plural), so the present plural "cause".
+@tip With "or", the verb agrees with the nearer subject; a list of singular names joined by "or" is singular.
+Fikkie, Chinakanelson or Sufikoppa ____ written many novels. | have | *has | had | is || Singular subjects joined by "or" take a singular verb: "has".
+@tip Third-person singular subjects take the -s form in the present simple.
+John eventually ____ the height of his ambition. | reach | *reaches | has | have || "John" is third-person singular, so "reaches".
+@tip Quantities and measurements viewed as one amount take a singular verb.
+Two grams ____ okay for him. | *is | are | is been | were been || "Two grams" is one dose or amount, so it takes the singular "is".
+@tip Arithmetic statements take a singular verb: "Five times four is twenty."
+Five times four ____ twenty. | are | *is | were | was || An arithmetic result is treated as a single fact: "five times four is twenty".
+@tip "Half of" + uncountable noun takes a singular verb; + plural noun takes a plural verb.
+Half of the milk ____ spoilt. | *is | are | have | were || "Milk" is uncountable, so "half of the milk is".
+@tip A gerund (-ing form) used as a subject is singular; after a modal (can, will, may) use the base verb.
+Singing ____ my hobby, dancing can also ____ me on. | *is/turn | are/turn | is/turns | are/turns || "Singing" (a gerund) is singular, so "is"; after the modal "can", the base form "turn".
+
+@topic Spelling
+@instruction Select the most appropriate form of the word in terms of spelling.
+@tip Learn the tricky parts of commonly misspelt words: doubled letters, "ie/ei" and words borrowed from French.
+ | *etiquette | ettiquette | etiqquete | ettiquete || "Etiquette" (from French) has one "t" at the start and "-quette" at the end.
+ | *camouflage | camoflage | camofllage | camoflagge || "Camouflage" keeps the "ou" from French and has one "l" and one "g".
+ | wieid | *weird | wiered | weired || "Weird" is a well-known exception to "i before e": w-e-i-r-d.
+ | *conceive | concieve | conceve | conseive || After "c", "ei": conceive (like receive and deceive).
+ | occassion | *occasion | ocassion | occation || "Occasion" has a double "c" and a single "s".
+ | *denouement | deneuoment | denueoment | denoument || "Denouement" (the final outcome of a story) comes from French: de-noue-ment.
+ | greatful | greateful | *grateful | gratefull || "Grateful" is related to "gratitude"; it is not formed from "great", and "-ful" has one "l".
+ | embarass | embaras | *embarrass | embarras || "Embarrass" has a double "r" and a double "s".
+ | seige | *siege | seeige | seigee || "Siege" follows "i before e except after c".
+ | superseed | *supersede | supercede | superceed || "Supersede" is the only English verb ending in "-sede".
+ | diarhoea | diarhhoea | *diarrhea | diarrheao || "Diarrhea" (British "diarrhoea") has a double "r"; it is the only option with "rr" and a valid ending.
+ | queuee | *queue | qeueu | que || "Queue" is q-u-e-u-e.
+ | matress | *mattress | matres | mattres || "Mattress" has a double "t" and a double "s".
+ | preceed | *precede | presede | preseed || "Precede" ends in "-cede" (like concede and recede); only "exceed", "proceed" and "succeed" end in "-ceed".
+ | accomodation | *accommodation | acommodation | accommodaton || "Accommodation" has double "c" and double "m".
+ | occurence | ocurrence | *occurrence | occurrance || "Occur" doubles its "r" before "-ence": occurrence.
+ | *acquaintance | acquantance | acquantanse | aquaintance || "Acquaintance" has "cq" and "ai": ac-quain-tance.
+ | onomatopeia | *onomatopoeia | onomatopiea | onomatopea || "Onomatopoeia" ends in "-poeia".
+ | pronounciation | prononciation | *pronunciation | proniounciation || The verb is "pronounce", but the noun drops the "o": pronunciation.
+ | girraffe | girafe | *giraffe | girrafe || "Giraffe" has one "r" and a double "f".
+
+@topic Capitalisation and Punctuation
+@instruction Select the sentence that is correct in terms of capitalisation.
+@tip Capitalise proper nouns: names of people, places, institutions, languages, nationalities, holidays, and the main words of titles. Do not capitalise compass directions or common nouns.
+ | Ryan visited los angeles to visit the holocaust museum. | Ryan visited Los Angeles to visit the Holocuast museum. | *Ryan visited Los Angeles to visit the Holocaust Museum. | Ryan visited Los angeles to visit the Holocaust museum. || "Los Angeles" and "the Holocaust Museum" are proper names; option (b) also misspells "Holocaust".
+ | *He spoke Spanish to the Indians. | He spoke Spanish to the indians. | He spoke spanish to the indians. | he spoke Spanish to the Indians. || Languages ("Spanish") and nationalities or peoples ("Indians") are capitalised, and so is the first word.
+ | my favourite song is we will rock you. | *My favourite song is We Will Rock You. | my favourite song is We will rock you. | My favourite song is we will rock you. || The first word of the sentence and the main words of a song title are capitalised.
+ | *His parents were from the city of Kalamazoo. | His Parents were from the city of Kalamazoo. | His parents were from the City of Kalamazoo. | his parents were from the City of kalamazoo. || "City" is a common noun here; only the name "Kalamazoo" is capitalised. "Parents" is a common noun.
+ | *Go south for three blocks, then turn right. | Go South for three blocks, then turn right. | Go south for three blocks, then turn Right. | Go South for three blocks, then turn Right. || "South" and "right" are directions, not names, so they are lower case.
+ | My favourite books are green eggs and ham Horton hears a who. | *My favourite books are Green Eggs and Ham, Horton Hears a Who. | My favourite books are Green eggs and Ham and Horton hears a who? | My favourite books are green Eggs and ham, Horton hears a Who. || Book titles capitalise their main words; short words like "and" and "a" stay lower case unless they come first.
+
+@topic Stylistic Variation
+@instruction Choose from the options a-d the item that could be most appropriately used in a letter to your father during your visit to his cocoa farm.
+@tip In letter-context questions, the correct option is grammatically correct and suits the reader. Check concord, tense, word choice, prepositions and capitals before thinking about tone.
+ | More than one cocoa tree have been affected by black pod. | *More than one cocoa tree has been affected by black pod. | More than one cocoa tree is been affected by black pod. | More than one cocoa tree are been affected by black pod. || "More than one" + singular noun takes a singular verb: "has been affected". "Is been" is ungrammatical.
+ | *Dad, I was told that the councillor, with the supervisor of agriculture, was around two days ago. | Dad, I was told that the councillor, with the supervisor of agriculture, is around two days ago. | Dad, I was told that the councillor, with the supervisor of agriculture, were around two days ago. | Dad, I was told that the councillor, with the supervisor of agriculture, are around two days ago. || The subject "the councillor" is singular ("with the supervisor" is added), and "two days ago" needs the past: "was".
+ | It is not advisable at the moment to employ more workers. | It was not advisable at the moment to employ more workers. | *It isn't advisable at the moment to employ more workers. | It wasn't advisable at the moment to employ more workers. || The present is needed ("at the moment"), and in a personal letter to one's father the contraction "isn't" suits the friendly tone; the group's key prefers it to the more formal "is not".
+ | The cocoa house is still in operation. | The cocoa store was still in operation. | The cocoa house are still in operation. | *The cocoa store is still in operation. || The building where cocoa is kept is a "store"; the present "is" fits "still in operation" now.
+ | I saw him cleared his farm. | I saw him clears his farm. | I saw him clearing his farm. | *I saw him clear his farm. || After "see someone", use the bare infinitive for a completed action: "I saw him clear his farm".
+ | *The workers do come to work every day except on Sundays. | The workers do come to work everyday except on Sundays. | The workers do come to work every day except on sundays. | The workers do come to work everyday except on sundays. || "Every day" (two words) is an adverb phrase meaning "each day"; "everyday" is an adjective. Days of the week take capitals.
+ | Six hours of daily work was enough in order not to overstress the workers. | Six hours of daily work were enough in order not to overstress the workers. | *Six hours of daily work is enough in order not to overstress the workers. | Six hours of daily work are enough in order not to overstress the workers. || A period of time viewed as one amount takes a singular verb, and the statement is a present rule: "is enough".
+ | I forget the hand scale at the garage. | I forgot the hand scale at the garage. | *I left the hand scale at the garage. | I leave the hand scale at the garage. || When the place is mentioned, use "leave" (past "left"), not "forget".
+ | *Your farm coat was hung outside the farmstead. | Your farm coat was hanged outside the farmstead. | Your farm coat was hang outside the farmstead. | Your farm coat were hanged outside the farmstead. || Things are "hung"; "hanged" is used only for executing a person.
+ | Each of the workers were surprised when I arrived. | Each of the worker is surprised when I arrived. | *Each of the workers was surprised when I arrived. | Each of the worker was surprised when I arrived. || "Each of" + plural noun takes a singular verb, and the past tense matches "arrived".
+ | *Dad, I will advise you on the mode of operation. | Dad, I will advice you on the mode of operation. | Dad, I will advise you to the mode of operation. | Dad, I will advice you to the mode of operation. || "Advise" is the verb ("advice" is the noun), and we advise someone "on" something.
+ | Mr. albert in Abuja from Cocoa Research Institute came four days ago to enlighten the farmers. | *Mr. Albert in Abuja from Cocoa Research Institute came four days ago to enlighten the farmers. | Mr. Albert in abuja from Cocoa Research Institute came four days ago to enlighten the farmers. | Mr. Albert at Abuja from Cocoa Research Institute came four days ago to enlighten the farmers. || Personal names and place names take capitals (Albert, Abuja), and we say "in Abuja" for a city.
+ | The cocoa pods is ripe to harvest. | The cocoa pads is ripe to harvest. | The cocoa pads are ripe to harvest. | *The cocoa pods are ripe to harvest. || Cocoa fruit are "pods" (not "pads"), and the plural subject takes "are".
+ | *An artiste came to entertain the residents of the area two days ago. | An artists came to entertain the residents of the area two days ago. | A artiste came to entertain the residents of the area two days ago. | A artists came to entertain the residents of the area two days ago. || "An" is used before a vowel sound ("an artiste"), and "an" goes with a singular noun.
+ | *A number of farmers have harvested their crops. | A number of farmers has harvested their crops. | A number of farmer has harvest their crops. | A number of farmer have harvest their crops. || "A number of" means "many" and takes a plural noun and verb: "a number of farmers have harvested".
+ | Every cocoa tree and every cocoa pod are in good condition except for a few. | Every cocoa tree and every cocoa pod was in good condition except for a few. | Every cocoa tree and every cocoa pod were in good condition except for a few. | *Every cocoa tree and every cocoa pod is in good condition except for a few. || Subjects introduced by "every" take a singular verb, and the present describes the farm now.
+ | On the long run there will be bountiful harvest. | In the long run there will be bountiful harvest. | On the long run there will be a bountiful harvest. | *In the long run there will be a bountiful harvest. || The idiom is "in the long run", and "harvest" here is countable, so it needs "a".
+ | Be rest assured that all was well. | *Rest assured that all is well. | Be rest assured that all were well. | Be rest assured that all are well. || "All" meaning "everything" takes a singular verb, and the present tense is needed. (The standard phrase is "rest assured", without "be".)
+ | *Mr Joe has borrowed your spraying machine. | Mr Joe has lent your spraying machine. | Mr. Joe has borrowed your spraying machine. | Mr. Joe has lent your spraying machine. || Mr Joe took the machine to use, so he "borrowed" it (one lends to someone else). In British style "Mr" has no full stop.
+ | *It is high time you started a periodic meeting with your workers. | It is high time you start a periodic meeting with your workers. | It was high time you starts a periodic meeting with your workers. | It was high time you start a periodic meeting with your workers. || "It is high time" is followed by the past tense ("started") even though the meaning is present or future.
+ | The childlike display of Bade is worrisome. | *The childish display of Bade is worrisome. | The childlike display of bade are worrisome. | The childish display of Bade are worrisome. || "Childish" (immature, silly) is negative and fits "worrisome"; "childlike" (innocent) is positive.
+ | Some of the information have got to the authority. | Some of the informations have got to the authority. | Some of the informations has got to the authority. | *Some of the information has got to the authority. || "Information" is uncountable: no plural "informations", and "some of the information" takes a singular verb.
+ | He is fund of going to the farm early. | He is found of going to the farm early. | *He is fond of going to the farm early. | He is find of going to the farm early. || The adjective meaning "liking" is "fond (of)".
+ | *A stranger was caught last week and was charged with theft. | A stranger was caught last week and was charged of theft. | A stranger was caught last week and was charged for theft. | A stranger is caught last week and was charged with theft. || One is "charged with" an offence, and both verbs are in the past.
+@instruction Change the following sentence in active structure to passive structure.
+@tip To form the passive, put "be" in the same tense as the active verb, add the past participle, and use object pronouns after "by" (by him, by them, by us).
+He drinks little water. | *Little water is drunk by him. | Little water was drunk by him. | Little water are drunk by him. | Little water were drunk by him. || Present simple active becomes present simple passive: "is drunk". "Water" is uncountable, so "is".
+They eat pounded yam. | Pounded yam was eaten by them. | *Pounded yam is eaten by them. | Pounded yam were eaten by them. | Pounded yam are eaten by them. || Present simple "eat" becomes "is eaten".
+She is playing the game. | The game is being played by she. | The game was being played by she. | *The game is being played by her. | The game was being played by her. || Present continuous becomes "is being played", and the pronoun after "by" is the object form "her".
+They ate pounded yam. | *Pounded yam was eaten by them. | Pounded yam were being eaten by them. | Pounded yam is being eaten by them. | Pounded yam was being eaten by they. || Past simple "ate" becomes "was eaten".
+We passed the EPT excellently. | *The EPT was passed by us excellently. | The EPT is passed by us excellently. | The EPT were passed by us excellently. | The EPT was passed by we excellently. || Past simple becomes "was passed", with the object pronoun "us" after "by".
+
+@topic Parallelism
+@instruction Choose from the options written against letters a-d the expression that represents the most acceptable structure.
+@tip Correlative pairs (not only ... but also, either ... or, neither ... nor, both ... and) must be followed by the same kind of word or phrase.
+ | Richard is not only a terrific pianist, but also a great at playing hockey. | *Richard is not only a terrific pianist but also a great hockey player. | Richard is terrific pianist, also great at playing hockey. | Not only great at playing hockey, Richard also a terrific pianist. || After "not only" and "but also" come two matching noun phrases: "a terrific pianist" / "a great hockey player".
+ | Either I will be attending the show or they will. | *Either I will attend the show or they will. | Either I will attend the show or they will be attending. | Either I won't attend the show or they will. || Both clauses use the simple future: "I will attend ... or they will (attend)".
+ | *The class captain has assigned to the case not only all his men, but also a private detective. | Not only has the captain assigned all his men to the case, but also a private detective. | The class captain has assigned all his men to the case but not only a private detective. | Not only has the captain assigned all his men to the case, but also a detective. || "Not only all his men" and "but also a private detective" are both objects of "assigned". In (b) and (d), "not only" introduces a clause but "but also" introduces only a noun.
+@tip Items in a series must share the same grammatical form and tense.
+ | Patty ate rice, drank soda and was dancing the tango. | Patty ate rice, drank soda and dance the tango. | *Patty ate rice, drank soda and danced the tango. | Patty eat rice, drink soda and danced the tango. || Three simple past verbs: ate, drank, danced.
+ | He likes to swim, sail and to dance. | He likes to swim, to sail and dance. | *He likes to swim, sail and dance. | He likes swim, to sail and dance. || One "to" governs all three verbs (to swim, sail and dance). Repeat "to" before every verb or use it only once.
+ | *He likes to swim, to sail and to dance. | He likes swimming, sailing and to dancing. | He likes to swimming, to sailing and dancing. | He likes to swim, to sail to dance. || "To" is repeated before every verb, which is also parallel. Option (d) leaves out "and".
+ | All business students should learn word processing, accounting and how to program computers. | *All business students should learn word processing, accounting and computer programming. | All business students should learn word processed, accounting and computer programming. | All business students should learn word processing, account and computer program. || Three -ing nouns: word processing, accounting, computer programming.
+ | *The cow jumped over the moon, walked across a rainbow and travelled across my dreams. | The cow jumped over the moon, walks across a rainbow and travelled across my dreams. | The cow jumps over the moon, walks across a rainbow and travel led across my dreams. | The cow jumped over the moon, across a rainbow it walked and travelled across my dreams. || Three past-tense verbs: jumped, walked, travelled.
+ | I am moving into the dorm, meet my new roommate and walk across the campus. | I am moving into the dorm, my roommate meeting me and walking across the campus. | I am moving into the dorm, meet my new roommate and walking across campus. | *I have moved into the dorm, met my new roommates and walked across the campus. || One auxiliary "have" governs three past participles: moved, met, walked.
+ | *I felt both exhilarated and scared at the sudden change in my life. | I feel both exhilarated and scared at the sudden change in my life. | I felt both exhilarated and scare at the sudden change in my life. | I feel both exhilarate and scared at the sudden change in my life. || "Both ... and" joins two adjectives in -ed form: exhilarated and scared. The group's key prefers the past "felt".
+ | *I am going to the store to run errands, pick up my laundry and then go to the party. | I am going to the store to run errands, picking up my laundry and then go back to the party. | I am going to the store to run errands, my laundry pick up and going to the party. | I am going to the store to run errands, picking my laundry up and then going back to the party. || One "to" governs three base verbs: (to) run, pick up, go. (The PDF's key gave (d), which mixes "to run" with -ing forms.)
+ | Kunle bought a chocolate doughnut, a biscuit, three doughnut holes. | kunle bought a chocolate doughnut a biscuit three doughnut holes. | Kunle buy a chocolate doughnuts a biscuits and three doughnut holes. | *Kunle bought a chocolate doughnut, a biscuit and three doughnut holes. || A list of three noun phrases needs commas and "and" before the last item.
+ | You need to work quickly, quietly and more decisively. | You need to work more quickly, more quietly and decisively. | You need to work quickly, more quietly and decisively. | *You need to work quickly, quietly and decisively. || Three adverbs of the same degree: quickly, quietly, decisively.
+ | Mother is very busy gathering the laundry, dusting the furniture and washes the table. | Mother was very busy gathers the laundry, dusts the furniture and washes the dishes. | Mother was very busy gathering the laundry, the furniture is being dust and washing the dishes. | *Mother was very busy gathering the laundry, dusting the furniture and washing the dishes. || Three -ing phrases after "busy": gathering, dusting, washing.
+ | My face is washed, my hair is comb brushed my teeth. | My face is wash, combed my hair and brushed my teeth. | My face is washed, my hair is comb and my teeth are brush. | *My face is washed, my hair is combed and my teeth are brushed. || Three parallel passive clauses: is washed, is combed, are brushed.
+ | *Vote for Thomas because he is intelligent, caring, honest and hardworking. | Vote for Thomas because he is intelligent, care, honest and hardworking. | Vote for Thomas because he is intelligent, caring, honest and hardwork. | Vote for Thomas because he is intelligent caring and honest and hardworking. || Four adjectives in a list: intelligent, caring, honest and hardworking.
+ | You may respond by calling, visiting or e-mail. | You may respond by calling, visit or emailing. | You may respond by call, visiting or email. | *You may respond by calling, visiting or e-mailing. || Three -ing forms after "by": calling, visiting, e-mailing.
+ | What go around comes around. | What goes around come around. | *What goes around comes around. | What is going around comes around. || Both clauses have singular verbs in the present simple: goes ... comes.
+ | *She is sneaky and manipulative. | She is sneak and manipulative. | She is sneaky and more manipulative. | She is a sneak and manipulating. || Two adjectives of the same degree: sneaky and manipulative.
+ | He likes television shows that have deep characters, interest story and good actors. | He likes television shows that have deep character, interesting stories and good actor. | He likes television shows that have deep characteristics, interest story and good act. | *He likes television shows that have good characters, interesting stories and good actors. || Three plural noun phrases, each adjective + noun: good characters, interesting stories, good actors.
+@instruction Choose the option that best completes the sentence in parallel form.
+ Benefits of mentoring relationships include: | sharing clinical knowledge, develop mentee's skills, helping others and supporting profession | share clinical knowledge, develop mentee's skills, helping others and support profession | sharing clinical knowledge, developing mentee's skills, help and supporting profession | *sharing clinical knowledge, developing mentee's skills, helping others and supporting the profession || Four -ing phrases: sharing, developing, helping, supporting.
+To succeed in life you need | *to take advantage of opportunities and to follow your dreams | take advantage of opportunities and to follow your dreams | to take advantage of opportunities and follow your dream | taking advantage of opportunity and follow dreams || Two "to" infinitives: to take advantage ... and to follow ....
+His coworkers praised both his determination and ____. | the way he paid attention to detail | also praised his attention to detail | *his attention to detail | also they praised his attention to detail || "Both" and "and" join two noun phrases: his determination and his attention to detail.
+The art studio is spacious, pleasantly cluttered and ____. | and being well lit | and is lit well | *well lit | the lighting is good || The series needs a third adjective phrase: spacious, pleasantly cluttered and well lit.
+This is not only what I wanted ____. | but also what I need | *but also what I needed | I needed | I need || "Not only ... but also" joins two clauses in the same tense: what I wanted / what I needed.
+The dog ran across the yard, jumped over the fence and ____. | down the alley sprint | sprint down the alley | *sprinted down the alley | alley sprint || A third past-tense verb phrase: ran, jumped, sprinted.
+ | I came, I see, I conquer. | I come, I saw, conquered. | I came I see conquer. | *I came, I saw and I conquered. || Three parallel clauses in the past tense: I came, I saw, I conquered.
+I want to have both a new house and ____. | a wardrobe | wardrobe | new wardrobe | *a new wardrobe || "Both" and "and" join two matching noun phrases: a new house and a new wardrobe.
+I like reading, fighting, swimming and ____. | to do writing | some writing | *writing | do some writing || The fourth item must be another -ing form: writing.
+
+@topic Standard Forms
+@instruction From the items written against a-d, select the option that best represents the Standard British English version of each bold word or expression.
+@tip SBE questions contrast Nigerian usage with Standard British English. Choose the expression a British speaker would naturally use.
+Biodun and Dairo are **academician**. | *Academics | Academic | Academician | Academia || University teachers and researchers are "academics" (plural for two people). An "academician" is a member of an academy.
+The **brain behind** the conspiracy has been apprehended. | The main person who caused | The chief offender in respect of | *The instigator of | The cause of || The person who planned and started the conspiracy is its "instigator".
+They have **assassinated my character**. | injured my name | spoilt my name | *injured my reputation | damaged my reputation || The standard expression (following UI's key) is "injured my reputation".
+The tree has been **burnt to ashes**. | Burnt completely | Burnt fully | *Burnt to the ground | Burnt beyond recognition || The standard idiom is "burnt to the ground".
+EPT questions are very **cheap**. | Simplified | Simple | *Easy | Non-complex || Nigerian usage "cheap" (easy) corresponds to standard "easy"; "cheap" means low-priced.
+Ibukun is the **cog in the wheel** of this group. | Craft | Disturbance | *Clog | Encumbrance || The intended meaning is an obstacle; following UI's key, the standard word is "clog".
+Oyebisi had just been invited to the **high table** to make her speech. | Raised platform | Entitled seat | *Podium | Lectern || A speaker addresses an audience from the podium (following UI's key).
+It was obvious that he **cracks jokes**. | Smith jokes | Uses jokes | *Makes jokes | Talks || In British English one "makes" (or "tells") jokes.
+Theorem is very **diplomatic** in answering questions. | Careful | Tactical | *Tactful | Selective || Handling people sensitively is being "tactful"; "tactical" relates to strategy.
+**If care is not taken**, some tutors may be banned for not submitting their questions on time. | If proper care is not taken | If they are not careful | *If proper precautions are not taken | If no precautions is applied || Following UI's key, the standard phrase is "if proper precautions are not taken".
+There was a **fatal** accident at the UI gate last week. | Distractions | Serious | *Deadly | Calamitous || "Fatal" means causing death: "deadly".
+Lukgaf likes to have bread and **fried egg** for breakfast. | Mixed egg | Shaken egg | *Scrambled egg | Omelette || Following UI's key, the Nigerian "fried egg" (beaten and pan-cooked) is "scrambled egg" in British English.
+Deizani **lacks home training**. | Deizani is not well trained | Deizani is not well taught | *Deizani is not well brought up | Deizani is not mentored || The British expression is "not well brought up".
+I was in Damikare's office **last week Friday**. | Friday for last week | Friday of last Friday | *Last Friday | Friday week || British English says "last Friday".
+Fatimoh put the shoe in a **nylon bag**. | Leather bag | Non-leather bag | *Cellophane bag | Synthetic bag || Following UI's key, the standard word is "cellophane bag".
+I should enjoy the **national cake**; I am a Nigerian corps member. | *National privileges | National values | National advantages | National opportunities || "National cake" (the nation's wealth to be shared) corresponds to "national privileges".
+I just **picked race** when I saw the ghost. | *Broke into a run | Disappeared | Started with run | Decided to run away || To start running suddenly is to "break into a run".
+**God so good**, I remember the Standard English word for "hot drinks". | *Thank God | I am lucky | I thank my star | To God be the glory || The standard expression of relief is "Thank God".
+**I could remember** all that the tutors told us. | *I can remember | I should remember | I would remember | I recalled || In Nigerian usage "could remember" is used for present ability; Standard English says "I can remember".
+I know it **off head**. | *Offhand | With memory | Without looking up | Cram it || The standard word for knowing something without checking is "offhand".
+Biodun, help me **press** my clothes. | *Iron | Dry | Wash | Buy || Clothes are "ironed" in British English.
+He sat on the **cushion chair**. | *Armchair | Chair | Back chair | Powerful chairs || A padded chair with arms is an "armchair".
+Who is at the door? **Enter!** | *Come in | Sit down | Come down | Let me see you || The standard invitation to someone at the door is "Come in!"
+**Long time no see.** | *It's been a while | Happy New Year | I have seen you for long | Welcome || "Long time no see" is informal; the standard expression is "It's been a while".
+Let me **land**. | *Finish | Stop | Stop talking | Mute || In Nigerian usage "let me land" means "let me finish (speaking)".
+I want to **wee wee**. | *Urinate | Defecate | Toilet | Go to bush || "Wee wee" is childish; the standard word is "urinate".
+This is my car's **plate number**. | *Number plate | Number | Pace setter number | Car ID || In British English the plate on a car is the "number plate".
+He has been a member of this group from the **onset**. | *Outset | By set | Starter | Upset || "From the outset" means from the beginning; "onset" is the start of something unpleasant, such as an illness.
+
+@topic Collocation
+@instruction Choose the option that best fills each numbered blank in the passage.
+@tip In formal writing, laws are "passed", regulations "introduced", risk assessments "carried out" and requirements "met". Learn verbs together with the nouns they usually go with.
+@passage
+Health and Safety Regulations
+
+Dear applicants,
+
+As you are probably aware, the government has recently (1) new laws relating to health and safety in universities. These new regulations have been (2) to (3) procedure in universities across the country and ensure that students adhere to standards. The enclosed guide details the steps you need to take in order to (5) these new laws. All applicants have an obligation to (6) risk assessment. Failure to do so will leave us in breach of the law. The purpose of the risk assessment is to (7) danger to students and also to make it easier for authorities to (8) the requirements of the regulations. All applicants have an obligation to read the information in the (9) carefully. Please do so, and if you have any further questions, I will be happy to answer them.
+
+Health and Safety Officer
+@end
+Choose the best option for blank (1). | created | *passed | made | invented || Parliament or a government "passes" laws.
+Choose the best option for blank (2). | brought | launched | *introduced | passed || New regulations are "introduced".
+Choose the best option for blank (3). | *standardise | update | upgrade | improve || The regulations make procedures the same across the country: they "standardise procedure".
+Choose the best option for blank (5). | *comply with | stick with | stick to | adhere to || Laws are "complied with"; "comply with" is the formal collocation.
+Choose the best option for blank (6). | survey | *carry out | perform | do || A risk assessment is "carried out".
+Choose the best option for blank (7). | reduce | *minimise | pilfer | belittle || Danger is "minimised" (reduced to the smallest possible level).
+Choose the best option for blank (8). | satisfy | meet | fulfil | *all of the above | none of the above || Requirements can be satisfied, met or fulfilled, so all three collocate.
+Choose the best option for blank (9). | prospectus | *guide | attachment | letter || The passage earlier mentions "the enclosed guide".
+@passage
+Science and Technology
+
+Scientists and technologists are (10) the frontiers of knowledge every day. Scientists publish their (11) and those findings are developed into commercial applications. We have become very skilled at (12) technology in all sorts of creative ways. New (13)-edge design is transforming our daily lives and our businesses. But even with technology we are already familiar with, things do not always (14) smoothly. There can be difficulties (15) equipment, and hardware can suffer from (16) and tear. More serious are viruses, which can cause systems to (17) and lead to the loss of important data. A power (18) may cause machinery to lose power, and production may be halted until power is (19). If computers have to be (20) for even a short time, it can cause problems, all of them costly.
+@end
+Choose the best option for blank (10). | pushing out | breaking down | rolling back | *pushing back || The idiom is "push back the frontiers (of knowledge)".
+Choose the best option for blank (11). | conclusions | results | outcome | *findings || The next words, "those findings", show that scientists publish their "findings".
+Choose the best option for blank (12). | exhausting | *harnessing | utilising | employing || To "harness technology" is to control and use it for a purpose.
+Choose the best option for blank (13). | super | brilliant | *cutting | innovative || The fixed expression is "cutting-edge" (most advanced).
+Choose the best option for blank (14). | *run | went | exist | ran || Things "run smoothly"; after "do not always" the base form "run" is needed.
+Choose the best option for blank (15). | fixing | initiating | connecting | *installing || Difficulties arise when "installing" (setting up) new equipment.
+Choose the best option for blank (16). | break | *wear | stress | shear || The fixed expression is "wear and tear".
+Choose the best option for blank (17). | *crash | breakdown | malfunction | report error || Computer systems "crash".
+Choose the best option for blank (18). | break | loose | voltage | *cut || A loss of electricity supply is a "power cut".
+Choose the best option for blank (19). | repaired | *restored | restorated | brought back || Power is "restored" after a cut.
+Choose the best option for blank (20). | switched off | *shut down | off | closed down || Computer systems are "shut down".
+@passage
+Global Crisis
+
+Many reporters are today criticising the President of Gorilla nation for a (21) of judgement with regard to the (22) remarks he made in a public speech yesterday about the government of Monkey nation. His comments have (23) fears that Monkey nation may retaliate with more than just words. Sources close to the President of Monkey nation said last night that their country has long experience of (24) rough treatment at the hands of the Gorillas and that they had been left with little choice but to take decisive action to put an end to President King Kong's habit of (26) insults at them. (27) a further sideswipe at the Monkeys this morning in an interview with Langidos Television (LTV), President King Kong said that it was a (28) idea that a disorganised country like Monkey nation could pose a (29) of any real significance to the likes of Gorillas. Many suspect, however, that Gorilla nation may finally be in for a (30).
+@end
+Choose the best option for blank (21). | *lapse | poor sense | laps | lack || The fixed expression is "a lapse of judgement".
+Choose the best option for blank (22). | unpleasant | unlawful | *disparaging | unallowed || Remarks that belittle others are "disparaging remarks".
+Choose the best option for blank (23). | allayed | *fuelled | escalated | triggered || Comments "fuel fears" (make them stronger). "Allay" means the opposite.
+Choose the best option for blank (24). | *suffering | frustration | resentment | tension || One "suffers rough treatment".
+Choose the best option for blank (26). | making | sending | *hurling | lavishing || The collocation is "hurl insults (at someone)".
+Choose the best option for blank (27). | Making | Proceeding on | Producing | *Taking || The fixed expression is "take a swipe (sideswipe) at someone".
+Choose the best option for blank (28). | *laughable | negligible | not-so-serious | unacceptable || An idea dismissed as ridiculous is "laughable".
+Choose the best option for blank (29). | challenge | *threat | fight | crisis || A country "poses a threat".
+Choose the best option for blank (30). | *shock | war | crisis | fight || The idiom is "be in for a shock" (about to experience something unpleasant and surprising).

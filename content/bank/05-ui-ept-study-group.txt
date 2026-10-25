@@ -1,0 +1,231 @@
+# Quiz items posted in the UI EPT preparation study group (WhatsApp export "Q and A (EDITED)", supplied by the EPTPREP owner).
+# Only the group's own items are included; sets copied from commercial books are left out. Members' details removed.
+# Keys re-checked by EPTPREP; corrected where wrong (hung, shaken, me, aversion to, convicted of, pool their resources).
+# Two- and three-option items get extra wrong options so each has four. Explanations and tips: EPTPREP.
+@source UI EPT study group quizzes (WhatsApp)
+
+@topic Concord
+@instruction Choose the option that best completes the sentence.
+@tip Periods of time and amounts seen as one unit take a singular verb; "minutes" (of a meeting) is plural; names of diseases ending in -s are singular.
+So far, three days ____ been spent on this. | *has | have | were | are || Following UI's sample-paper key, a period of time treated as one unit takes "has".
+The new army barracks ____ close to my house. | are | *is | were | been || "The new army barracks" here is one military base, so the verb is singular.
+@tip Titles of games, books and films are singular even when they look plural.
+Snakes and Ladders ____ interesting. | *is | are | were | have been || "Snakes and Ladders" is the name of one game, so it takes the singular "is".
+@tip Amounts of liquid, money or time viewed as one quantity take a singular verb.
+Ten litres of petrol ____ enough. | *is | are | were | have been || "Ten litres of petrol" is one quantity, so "is".
+@tip The name of a firm is singular even when it contains "and".
+Omoope and Associates ____ my first choice for this contract. | *is | are | were | have been || "Omoope and Associates" is the name of one firm, so "is".
+@tip Subjects joined by "and" take a plural verb, unless they name one person or one thing.
+Dr Eben, Jesse and Emmanuel ____ to play. | loves | *love | is loving | has loved || Three people joined by "and" form a plural subject, so "love".
+His sister and confidant ____ arrived. | have | *has | are | were || "His sister and confidant" is one person (his sister, who is also his confidant), so the verb is singular.
+Yam and egg ____ my favourite meal. | *is | are | were | have been || "Yam and egg" is one dish, so it takes the singular "is".
+@tip Third-person singular subjects take -s in the present simple; plural subjects do not.
+Ben ____ a lot. | talk | *talks | are talking | have talked || "Ben" is third-person singular, so "talks".
+The boys ____ in the choir. | sings | *sing | is singing | has sung || "The boys" is plural, so the verb has no -s.
+@tip Irregular plurals (mice, feet, teeth, children, people) take plural verbs.
+The mice ____ dead. | is | *are | was | has been || "Mice" is the plural of "mouse", so "are".
+My feet ____ cold. | is | *are | was | has been || "Feet" is plural, so "are".
+@tip In "one of the ... who ...", the verb after "who" agrees with the plural noun.
+The retired military officer is one of the past leaders who ____ the embodiment of corruption. | have | has | is | *are || "Who" refers to "the past leaders" (plural), so the verb in the relative clause is "are".
+@tip "Each of", "either of" and "neither of" are followed by a plural noun and a singular verb.
+Each of the ____ must wait behind. | girl | *girls | girl's | girls' || After "each of", the noun is plural ("the girls"), although the verb that follows is singular.
+@tip With "neither ... nor", the verb agrees with the nearer subject.
+Neither Dr Whales nor his friends ____ how to swim. | knows | *know | is knowing | has known || The nearer subject, "his friends", is plural, so "know".
+@tip "Every" makes a compound subject singular.
+Every cow and goat ____ grass. | eat | *eats | are eating | have eaten || "Every" makes the subject singular: every cow and (every) goat eats grass.
+@tip "All but X" means "all except X", and the verb agrees with "all" (plural for people).
+All but Admin ____ asleep. | is | *are | was | has been || The subject is "all" (everyone except Admin), which is plural.
+@tip With "either ... or", the verb agrees with the nearer subject.
+Either Celxius or Squpho ____ coming for the ceremony. | are | *is | were | have been || Two singular subjects joined by "either ... or" take a singular verb.
+@tip "Much of" + uncountable noun takes a singular verb.
+Much of the fuel I bought ____ evaporated. | have | *has | are | were || "Much of the fuel" is an uncountable quantity, so "has".
+@tip After "I pray that", "I insist that" and similar, formal English uses the subjunctive (base form, no -s).
+I pray that God ____ you with your struggles. | helps | *help | helped | is helping || After "pray that", formal English uses the subjunctive base form: "God help you".
+@tip Indefinite pronouns such as everyone, everybody, someone, no one, nothing take singular verbs.
+Everyone ____ annoying me. | are | *is | were | have been || "Everyone" is singular, so "is".
+@tip With "or", the verb agrees with the subject closest to it.
+If Akinyele passes the EPT, Admin, Dr Whales, Dosunmu or his friends ____ to thank. | is | *are | was | has || The nearest subject, "his friends", is plural, so "are".
+@tip "A pair of" + plural noun takes a singular verb, because the head word is "pair".
+A pair of trousers ____ on the bed. | are | *is | were | have been || The head of the subject is "pair" (singular), so "is".
+@tip Phrases such as "together with" and "as well as" do not change the number of the subject.
+The manager together with her workers ____ lazy. | are | *is | were | have been || The subject is "the manager" (singular); "together with her workers" is an added phrase.
+@tip When a subject is followed by "not ...", the verb agrees with the affirmative subject.
+The police, not the criminal, ____ to blame. | is | *are | was | has been || The verb agrees with "the police" (always plural); "not the criminal" is an aside.
+@tip In "one of the ... who ...", the verb after "who" agrees with the plural noun.
+One of the elders who ____ generously was honoured. | gives | *give | is giving | has given || "Who" refers to "the elders" (plural), so the verb in the relative clause is "give".
+@tip "Series" referring to one set of things is singular.
+The series of killings ____ me scared. | make | *makes | are making | have made || "The series" (one sequence of killings) is singular, so "makes".
+@tip "Most of" + plural noun takes a plural verb.
+Most of the issues ____ internal. | is | *are | was | has been || "Most of the issues" refers to plural issues, so "are".
+@tip "Each" and indefinite pronouns are singular; plural numbers ("four of my friends") are plural.
+One of the robbers ____ escaped. | *has | have | are | were || The subject is "one" (of the robbers), which is singular, so "has".
+Four of my friends ____ coming. | is | *are | was | has || "Four of my friends" is plural, so "are".
+@tip "Means" (a method) has the same form in singular and plural; "this means" is singular.
+This means of transport ____ the best. | *is | are | were | have been || "This means" refers to one method of transport, so "is".
+@tip Collective nouns (family, staff, majority) take a plural verb when the members are thought of as individuals.
+All the members of the family ____ excited. | is | *are | was | has been || "All the members" is plural, so "are".
+The staff ____ earned many awards this year. | has | *have | is | was || "The staff" here refers to the individual employees who earned awards, so British usage takes the plural "have".
+The majority of people ____ interested in sport. | is | *are | was | has been || "The majority of people" refers to many individuals, so the verb is plural.
+Minority parties ____ grown over the past two years. | has | *have | is | was || "Minority parties" is plural, so "have".
+Members of the navy ____ called sailors. | is | *are | was | has been || "Members" is the plural head of the subject.
+@tip Indefinite pronouns ending in -body, -one and -thing are singular, as is "anywhere" used as a subject.
+Everybody ____ her. | like | *likes | are liking | have liked || "Everybody" is singular, so "likes".
+No one ____ tomorrow. | know | *knows | are knowing | have known || "No one" is singular, so "knows".
+Everything here ____ beautiful. | are | *is | were | have been || "Everything" is singular, so "is".
+Anywhere you take me ____ fine by me. | are | *is | were | have been || The noun clause "anywhere you take me" acts as a single subject, so "is".
+Somebody ____ them the secret. | tell | *tells | are telling | have told || "Somebody" is singular, so "tells".
+@tip "More than one" + singular noun takes a singular verb.
+More than one member ____ protested against the proposal. | *has | have | are | were || "More than one member" takes a singular verb.
+@tip Fractions take the number of the noun after "of": "two-thirds of the area" (singular area) is singular.
+Two-thirds of the area ____ under water. | are | *is | were | have been || "Area" is singular, so "two-thirds of the area is".
+@tip Plural subjects take the base form of the verb in the present simple.
+Medical research shows that measles ____ a person only once in a lifetime. | attack | *attacks | attacked | attacking || "Measles" is the name of a disease and is singular.
+
+@topic Discourse Reference
+@instruction Identify the word or expression that the bold word(s) refer to.
+@tip Summary nouns ("fact", "issue", "problem") refer back to a whole statement. Pick the option that restates exactly what the earlier sentence claims.
+Messi has won five Ballon d'Or awards and some see him as the best. This is a **fact**. | He has won five Ballon d'Or awards | He is the best | Messi | *He is the best and has won five Ballon d'Or awards || The study group's key takes "this" as referring to the whole preceding sentence. (Strictly, only the five awards are a fact; "the best" is an opinion.)
+@tip "The former" refers to the first of two things mentioned; "the latter" to the second.
+I just got a new toothbrush, unlike **the former**. | New toothbrush | *Old toothbrush | Bad toothbrush | Latter toothbrush || "The former" here means the earlier (old) toothbrush, contrasted with the new one.
+@tip Negative replies with "any" or "either" pick up the items just mentioned.
+Lightoj can speak Yoruba and French; I can't speak **any**. | Can speak neither | *Can't speak either | Can speak Yoruba | Can speak English || "I can't speak any" refers to the two languages mentioned, meaning "I can't speak either of them".
+@tip A pronoun can point forward (cataphora) to a noun phrase that comes later.
+Oh! There **you** are, my cute little kitten. | My kitten | Little kitten | *Cute little kitten | Cute kitten || "You" points forward to the vocative "my cute little kitten"; of the options, (c) gives the full phrase.
+@tip Quantity expressions such as "many more" are interpreted against an amount already mentioned.
+I gave out a lot of my cutlery; **many more** were returned to me. | *More than what I gave | As much as I gave | A few more than I gave | Exactly what I gave || "Many more" (than I gave out) means more pieces came back than were given.
+@tip Words like "round neck" can stand for a noun from the question (ellipsis): "my black round neck (shirt)".
+Betty: Which shirt are you wearing this morning? Dr Whales: I will wear my black **round neck**. | Black shirt | Black | *Shirt | Casual shirt || "Round neck" describes the shirt; the noun "shirt" is understood from the question.
+@tip In ellipsis, part of a clause is left out because it can be recovered. Rebuild the full clause.
+I could have beaten her, but I decided **not to**. | *I didn't beat her | I would not do such a thing | I almost beat her | Indecisive about beating her || "Not to" stands for "not to beat her", so the meaning is that I did not beat her.
+@tip "A few" after a list means "some among many".
+Tobitools, Blaise, Niel, Honfikky and Modepeayo are active members on the page, just to mention a **few**. | Not many are active | Many and few are active | *These are some names among the many active members | These are the names of the most active members || "Just to mention a few" signals that the names listed are only some of the many active members.
+@tip A pronoun refers back to the noun it matches and makes sense with.
+Phemmy is always honest with his scores on the page; **he** doesn't lie. | Honest person | Truthful Phemmy | *Phemmy | Sincere person || "He" refers to Phemmy. The other options add descriptions not in the text.
+
+@topic Lexis and Structure
+@instruction Choose the option that best completes the sentence.
+@tip Use "a" before a consonant sound and "an" before a vowel sound: "a European" (starts with a "y" sound), "an honest" (silent h).
+Ben works for ____ European company. | *a | an | any | the || "European" begins with a "y" sound, so it takes "a".
+____ honest man is hard to find. | a | *an | some | the || "Honest" begins with a silent "h" and a vowel sound, so it takes "an".
+@tip After a verb or preposition, use object pronouns: me, him, her, us, them.
+The dog chased Ojo and ____. | *me | I | myself | mine || "Me" is the object of "chased".
+Those men helped Bola and ____. | I | *me | myself | mine || "Me" is the object of "helped". (The group's key gave "I", which is wrong after a verb.)
+@tip Some abbreviations hide a word: "o'clock" is short for "of the clock".
+In "10 o'clock", the "o" stands for | on | at | *of | off || "O'clock" is a contraction of "of the clock".
+@tip Many adjectives, nouns and verbs take a fixed preposition. Learn them as pairs: insist on, aversion to, good at, preside over, convicted of, deal in, translate into.
+He is insistent ____ doing the job. | in | *on | at | with || "Insistent on" (like "insist on") is the standard combination.
+Bilikisu has shown enough aversion ____ science. | *to | for | with | on || The standard combination is "aversion to". (The group's key gave "for".)
+Do you know how good he is ____ Maths? | *at | in | on | for || We are good "at" a subject or activity.
+They are worse ____ physics than we thought. | in | *at | for | with || "Worse at" follows the same pattern as "good at".
+The boy was charged ____ attempted theft. | for | of | against | *with || One is "charged with" an offence.
+He was lucky he was not convicted ____ the crime. | with | *of | on | for || One is "convicted of" a crime. (The group's key gave "for".)
+Their father deals ____ expensive shoes. | on | *in | at | for || To "deal in" goods is to buy and sell them.
+The teacher decided to translate his lectures ____ the local languages. | to | *into | in | within || One translates "into" another language.
+@tip Possessive pronouns (its, yours, hers, ours, theirs) never take an apostrophe.
+The dog broke ____ leg. | it's | *its | its' | it || "Its" is the possessive; "it's" means "it is".
+The bag isn't mine but ____. | *yours | your's | yours' | your own || The possessive pronoun "yours" has no apostrophe.
+@tip "Hang" has two past forms: "hung" for objects, "hanged" only for executing a person.
+The man ____ his clothes on the wire. | hang | *hung | hanged | spread || Clothes are "hung". "Hanged" is only used for executing a person. (The group's key gave "hanged".)
+@tip Some nouns are uncountable in English (furniture, equipment, information, luggage) and some appear only in the plural (arms meaning weapons, amends).
+The army ran short of ____. | arm and ammunitions | arms and ammunitions | *arms and ammunition | arm and ammunition || "Arms" (weapons) is always plural, and "ammunition" is uncountable.
+We left a lot of ____ at the factory. | furniture and equipments | furnitures and equipments | furnitures and equipment | *furniture and equipment || "Furniture" and "equipment" are uncountable and have no plural form.
+We promise to make ____. | amend | ammends | ammend | *amends || The fixed expression is "make amends", with one "m" and a final "s".
+@tip "The + adjective" (the helpless, the poor, the rich) refers to a group of people and takes a plural verb.
+The helpless ____ our sympathy. | *require | requires | does require | does not require || "The helpless" means helpless people, so the verb is plural: "require".
+@tip A number + measurement used as an adjective before a noun stays singular and is hyphenated: "a fifteen-litre jar".
+Their father gave us six fifteen-____ jars. | litres | *litre | litres' | litre's || In a compound adjective ("fifteen-litre jars"), the measurement word stays singular.
+@tip A noun used to describe another noun can be possessive plural: "the students' union" (the union of the students).
+The president of the ____ union has been rusticated. | student | Student's | *students' | students || It is the union belonging to the students, so the plural possessive "students' union".
+@tip "Few" (hardly any) is negative; "a few" (some) is positive. "Little/a little" work the same way with uncountable nouns.
+The politician hardly visits anybody; he trusts ____ of his associates. | *few | a few | a little | little || "Hardly visits anybody" suggests he trusts almost none of them: "few" (not many). "Associates" is countable, so not "little".
+@tip Progressive passive: "are being" + past participle; after "was", "being" + past participle.
+All the four boys ____ detained. | was being | is being | has been | *are being || "The four boys" is plural, so "are being detained".
+Ballanda was ____ deceived by the magician. | *being | been | be | beings || The past continuous passive is "was being deceived".
+@tip Learn the principal parts of irregular verbs: burst-burst-burst, grind-ground-ground, shake-shook-shaken, freeze-froze-frozen, flee-fled-fled, sew-sewed-sewn.
+Tunji has ____ the idea of going overseas. | bursts | *burst | bursted | bursting || "Burst" has the same form in the past participle ("has burst"). (Strictly, one "bursts" a bubble; the item tests the verb form.)
+Have you ____ the pepper at the shop? | grind | grinded | grounded | *ground || The past participle of "grind" is "ground".
+He has ____ hands with her. | shakes | shook | *shaken | shaked || After "has", the past participle "shaken" is needed. (The group's key gave "shook", which is the past simple.)
+The mother ____ the fish in the refrigerator. | frozen | freezed | *froze | freeze || The past simple of "freeze" is "froze".
+The criminals ____ as soon as the killer shot the man. | flees | fleed | *fled | flee || The past of "flee" is "fled".
+She hasn't ____ any dress yet. | sowed | sew | *sewn | sown || The past participle of "sew" is "sewn" ("sown" is from "sow", to plant seed).
+@tip Learn fixed expressions as wholes: "at times", "put in an appearance", "pool resources".
+She usually works hard, but ____ she can be very lazy. | *at times | a times | at time | at timings || "At times" means "sometimes".
+Despite the pressure of work during the week, I shall endeavour to ____ at your wedding. | Put up an appearance | Put up appearance | *Put in an appearance | Put on an appearance || The idiom is "put in an appearance", meaning to attend briefly.
+The exercise will be easily accomplished by the team if members ____ their ____. | Pull/resources together | Pool/resources together | Pull/resources | *Pool/resources || To combine resources is to "pool" them; "pool their resources" needs no "together". (The group's key gave option c.)
+
+@topic Spelling
+@instruction Choose the correct spelling to complete the sentence.
+@tip Learn the spellings that catch people out: double letters (millennium, committee, occurrence), silent letters (Pharaoh), and words with unusual vowels (Harmattan, Caribbean).
+I love garri, milk, Milo and sugar. It's a nice ____. | Concurssion | *Concoction | Concussion | Concurtion || "Concoction" (a mixture of ingredients) is spelt con-coc-tion. "Concussion" is a head injury.
+The man is a ____. | Matyr | Mactyr | *Martyr | Matyre || "Martyr" is spelt m-a-r-t-y-r.
+He likes to ____ a lot. | *Manoeuvre | Manoevure | Manouevre | Manoveure || The British spelling is "manoeuvre": man-oeu-vre.
+We all need good human ____. | Ettiquette | Ettiquete | *Etiquette | Etiquete || "Etiquette" has one "t" at the start and ends in "-quette".
+It's over a ____. | Millenium | Milennium | Milleneum | *Millennium || "Millennium" has double "l" and double "n".
+It was a bloody ____. | Massaccre | Masaccre | masacre | *Massacre || "Massacre" has a double "s" and one "c".
+His speech was ____. | Bizzarre | *Bizarre | Bizzare | Bizare || "Bizarre" has one "z" and a double "r".
+The ____ and ____ looked indefinite. | Embarassment, harassment | Embarrassment, harrassment | *Embarrassment, harassment | Embarassment, harrassment || "Embarrassment" has double "r"; "harassment" has a single "r".
+The car's ____ is bad. | *Carburettor | Caburrettor | Carburrettor | Caburretor || The British spelling is "carburettor": car-bu-ret-tor.
+I want to ____ the works of my predecessor. | Supercede | *Supersede | Supercyde | Supersyde || "Supersede" is the only English verb ending in "-sede".
+The ____ was ____. | Comittee, disappointed | Committee, dissappointed | Comittee, dissappointed | *Committee, disappointed || "Committee" doubles m, t and e; "disappointed" has one "s" and double "p".
+The ____ was about ____. | Disscussion, kwashiorkor | *Discussion, kwashiorkor | Discussion, kwashorkor | Disscussion, kwashorkor || "Discussion" has one "s" after "di"; "kwashiorkor" is spelt kwa-shi-or-kor.
+I love the animal called ____. | girraffe | *giraffe | girafee | girrafe || "Giraffe" has one "r" and a double "f".
+The second ____ was an ____. | Occurrence, ommission | Occurence, omission | *Occurrence, omission | Occurence, ommission || "Occurrence" has double "c" and double "r"; "omission" has one "m".
+The ____ is close. | Hamattan | Hamarttan | *Harmattan | Hamatan || "Harmattan" (the dry season wind) is spelt Har-mat-tan.
+One stands a lot to ____ if you ____ God. | achieve, recieve | acheive, recieve | *achieve, receive | acheive, receive || "Achieve" follows "i before e"; "receive" has "ei" after "c".
+It was 72 degrees ____. | *Fahrenheit | Fahrenhiet | Farenheit | Farenhiet || "Fahrenheit" has "h" after "Fa" and ends in "-heit". (The quiz printed the correct spelling twice; one copy is replaced.)
+Is it ____ to go to the ____? | neccessary, occassion | *necessary, occasion | necessary, occassion | neccessary, occasion || "Necessary" has one "c" and double "s"; "occasion" has double "c" and one "s".
+____ the road is a ____ outfit. | accross, Carribbean | *across, Caribbean | accross, Caribbean | across, Carribbean || "Across" has one "c"; "Caribbean" has one "r" and double "b".
+It is a ____. | *Pavilion | Pavillion | Pavilon | Pavillon || "Pavilion" has one "l" in each position: pa-vil-ion.
+Who knows King ____ and the event that ____, when he didn't want to let the Israelites go? | Pharaoh, occured | Pharoah, occurred | *Pharaoh, occurred | Pharoah, occured || "Pharaoh" ends in "-aoh"; "occurred" doubles the "r".
+Have you watched the movies ____ and ____? | Idiosyncracy, dilemma | Idiosyncrasy, dillemma | Idiosyncracy, dillemma | *Idiosyncrasy, dilemma || "Idiosyncrasy" ends in "-crasy"; "dilemma" has one "l" and double "m".
+My ____ option is ____. | Prefferred, wierd | *preferred, weird | preffered, wierd | prefferred, weird || "Preferred" has one "f" and double "r"; "weird" breaks the "i before e" rule.
+The ____ led to a fight. | Agument | *Argument | Arguement | Arguments || "Argue" drops its "e" before "-ment": argument.
+I am ____ going with the ____ man. | Definitely, England | Definately, England | *Definitely, English | Definately, English || "Definitely" is spelt with "-ite-", and the adjective needed is "English".
+The ____ is outdated. | Calenda | Calendae | *Calendar | Calender || "Calendar" ends in "-ar".
+The man isn't a ____. | Portugese | *Portuguese | Portugalese | Portugeese || "Portuguese" is spelt Por-tu-guese.
+The ____ increased people's ____. | Siege, Curiousity | Seize, curiosity | *Siege, Curiosity | Seige, Curiousity || "Siege" follows "i before e"; "curiosity" drops the "u" of "curious".
+Her food was ____. | *Irresistible | Irresitable | Irresistables | Irresistance || "Irresistible" ends in "-ible".
+I am ____ and he is ____. | Ninety, Fourty | Ninty, Forty | *Ninety, Forty | Ninty, Fourty || "Ninety" keeps the "e" of "nine"; "forty" drops the "u" of "four".
+He ____ has a ____. | Truly, tatoo | Truely, tattoo | *Truly, tattoo | Truely, tatoo || "Truly" drops the "e" of "true"; "tattoo" has double "t" and double "o".
+The weather ____ was ____. | *Forecast, unforeseen | Forcast, unforseen | Forecast, unforseen | Forcast, unforeseen || "Forecast" and "unforeseen" both keep the "e" of "fore". (The quiz printed the correct pair twice; one copy is replaced.)
+@instruction One of the words in the options is wrongly spelt and does not exist in English; pick it out. If all are correctly spelt, choose "All are correctly spelt".
+@tip Look for familiar traps: wrong doubling (Maintainning), a missing letter (Embarasment), a wrong ending (Irresistable), or wrong vowel order (Beleif).
+ | Maintain | *Maintainning | Maintenance | Maintainability | All are correctly spelt || The -ing form of "maintain" is "maintaining"; the "n" is not doubled because "ai" is a double vowel.
+ | *Denouncition | Pronounce | Pronunciation | Denounce | All are correctly spelt || The noun from "denounce" is "denunciation".
+ | Lie | *Lieing | Lied | Lain | All are correctly spelt || "Lie" changes "ie" to "y" before "-ing": lying.
+ | Argue | Argument | Pasture | Pasteurize | *All are correctly spelt || All four words are correctly spelt.
+ | Massacre | Harassment | Surrender | *Embarasment | All are correctly spelt || "Embarrassment" needs double "r".
+ | Permission | Permissible | Disseminate | *Ommission | All are correctly spelt || "Omission" has one "m".
+ | Counselor | Councillor | Council | Counsel | *All are correctly spelt || All are valid ("counselor" is the American spelling of "counsellor").
+ | Persuade | *Disuade | Dissatisfied | Unsatisfied | All are correctly spelt || "Dissuade" has a double "s" (dis + suade).
+ | *Jott | Jut | Jog | Jug | All are correctly spelt || To make a quick note is to "jot" (one "t").
+ | Joggle | *Jugle | Google | Goggle | All are correctly spelt || "Juggle" has a double "g".
+ | Ascent | Accent | *Asent | Accustomed | All are correctly spelt || Agreement is "assent" (double "s").
+ | *Emminent | Imminent | Immanent | Immaculate | All are correctly spelt || "Eminent" (famous) has one "m".
+ | Neither | Yield | Perceived | *Beleif | All are correctly spelt || "Belief" follows "i before e".
+ | Assurance | Insurance | Terrific | *Sherrif | All are correctly spelt || "Sheriff" has one "r" and double "f".
+ | Supersede | *Mortguage | Concede | Luggage | All are correctly spelt || "Mortgage" has a silent "t" and no "u".
+ | *Obssession | Possession | Process | Incessant | All are correctly spelt || "Obsession" has one "s" after "ob".
+ | Suit | Suite | Knowledge | *Priviledge | All are correctly spelt || "Privilege" has no "d".
+ | Prevalent | Grievous | Mischievous | Convenient | *All are correctly spelt || All four are correctly spelt.
+ | Forfeit | Conceited | Receive | *Liutenant | All are correctly spelt || "Lieutenant" is spelt lieu-ten-ant.
+ | *Depresant | Ambassador | Corridor | Horrendous | All are correctly spelt || "Depressant" has a double "s".
+ | Caffeine | Morale | Penicillin | *Adolesence | All are correctly spelt || "Adolescence" has "sc" before "ence".
+ | Wednesday | Enrolment | Announcement | Anointment | *All are correctly spelt || All are correctly spelt ("enrolment" is the British form).
+ | Overrated | Deterred | Interrupted | *Yatch | All are correctly spelt || The boat is a "yacht".
+ | *Hirarchy | Lingua Franca | Mediocre | Forecast | All are correctly spelt || "Hierarchy" begins "hie-".
+ | Kwashiorkor | *Irresistable | Dessert | Desert | All are correctly spelt || "Irresistible" ends in "-ible".
+ | Portuguese | Ecstasy | Caribbean | Bizarre | *All are correctly spelt || All four are correctly spelt.
+ | Celibate | *Ambigious | Pantomime | Hermaphrodite | All are correctly spelt || "Ambiguous" ends in "-uous".
+ | *Pratical | Franchise | Unanimous | Merchandise | All are correctly spelt || "Practical" has a "c" before the "t".
+ | Autumn | Rhetorical | *Sommersault | Orchestra | All are correctly spelt || "Somersault" has one "m".
+ | *Inconspicious | Kindergarten | Souvenir | Sovereign | All are correctly spelt || "Inconspicuous" ends in "-uous".
+ | Genuine | Bankruptcy | *Disentery | Hemoglobin | All are correctly spelt || "Dysentery" begins with "dys-".
+ | Revenge | *Vengance | Hygienic | Hygiene | All are correctly spelt || "Vengeance" keeps the "e" after "g".
+ | *Gymnassium | Acrobat | Athletic | Athletes | All are correctly spelt || "Gymnasium" has one "s".
+ | Noticeable | *Chaffeur | Advantageous | Bounteous | All are correctly spelt || "Chauffeur" is spelt chauf-feur.
+ | Incorporate | Magnanimous | Pungent | Pageant | *All are correctly spelt || All four are correctly spelt.
+ | Witnesses | *Cementry | Assault | Necessary | All are correctly spelt || A burial ground is a "cemetery".
+ | *Liesure | Variety | Conceited | Reign | All are correctly spelt || "Leisure" is an exception: "ei".
+ | Aisle | Isle | Axle | Hike | *All are correctly spelt || All four are correctly spelt.
+ | *Zennith | Sterling | Crumpled | Crumbled | All are correctly spelt || "Zenith" has one "n".

@@ -5,18 +5,24 @@ import path from "node:path";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 import { getCandidate } from "./data";
+import { getAdmin } from "./admin-data";
 
-const COOKIE = "ept_session";
+type Role = "candidate" | "admin";
+type SessionPayload = { sub: number; role: Role; exp: number };
+
+// Separate cookies so an admin and a candidate can be signed in in the same browser.
+const COOKIES: Record<Role, string> = { candidate: "ept_session", admin: "ept_admin" };
 const MAX_AGE = 60 * 60 * 12; // 12 hours
-
-type SessionPayload = { sub: number; role: "candidate" | "admin"; exp: number };
 
 let cachedSecret: string | null = null;
 
 function secret() {
   if (cachedSecret) return cachedSecret;
   if (process.env.EPT_SECRET) return (cachedSecret = process.env.EPT_SECRET);
-  // No secret configured: generate one once and keep it next to the database.
+  if (process.env.NETLIFY || process.env.VERCEL) {
+    throw new Error("EPT_SECRET is not set. Add a long random string to the site's environment variables.");
+  }
+  // Local development without a configured secret: generate one once and keep it in data/.
   const file = path.join(process.cwd(), "data", ".secret");
   fs.mkdirSync(path.dirname(file), { recursive: true });
   if (!fs.existsSync(file)) fs.writeFileSync(file, randomBytes(32).toString("hex"));
@@ -32,7 +38,7 @@ function encode(payload: SessionPayload) {
   return `${body}.${sign(body)}`;
 }
 
-function decode(token: string | undefined): SessionPayload | null {
+function decode(token: string | undefined, role: Role): SessionPayload | null {
   if (!token) return null;
   const [body, sig] = token.split(".");
   if (!body || !sig) return null;
@@ -41,15 +47,15 @@ function decode(token: string | undefined): SessionPayload | null {
   if (expected.length !== actual.length || !timingSafeEqual(expected, actual)) return null;
   try {
     const payload = JSON.parse(Buffer.from(body, "base64url").toString()) as SessionPayload;
-    return payload.exp > Date.now() ? payload : null;
+    return payload.exp > Date.now() && payload.role === role ? payload : null;
   } catch {
     return null;
   }
 }
 
-export async function createSession(sub: number, role: SessionPayload["role"]) {
+export async function createSession(sub: number, role: Role) {
   const store = await cookies();
-  store.set(COOKIE, encode({ sub, role, exp: Date.now() + MAX_AGE * 1000 }), {
+  store.set(COOKIES[role], encode({ sub, role, exp: Date.now() + MAX_AGE * 1000 }), {
     httpOnly: true,
     sameSite: "lax",
     secure: process.env.NODE_ENV === "production",
@@ -58,19 +64,28 @@ export async function createSession(sub: number, role: SessionPayload["role"]) {
   });
 }
 
-export async function destroySession() {
-  (await cookies()).delete(COOKIE);
+export async function destroySession(role: Role) {
+  (await cookies()).delete(COOKIES[role]);
 }
 
-export async function getSession() {
-  return decode((await cookies()).get(COOKIE)?.value);
+export async function getSession(role: Role = "candidate") {
+  return decode((await cookies()).get(COOKIES[role])?.value, role);
 }
 
 /** Returns the signed-in, active candidate or redirects to the login page. */
 export async function requireCandidate() {
-  const session = await getSession();
-  if (!session || session.role !== "candidate") redirect("/login");
-  const candidate = getCandidate(session.sub);
+  const session = await getSession("candidate");
+  if (!session) redirect("/login");
+  const candidate = await getCandidate(session.sub);
   if (!candidate || candidate.status !== "active") redirect("/login");
   return candidate;
+}
+
+/** Returns the signed-in admin or redirects to the admin login page. */
+export async function requireAdmin() {
+  const session = await getSession("admin");
+  if (!session) redirect("/admin/login");
+  const admin = await getAdmin(session.sub);
+  if (!admin) redirect("/admin/login");
+  return admin;
 }

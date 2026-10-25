@@ -1,0 +1,250 @@
+# University of Ibadan Postgraduate School, "Test of English for Higher Degree Admissions: Sample Questions" (May 2013).
+# 150 questions in the published order, with UI's answer key (marked "*"). Explanations and tips: EPTPREP.
+# Transcription notes:
+#  - Underlining was lost in the PDF text; underlined words are restored as **bold** from the questions' context.
+#  - Q99, Q103, Q110, Q111, Q112 and Q116 print the same option twice; each repeated option is replaced with a
+#    different misspelling/wrong form so the item has four distinct options. UI's answer is unchanged.
+#  - Q136-145 have five options (a-e); the build drops one wrong option so each question has four.
+@source UI Postgraduate School: Test of English for Higher Degree Admissions, Sample Questions (2013)
+@mock uipg2013
+
+@topic Parallelism
+@instruction Choose from the options written against letters a-d the expression that represents the most standard/acceptable structure.
+@tip Items joined by "and", "or", "but" or listed in a series must share the same grammatical form: all nouns, all -ing forms, all "to" infinitives, all clauses, and so on.
+ | *The lady likes singing and cooking. | The lady likes singing and to cook. | The lady likes to always sing and cooking. | The lady likes singing and to be cooking. || "Singing" and "cooking" are both -ing forms (gerunds) after "likes". The other options mix gerunds with infinitives.
+ | Dr Ogunmola admires people with character and who seem to have integrity. | Dr Ogunmola admires people who have character as well as people with integrity. | *Dr Ogunmola admires people who have character and integrity. | Dr Ogunmola admires people with character and who have integrity. || One relative clause governs two parallel nouns: "who have character and integrity". The others mix a prepositional phrase ("with character") with a clause.
+ | I like to listen, to speak, to read and to do some writing. | *I like listening, speaking, reading and writing. | I like listening, speaking, to read, and do writing. | I like listening, speaking, reading, writing. || All four items are -ing forms joined by "and" before the last item. Option (d) leaves out the conjunction, and (a) breaks the pattern with "to do some writing".
+ | *He was bruised for our iniquities and crushed for our transgressions. | He showed forgiveness for our iniquities, he was crushed for our transgressions. | He was bruised for our iniquities, and they were always crushing him for all our transgressions. | He was bruised for our iniquities, and was also to be crushed for our transgressions. || Two passive participles with the same pattern: "bruised for our iniquities" and "crushed for our transgressions".
+ | *The writing of a good student should be precise and original. | The writing of a good student should be precise and show originality. | The writing of a good student should be full of precision and be original. | The writing of a good student should be full of precision and originally correct. || Two adjectives complete "should be": precise and original. The others pair an adjective with a verb phrase.
+ | The king was flattered by the chiefs, praised by his family but the people hated him. | The king was flattered by the chiefs, his family praised him but the people hated him. | *The king was flattered by the chiefs, praised by his family but hated by the people. | The king's chiefs flattered him, praised by his family but hated by the people. || Three passive participles with "by" phrases: flattered by ..., praised by ..., hated by .... The other options switch to active clauses.
+ | Industry is good but to be lazy is bad. | *Industry is good but laziness is bad. | Industry is good but being lazy is bad. | Industry is good but doing something lazily is bad. || "Industry" is a noun, so the contrasting idea should also be a noun: "laziness".
+ | *Yesterday, I went to school, shopped at Idea Konsult and lunched at Tantalizers. | Yesterday, I went to school, shopping at Idea Konsult and lunched at Tantalizers. | Yesterday, I went to school, shopped at Idea Konsult and lunching at Tantalizers. | Yesterday, I went to school, shopped at Idea Konsult and eating at Tantalizers. || Three past-tense verbs in a series: went, shopped, lunched.
+ | *The prophet predicted that he would become governor; that he would meet a beautiful stranger and that his first son would become president. | The prophet predicted that he would become governor; a beautiful stranger will meet him and that his first son would become president. | The prophet predicted that he would become governor; he would meet a beautiful stranger; his first son would become president. | The prophet predicted that he would become governor; a beautiful stranger, will meet him; his son, to become a future president. || Each prediction is a "that" clause with "would": that he would become ..., that he would meet ..., that his first son would become ....
+@tip When two actions happen at the same time in the past, keep both verbs in the same tense and aspect (e.g. past continuous with past continuous).
+ | I was writing the letter when she lays the table for breakfast. | I was writing the letter when she laid the table for breakfast. | I was writing the letter while she lay the table for breakfast. | *I was writing the letter while she was laying the table for breakfast. || Two actions in progress at the same time are both in the past continuous: "was writing ... was laying". Note also "lay" (put down) has the -ing form "laying".
+@tip Items in a series must share the same grammatical form: all nouns, all -ing forms, all "to" infinitives, all clauses, and so on.
+ | The girl was asked to buy some fish and that she should return to the village. | *The girl was asked to buy some fish and then to return to the village. | The girl was asked to buy some fish and then, return back to the village. | The girl was asked to buy some fish and ordered, "go back to the village"? || Two "to" infinitives after "was asked": to buy ... and then to return. "Return back" is also tautologous.
+ | Saying is one thing; to do it is another. | *Saying is one thing; doing is another. | Saying is one thing; to have done it is another. | Saying is one thing, do it is another. || Two gerunds are contrasted: "saying" and "doing".
+ | What Ade needs is a doctor and rest cure. | What Ade needs is a doctor and to rest cure. | *What Ade needs is a doctor and a rest cure. | What Ade needs is a doctor and enough rest cure. || Two noun phrases, each with its article: "a doctor and a rest cure".
+ | *He believes that courage is better than fear, and that faith is truer than doubt. | He believes that courage is better than fearing and that faith is truer than doubt. | He believes that courage is better than fear and that faithfulness is truer than to doubt. | He believes that courage is better than fear and that faith is truer than doubting. || Two parallel "that" clauses, each comparing two nouns: courage/fear and faith/doubt.
+ | The man was not only a politician in a skillful way but also an able artist. | The man was not only a skilful politician but also an art man. | The man was not only a politician skillfully but also an able artist. | *The man was not only a skilful politician but also an able artist. || After "not only ... but also", both parts have the same pattern: adjective + noun (skilful politician / able artist).
+ | When Bayo grows up, either he wants to be a business tycoon or actor. | *Bayo wants to be either a business tycoon or an actor when he grows up. | Bayo wants to be either a business tycoon or do acting job when he grows up. | Bayo wants to be either a business tycoon or act on stage when he grows up. || "Either" and "or" should be followed by the same kind of phrase, placed after "to be": either a business tycoon or an actor.
+ | They could not decide whether to go to church or travelling. | They could not decide whether to go to church or to begin travelling. | *They could not decide whether to go to church or to travel. | They could not decide whether going to church or to travel. || "Whether ... or" joins two "to" infinitives: to go ... or to travel.
+ | She swam with swiftness and gracefully. | *She swam swiftly and gracefully. | She swam swiftly and with grace. | She swam swiftly and with much graciousness. || Two adverbs modify "swam": swiftly and gracefully.
+ | *The man closed the door, opened the windows and threw himself on the couch. | The man closed the door, opened the windows and was wanting to throw himself on the couch. | The man closed the door, was opening the windows and threw himself on the couch. | The man was closing the door, was opening the windows and threw himself on the couch. || Three simple past verbs in sequence: closed, opened, threw.
+ | The manager was asked to write his report quickly, accurately and with thoroughness. | *The manager was asked to write his report quickly, accurately and thoroughly. | The manager was asked to write his report quickly, with accuracy and thoroughly. | The manager was asked to write his report quickly, with accuracy and with thoroughness. || Three adverbs ending in -ly: quickly, accurately, thoroughly.
+ | *The woman advised the boys to get a lot of sleep and to eat little. | The woman advised the boys to get a lot of sleep and that they should not eat much. | The woman advised the boys that they should get a lot of sleep and to eat little. | The woman advised the boys that they should get a lot of sleep and not to be eating much. || Two "to" infinitives after "advised the boys": to get ... and to eat ....
+ | The dictionary can be used to find word meanings, pronunciations and looking up spellings. | The dictionary can be used to find: word meanings, checking how to pronounce words and spellings. | The dictionary can be used to find word meanings, pronunciations and to check for spellings. | *The dictionary can be used to find word meanings, pronunciations and spellings. || "Find" takes three parallel nouns: meanings, pronunciations, spellings.
+ | *Mr Johnson bought a car for his wife and gave it to her on her birthday. | Mr. Johnson bought a car for his wife to give her on her birthday. | Mr. Johnson bought a car for his wife and would like to have it given to her on her birthday. | Mr. Johnson bought a car for his wife, gave it to her on her birthday. || Two past-tense verbs joined by "and": bought ... and gave ....
+@tip When one past action happened before another, use the past perfect for the earlier one ("after he had taken").
+ | He was given the flag after he was taking the oath. | *He was given the flag after he had taken the oath. | He was giving the flag after taking the oath. | He was given the flag after he takes the oath. || Taking the oath came first, so it is in the past perfect ("had taken"), consistent with the past "was given".
+@tip Items in a series must share the same grammatical form: all nouns, all -ing forms, all "to" infinitives, all clauses, and so on.
+ | *James loves to eat rice on Sundays and to eat beans only on Saturdays. | James loves eating rice on Sundays and to eat beans only on Saturdays. | James loves to be eating rice on Sundays and eat beans only on Saturdays. | James loves to have to eat rice on Sundays and eating beans only on Saturdays. || Two parallel infinitives after "loves": to eat rice ... and to eat beans ....
+
+@topic Discourse Reference
+@instruction From the options indicated against letters a-d, identify the words/expressions that the bold words connect with in each of the sets of sentences below.
+@tip In "one ... the other", "one" points to the first item mentioned and "the other" to the second. Replace the bold word with each option and see which reads correctly.
+Spiritual growth is not physical growth. No one sees **one**, but all see the other. | physical growth | growth | *spiritual growth | spirit growth || "One" refers to the first of the two things mentioned, spiritual growth, which no one can see; "the other" is physical growth, which everyone can see.
+@tip A definite noun phrase ("the door") often refers back to something already mentioned. Ask: the door of what?
+Jordan just bought a fridge. **The door** fell down. | The door of the house | *The door of the fridge | The door being repaired | The door just repaired || The only object mentioned is the fridge, so "the door" is understood as the door of the fridge.
+@tip Auxiliaries like "do" or "did" can stand for a whole verb phrase already used (substitution). Rebuild the full phrase.
+Ronke: I know the meaning of the word "voodoo". Verena: I **do** too. | know | know it | *know the meaning of the word "voodoo" | will know || "Do" substitutes for the whole predicate "know the meaning of the word voodoo".
+@tip To find what a summary word (incest, philistinism, this, that) refers to, check its meaning against each item listed earlier.
+He was charged with the following offences: sleeping with his neighbour, his secretary, his niece and his guard's daughter. People condemned him more for **the incest** than for the rest. | Sleeping with his neighbour | Sleeping with his secretary | *Sleeping with his niece | Sleeping with his guard's daughter || Incest is a sexual relationship between close relatives. Of the four, only the niece is a relative.
+Two things are involved in this matter: dealing with individuals who do not like music and coping with a war-bent society. **Philistinism** is more important here. | Coping with a war-bent society | *Dealing with individuals who do not like music | Not like music | A war-bent society || Philistinism is a hostile or indifferent attitude to art and culture, so it summarises "dealing with individuals who do not like music".
+@tip Conjunctions and adverbs such as "and", "then" and "after that" carry a time or condition relationship. Choose the paraphrase that expresses exactly that relationship.
+Tell me your plans, **and** I will give you some money. | When you have done so | *After you have told me your plans | After you have let me know your plans | If you let me know your plans || Here "and" links the request to what follows it: the money comes after the plans have been told.
+Insert the disk into the player. **Then**, press the play button. | In the course of that | *After that | If you have done that | Do it and after that || "Then" signals the next step in a sequence, i.e. "after that".
+He said "I will marry you if you want". But I felt **his condition** was discouraging. | I will marry you | If | *If you want | If you prefer that I marry you || The condition attached to his promise is the clause "if you want".
+@tip "This" and "that" often refer back to an idea or a whole clause, not a single word. Look for the action or fact being discussed.
+This examination is meant to determine the level of English language competence of applicants. **This** is because coping in higher degree classes requires being able to use the English language effectively. | This examination | Conducting the examination | *Determining the English Language competence of applicants | Conducting this examination for applicants || "This" refers to the purpose just stated: determining applicants' level of English competence.
+The University of Ibadan is the first and the best University in Nigeria. No one denies **that**. | The fact that the university is the best | The fact that UI is the first and the best | The fact that the University of Ibadan is the first and best university in Nigeria | *The fact that the University of Ibadan is the first and the best University in Nigeria || "That" refers to the whole preceding statement. Only option (d) reproduces it fully and exactly.
+@tip A pronoun usually refers back to the nearest noun phrase that matches it in number and makes sense in context.
+Discourse analysis is the study of language used by members of a speech community. **It** looks at both language form and language function and includes the study of both spoken interaction and written texts. | The study of language | Discourse studies | *Discourse analysis | Language function || "It" refers to the subject of the previous sentence, discourse analysis.
+I am presently in South Africa. I won't deceive you, I like **it**. | *South Africa | Life in South Africa | Eating | Being in South Africa || "It" refers to the place just named, South Africa.
+@tip "This" and "that" often refer back to an action or whole clause rather than a single word.
+Laide, why did you take her money? **That**'s shameful. | *Taking her money | Stealing her money | Keeping her money | Seizing her money || "That" refers to the action just described, taking her money. The other options introduce new words not in the text.
+
+@topic Stylistic Variation
+@instruction Choose from the options a-d the item that could be most appropriately used in a letter to the Head of your institution or organisation.
+@tip A letter to the Head of an institution needs formal, Standard British English: no contractions, no slang, correct idioms and correct prepositions.
+ | He wasn't a member of the committee. | *He was not a member of the committee. | He was'nt a member of the committee. | He was not member of the committee. || Formal letters avoid contractions such as "wasn't" ("was'nt" is also misspelt), and (d) omits the article "a".
+ | The Vice-chancellor was not on seat. | *The Vice Chancellor was not available in the office. | The Vice-chancellor was not present in the office. | The Vice Chancellor was not in his seat. || "On seat" is Nigerian usage. The formal standard expression is "not available in the office", with the title written as UI gives it, "Vice Chancellor".
+ | I had a dash for the service. | *I had a kickback for the service. | I had a settlement for the service. | I had something for the service. || "Dash" (a gift or bribe) is West African usage; the Standard English word for an illicit payment for a service is "kickback".
+ | It's such a comfortable place. | It is such a comfy place. | It's such a comfy place. | *It is such a comfortable place. || Formal writing avoids the contraction "it's" and the informal "comfy".
+ | It amounts to putting the hand of the clock back. | *It amounts to putting the clock back. | It amounts to putting back the clock. | It amounts to putting the clock backward. || The idiom is "put the clock back", meaning to return to an earlier, worse state.
+ | Discourage drinking hot drinks during working hours. | *Discourage drinking spirits during working hours. | Discourage drinking tipsy drinks during working hours. | Discourage drinking peppery drinks during working hours. || In Nigerian usage "hot drinks" means alcohol; in Standard English "hot drinks" are tea and coffee, and strong alcohol is "spirits".
+ | I seek for approval for the results presented. | I ask for approval for the results presented. | I seek approval of the results presented. | *I seek approval for the results presented. || "Seek" takes a direct object (no "for" after it): seek approval for something.
+ | *I informed the Board about the development. | I told the Board about the development. | I talked to the Board about the development. | I gisted the Board about the development. || "Informed" is the formal choice. "Told" and "talked to" are less formal, and "gisted" is Nigerian slang.
+ | Some of our students were arrested at the beer parlour. | *Some of our students were arrested at the pub. | Some of our students were arrested at the drinking joint. | Some of our students were arrested at the drinking place. || "Beer parlour" and "drinking joint" are Nigerian or informal; the standard British word is "pub".
+ | The audience rose on their feet when the commissioner entered the hall. | *The audience rose to their feet when the commissioner entered the hall. | The audience rose at their feet when the commissioner entered the hall. | The audience rose for their feet as the commissioner entered the hall. || The idiom is "rise to one's feet".
+@tip In British usage, an abbreviation that ends with the same letter as the full word takes no full stop (Dr, Mr, Mrs); one that does not (Prof., Capt.) takes a full stop.
+ | I spoke with Dr. Lawanson. | *I spoke with Dr Lawanson. | I spoke with Dc Lawanson. | I spoke with Doc. Lawanson. || "Dr" ends with the last letter of "Doctor", so British style writes it without a full stop. "Doc" is informal.
+ | Tell Prof. Adewole to see the Vice-chancellor. | Tell Prof. Adewole to see the VC. | *Tell Prof. Adewole to see the Vice Chancellor. | Tell Profess Adewole to see the Vice Chancellor. || "Prof." correctly has a full stop, the title is written in full and capitalised, and "VC" is too informal for this letter.
+@tip A letter to the Head of an institution needs formal, Standard British English: no contractions, no slang, correct idioms and correct prepositions.
+ | I cannot crack my brain over such terrible issues. | *I cannot rack my brain over such terrible issues. | I cannot bother my brain over such terrible issues. | I cannot overload my brain over such terrible issues. || The idiom is "rack one's brain(s)"; "crack my brain" is a common Nigerian error.
+ | The case will not scale through at the Executive Committee meeting. | *The case will not sail through at the Executive Committee meeting. | The case will not scale up at the Executive Committee meeting. | The case will not sail over at the Executive Committee meeting. || To succeed easily is to "sail through". "Scale through" is a Nigerian error.
+ | *The College takes a deep interest in the matter. | The Colleges has interest in the matter. | The College expresses deep interest in the matter. | The College feels deep interest in the matter. || The collocation is "take a (deep) interest in". Option (b) also has a concord error.
+
+@topic Standard Forms
+@instruction From the items written against letters a-d, select an option that best represents the Standard/British English version of each bold word or expression.
+@tip SBE questions test the difference between Nigerian usage and Standard British English. Think of how a British speaker would say it, and avoid literal or exaggerated Nigerian idioms.
+My father is an **academician**. | academics | *academic | academician | academia || In British usage a university teacher or researcher is an "academic"; an "academician" is a member of an academy (e.g. of arts or sciences).
+Those boys have **assassinated my character**. | injured my name | spoilt my name | *injured my reputation | damaged my reputation || "Assassinate my character" is a Nigerian expression; UI's preferred standard phrase is "injured my reputation".
+The **brain behind** the conspiracy has been apprehended. | The main person who caused | The chief offender in respect of | *The instigator of | The cause of || The person who plans and starts a plot is its "instigator".
+The tree has been **burnt to ashes**. | burnt fully | *burnt to the ground | burnt completely | burnt beyond recognition || The standard idiom for something destroyed completely by fire is "burnt to the ground".
+This is a very **cheap** paper. | simplified | *easy | simple | non-complex || In Nigerian usage "cheap" means easy (of an examination). In standard English "cheap" means low in price, so "easy" is the correct word.
+Chief Owosebi is the **cog in the wheel** of this club. | craft | *clog | encumbrance | disturbance || The intended meaning is an obstacle. A "cog" is actually a small working part of a machine, so UI's key gives "clog" (something that blocks or hinders).
+The chief donor has just been invited to the **high table** to make his speech. | *podium | raised platform | entitled seat | lectern || A person invited to give a speech goes to the podium, the raised stand from which speakers address an audience. In British usage, "high table" is the table where senior members dine.
+It's strange the reclusive old man now **cracks jokes**. | talks | *makes jokes | uses jokes | smiths jokes || In British English one "makes" or "tells" jokes; "crack jokes" is UI's example of Nigerian usage.
+My friend is very **diplomatic** in answering questions from his girlfriend. | careful | tactical | *tactful | selective || In this personal context the word for handling people sensitively is "tactful". "Tactical" relates to plans or strategy.
+There was a **fatal** accident at the UI gate last week. | disastrous | serious | *deadly | calamitous || "Fatal" means causing death, i.e. "deadly". Nigerian usage often uses "fatal" loosely for "serious".
+I like to have bread and **fried egg** for breakfast. | mixed egg | *scrambled egg | shaken egg | omellete || In Nigerian usage "fried egg" usually means eggs beaten and cooked in a pan, which in British English is "scrambled egg".
+Goodygy **lacks home training**. | Goodygy is not well trained by her parents. | Goodygy is not well taught. | *Goodygy is not well brought up. | Goodygy is not well mentored. || The British expression for poor upbringing is "not well brought up".
+**If care is not taken**, you may not complete the assignment. | If proper care is not taken | *If proper precautions are not taken | If you are not careful | If no precaution is applied || "If care is not taken" is a common Nigerian phrase; UI's key prefers "if proper precautions are not taken".
+I was in the manager's office **last week Friday**. | *last Friday | Friday of last week | Friday week | Friday for last week || British English says simply "last Friday". "Friday week" means a week after next Friday.
+My mother put the shoe in a **nylon bag**. | leather bag | *cellophane bag | non-leather bag | syntectic bag || UI's key gives "cellophane bag" for what is loosely called a "nylon bag" in Nigeria. (Many British speakers would also say "plastic bag".)
+I should enjoy **national cake**; I am a Nigerian. | national values | *national privileges | national advantages | national opportunities || "National cake" is Nigerian slang for the country's wealth and benefits; the standard expression is "national privileges".
+I just **picked race** when I saw my father. | disappeared | *broke into a run | started with a run | decided to run away || "Pick race" is Nigerian Pidgin-influenced; to start running suddenly is to "break into a run".
+**God so good**, I remember the Standard English word for "hot drinks". | I am lucky | I thank my star | *Thank God | To God be the glory || "God so good" is a Nigerian expression of relief; the standard equivalent is "Thank God".
+
+@topic Concord
+@instruction Fill in the blank space in each of the following sentences with the most suitable word from the options written against letters a-d.
+@tip Find the true subject first. Phrases such as "as well as", "with", "together with" and "in addition to" add information but do not change the number of the subject.
+Chief Owonikoko as well as his men ____ arrived. | have | *has | are | were || The subject is "Chief Owonikoko" (singular); "as well as his men" does not make it plural, so the verb is "has".
+The man with his wives ____ coming. | were | are | *is | been || "With his wives" is an added phrase; the subject "the man" is singular, so "is".
+@tip The name of a firm or organisation is singular even when it contains "and" or a plural word.
+Julius Berger and Associates ____ not employ technicians. | do | *does | has | have || "Julius Berger and Associates" is the name of one company, so it takes a singular verb: "does".
+@tip With "either ... or" and "neither ... nor", the verb agrees with the subject nearest to it.
+Either my friends or my brother ____ taken the car out. | have | *has | was | were || With "either ... or" the verb agrees with the nearer subject, "my brother" (singular): "has".
+@tip "News", "mathematics", "physics" and similar words ending in -s are singular. "Broadcast" has the same form in the past and past participle.
+I was still sleeping when the national news ____ this morning. | were broadcasted | was broadcasted | *was broadcast | were broadcast || "News" is singular, so "was"; and the past participle of "broadcast" is "broadcast", not "broadcasted".
+@tip When a subject is followed by "not ..." (e.g. "The man, not his workers"), the verb agrees with the affirmative subject.
+The man, not his workers, ____ to blame. | are | *is | were | them || The verb agrees with "the man", the subject being affirmed; "not his workers" is an aside.
+@tip Find the true subject first. Phrases such as "as well as", "with", "together with" and "in addition to" add information but do not change the number of the subject.
+The hunter with the dogs ____ coming. | are | has | *is | were || The subject is "the hunter" (singular); "with the dogs" is an added phrase.
+@tip When two nouns joined by "and" refer to the same person, the verb is singular.
+His wife and comforter ____ arrived. | have | *has | are | were || "His wife and comforter" is one person (his wife, who is also his comforter), so the verb is singular: "has".
+@tip "The number of" takes a singular verb; "a number of" takes a plural verb.
+The number of women ____ more than that of men in every society. | are | *is | were | been || "The number" is singular, and the sentence states a general fact, so "is".
+@tip "More than one" + singular noun takes a singular verb.
+It is on record that more than one person ____ in road accidents in Nigeria every day. | die | dying | *dies | dead || "More than one person" takes a singular verb, and "every day" requires the present simple: "dies".
+@tip Periods of time, sums of money and distances seen as one amount take a singular verb.
+The ten minutes I spent reading ____ not wasted. | were | *was | have | been || "The ten minutes" is treated as one period of time, so it takes the singular "was".
+So far, five days ____ been spent on this job. | *has | have | were | haven || UI's key treats "five days" as one period of time, so it takes "has". ("Have" is also heard when the days are thought of individually, but UI keys "has".)
+@tip With "either ... or" and "neither ... nor", the verb agrees with the subject nearest to it.
+Either the chief or his wives ____ expected at the meeting. | was | *are | is | been || The verb agrees with the nearer subject, "his wives" (plural): "are".
+@tip Find the true subject first. Phrases such as "as well as", "with", "together with" and "in addition to" add information but do not change the number of the subject.
+The store, in addition to the secretary's office, ____ damaged. | were | *was | are | have || The subject is "the store" (singular); "in addition to the secretary's office" is an added phrase.
+@tip "Minutes" (the record of a meeting) is plural.
+The minutes of the meeting ____ adopted without any correction. | was | *were | have | been || "Minutes" meaning the written record of a meeting is plural, so "were".
+@tip "Each" and "every" make a subject singular, even when two nouns are joined by "and".
+Each boy and girl ____ given an award. | were | *was | are | been || "Each" makes the compound subject singular: each boy and (each) girl was given an award.
+@tip "Barracks", "headquarters", "series" and "means" have the same form for singular and plural; check whether one or several are meant.
+The new army barracks ____ at Eleyele. | are | *is | were | been || "The new army barracks" refers to one barracks (one military base), so the verb is singular.
+@tip With "either ... or" and "neither ... nor", the verb agrees with the subject nearest to it, including pronouns (I am, you are).
+Either you or I ____ wrong. | is | being | were | *am || The verb agrees with the nearer subject, "I", so "am".
+@tip Subjects joined by "and" usually take a plural verb.
+You and I ____ done the best that we could. | *have | having | has | am || "You and I" is a compound plural subject (= we), so "have".
+@tip Two nouns joined by "and" that form one dish or one unit (rice and beans, bread and butter) take a singular verb.
+Rice and beans ____ delicious. | are | were | *is | being || "Rice and beans" is a single dish, so it takes the singular "is".
+@tip Ignore words between dashes, commas or parentheses when finding the subject.
+The report, and this is a common feature of all the reports sent by those agencies, ____ to have been written in a hurry. | appear | appearing | *appears | apparently || The subject is "the report" (singular); the clause between commas is an aside. So "appears".
+@tip Names of diseases ending in -s (measles, mumps, rickets) are singular.
+Medical research shows that mumps ____ a person only once in a lifetime. | attack | *attacks | attacked | attacking || "Mumps" is a disease name and is singular; a general fact takes the present simple: "attacks".
+@tip UI's key treats "none" as singular ("none ... was"), meaning "not one".
+None of the respondents ____ strongly convinced by the message of the posters. | *was | have | were | has || UI's key treats "none" as "not one", which takes a singular verb: "was".
+@tip Two nouns joined by "and" that form one dish or one unit take a singular verb.
+Macaroni and cheese ____ all I have had today. | are | *is | was | were || "Macaroni and cheese" is one dish, and "have had today" places the statement in the present, so "is".
+@tip In "one of those ... who ...", the relative clause refers to the plural noun ("lawyers"), so its verb is plural; the main verb agrees with "one".
+Ms Ayo Obe ____ one of those lawyers who ____ that the legal system should serve humanity at all times. | remain/believes | remains/believes | remain/believe | *remains/believe || "Ms Ayo Obe remains" (singular subject); "who" refers to "lawyers" (plural), so "believe".
+@tip "Many a" + singular noun takes a singular verb.
+"Stay off infidelity; many a home ____ being destroyed by it." | have | has | *is | are || "Many a home" is followed by a singular verb, and "being destroyed" needs a form of "be": "is".
+@tip "Series" is singular when it refers to one set of things.
+The series of experiments that we conducted ____ successful. | *was | were | where | might || "The series" (one set of experiments) is the subject and is singular, so "was".
+@tip "Each other" is traditionally used for two people and "one another" for more than two.
+In a civilised country, the police do not stand by and watch people slaughter ____. | themself | themselves | theirselves | *one another || Many people killing each other is a mutual action among more than two, so "one another". ("Themself" and "theirselves" are not standard.)
+@tip After a preposition (between, for, with) use the object pronoun "me"; after "than" in a comparison like "better than I (do)", use the subject pronoun.
+The truth is Danladi knows the course better than ____, but please let this be between you and ____. | me/I | *I/me | I/I | me/me || "Better than I (do)" takes the subject pronoun; after the preposition "between", the object pronoun "me" is required.
+@tip "Be supposed to" means "be expected to" and needs the verb "be".
+As an intending husband, James ____ to show kindness to his fiancée. | supposes | supposed | suppose | *is supposed || "Is supposed to" expresses an expectation or duty; "supposes" means "thinks", which does not fit.
+
+@topic Spelling
+@instruction Select the most appropriate form of the word in terms of spelling.
+@tip Break hard words into parts and check doubled letters, silent letters and vowel combinations (ie/ei, ou, ae).
+ | Prevailent | Prevalient | *Prevalent | Privalent || "Prevalent" (widespread) is spelt with "-alent", like the adjective form of "prevail" without the "i".
+ | priviledge | Previlege | Privelege | *Privilege || "Privilege" has no "d" and is spelt priv-i-lege.
+ | Gonorhea | Gonoreah | *Gonorrhea | Gonoraeh || Of the options, "Gonorrhea" correctly has the double "r" and "-hea". (The fuller British spelling is "gonorrhoea".)
+ | Acommodation | Accomodation | *Accommodation | Acoommodation || "Accommodation" has a double "c" and a double "m".
+ | Querry | *Query | Queri | Quary || "Query" has a single "r".
+ | Strenous | Strainuous | Stranuous | *Strenuous || "Strenuous" is spelt stren-u-ous.
+ | Occassion | *Occasion | Ocassion | Ocaassion || "Occasion" has a double "c" and a single "s".
+ | Grievious | Grevus | Greivious | *Grievous || "Grievous" has no "i" after the "v" (not "grievious"), and "ie" follows the "i before e" rule.
+ | Convinient | *Convenient | Convinent | Conveniant || "Convenient" is spelt con-ven-i-ent.
+ | Heamoglobin | Hemoglobine | Haemoglobine | *Haemoglobin || The British spelling is "haemoglobin" with "ae" and no final "e".
+ | Greatful | Graetful | *Grateful | Greatfull || "Grateful" is related to "gratitude", not "great".
+ | Arguement | Agurment | Argueiment | *Argument || "Argue" drops its final "e" before "-ment": argument.
+ | Maintanance | Maintainance | *Maintenance | Maintinance || The noun from "maintain" is spelt "maintenance" (main-ten-ance).
+ | *Modern | Mordarn | Mordern | Murdern || "Modern" is spelt m-o-d-e-r-n.
+ | Permmission | *Permission | Permision | Permisson || "Permission" has a single "m" and a double "s".
+ | Michevious | *Mischievous | Mischeivious | Mischievious || "Mischievous" has three syllables (mis-chie-vous); there is no "i" before "-ous".
+ | Desentry | Dysentry | Dycentery | *Dysentery || "Dysentery" begins with "dys-" (bad) and ends in "-entery".
+ | *Receive | Recive | Recieve | Recevie || After "c", the order is "ei": receive.
+
+@topic Capitalisation and Punctuation
+@instruction Select the most appropriate form in terms of capitalisation.
+@tip Capitalise titles when they name a specific office or person, proper nouns and religions; do not capitalise ordinary adjectives or common nouns.
+ | Vice-chancellor | *Vice Chancellor | Vice-Chancellor | Vice-Chancelor || UI's key gives "Vice Chancellor": both words of the title capitalised. ("Vice-Chancelor" is also misspelt.)
+ | south-western Nigeria | south-Western Nigeria | southwestern Nigeria | *Southwestern Nigeria || UI treats "Southwestern Nigeria" as a named region, so it is capitalised.
+ | *He is rather lordy | He is rather Lordy | He is rather the lord | He is rather the lordy || Used as an ordinary adjective describing behaviour, the word is not capitalised.
+ | *either Christianity or Islam | either christianity or islam | either Christianity or islam | either christianity or Islam || Names of religions are proper nouns and always take capitals.
+ | *He is King James, a real king | He is King James, a real King | He is King James, a Real King | He is King James, a Real king || "King" is capitalised as part of the name "King James" but not when used as a common noun ("a real king").
+ | The Internet is Worldwide | The internet is worldwide | *The Internet is worldwide | The internet is Worldwide || UI's key capitalises "Internet" as the name of the global network; "worldwide" is an ordinary adjective.
+
+@topic Collocation
+@instruction Choose from options A-D to fill the gaps in the passage.
+@tip For cloze passages, read the whole passage first, then choose the word that fits both the grammar and the natural word partnerships (collocations) of the sentence.
+@passage
+Writing Today
+
+In my former life, I often taught first-year composition: a course that supposedly taught students the writing (126) they needed for college. The main focus of the course was the college essay. Now, freshmen usually had no (127) with the form of the essay; they just struggled with the (128). Grammar issues aside, these would usually work themselves out during the term; the main focus would be (129) an argument in a logical way. This fact usually separates the high-school essay from the college one: the amount of analysis (130) to an argument.
+
+(Gerald Lucas, "Writing Today")
+@end
+Choose the best option for gap (126). | *skills | prowess | power | system || We speak of "writing skills": the abilities that can be taught and learned.
+Choose the best option for gap (127). | hasles | *trouble | difficulty | palaver || "Had no trouble with" is the natural collocation. "Hasles" is misspelt, and "palaver" is informal.
+Choose the best option for gap (128). | *style | theme | content | subject matter || The students knew the form of the essay but struggled with its style, which contrasts with "form".
+Choose the best option for gap (129). | pushing | producing | *composing | creating || In writing, an argument is "composed": put together in a logical order.
+Choose the best option for gap (130). | pushed | dictated | alloted | *devoted || Analysis is "devoted to" an argument (given to it). "Alloted" is also misspelt (allotted).
+@passage
+Chemical Substance
+
+Chemical substances (also called pure (131)) may well be defined as "any material with a definite chemical composition". According to this definition, a chemical substance can either be a pure chemical element or a pure chemical (132). But, there are exceptions to this definition; a pure substance can also be defined as a form of (133) that has both definite composition and distinct properties. The chemical substance index published by CAS also includes several alloys of uncertain composition. Non-(134) compounds are a special case (in inorganic chemistry) that (135) the law of constant composition, and for them, it is sometimes difficult to draw the line between a mixture and a compound, as in the case of palladium hydride.
+@end
+Choose the best option for gap (131). | materials | *substances | elements | purifiers || The technical term is "pure substances", repeating the word being defined.
+Choose the best option for gap (132). | *compound | sulphur | material | combined compound || In chemistry a pure substance is either an element or a compound.
+Choose the best option for gap (133). | life | *matter | content | chemical || A substance is a form of matter, the general scientific term for anything that has mass.
+Choose the best option for gap (134). | Combined | *stoichiometric | physical | chemical || "Non-stoichiometric compounds" are those whose elements are not in fixed whole-number ratios, which is why they break the law of constant composition.
+Choose the best option for gap (135). | disobeys | *violates | flouts | disregards || Scientific laws are "violated" by exceptions. "Disobey" and "flout" suggest deliberate human action.
+
+@topic Synonyms and Antonyms
+@instruction Choose the option that is opposite in meaning to the bold word(s) or phrase.
+@nopassage
+@tip For antonyms, first work out the exact meaning of the word (use its parts: "dis-", "in-", "un-", "-ous"), then pick the option meaning the opposite. Ignore synonyms placed to mislead you.
+**Ossified** is nearly opposite in meaning to | Durable | Dainty | *Flexible | Contumacious | Pragmatic || "Ossified" means turned to bone, hence rigid and unable to change; its opposite is "flexible".
+Mr Akindele is the most **disingenuous** person I have ever seen. | *Transparent | Parched | Blank | Ingratiating | sincere || "Disingenuous" means insincere, pretending to know less than one does. UI's key gives "transparent" (open and honest).
+I felt **enervated** by the strain of moving. | Idyllic | Grandiose | Decorous | Frustrated | *energised || "Enervated" means drained of energy (not "energised"), so the opposite is "energised".
+Adeola is very brash and **unprepossessing**. | Ugly | Arrogant | Clever | Didactic | *Pleasing || "Unprepossessing" means unattractive or not making a good impression; the opposite is "pleasing".
+Joyce can be **obstreperous** at times. | *Placid | Stubborn | Raucous | Febrile | Amicable || "Obstreperous" means noisy and difficult to control; the opposite is "placid" (calm).
+@instruction Choose the option that is similar in meaning to the bold word or phrase.
+@tip For synonyms, decide the word's meaning and tone, then pick the option that could replace it in the sentence without changing the meaning.
+**Periphrastic** is almost similar in meaning to | Concise | *Circular | Comprehensive | Ardent | Junior || "Periphrastic" describes roundabout, wordy expression (periphrasis), i.e. circular. "Concise" is its opposite.
+His walk to the stage was brisk and **sprightly**. | Nimble | Sluggish | Hurried | Genuine | *Energetic || "Sprightly" means lively and full of energy. UI's key gives "energetic".
+His essays are long and **prolix**. | Antediluvian | Terse | Belligerent | *Wordy | Awkward || "Prolix" means using too many words: wordy. "Terse" is the opposite.
+Bukola Smith won **plaudits** for her skillful handling of the research. | Denunciation | Pleasure | *Recognition | Disgrace | Diffidence || "Plaudits" are expressions of praise or approval, i.e. recognition.
+The soldiers were subjected to **desultory** fire from the enemy position. | Salacious | Cursory | Assiduous | *Random | Asinine || "Desultory" means lacking a plan or purpose; desultory fire is random and occasional.
+The drug is used for **prophylactic** purposes. | curative | *preventive | recuperative | healing || "Prophylactic" means intended to prevent disease. "Curative" treats disease after it occurs.
+The chairman's remark is **germane** to the issue under discussion. | redundant | *relevant | irrelevant | crucial || "Germane" means relevant to the subject.
+It is unfortunate that his loss can no longer be **redeemed**. | *recovered | revamped | reclaimed | reconsidered || To redeem a loss is to recover or make up for it.
+He has been **handicapped** by the manager's comments. | prevented | *incapacitated | debarred | stopped || "Handicapped" here means put at a disadvantage or made less able: incapacitated.
+The **range** of options provided is not clear. | limitation | *scope | length | breadth || The "range" of options is their extent or scope.

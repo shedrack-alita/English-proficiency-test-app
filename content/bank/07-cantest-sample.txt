@@ -1,0 +1,60 @@
+# Institutional CanTEST sample test questions (Sheridan Assessment Centre "English Proficiency Assessment" PDF, supplied by
+# the EPTPREP owner). Reading comprehension and cloze sections, with the published answer key.
+# Listening and skim-and-scan items are left out (audio / short written answers). Explanations and tips: EPTPREP.
+@source CanTEST sample test (Sheridan English Proficiency Assessment)
+
+@topic Comprehension
+@instruction Read the passage and answer the question.
+@tip For main-idea questions, choose the option that covers the whole passage, not just one detail. For detail questions, find the exact sentence before deciding.
+@passage
+The permanent conversion of farmland to urban and industrial development is a major concern today. Accurate data on the rate of such losses are not available, but estimates for the area of land absorbed for every increase of 1,000 in the urban population vary from about 10 to 400 hectares. The higher figure includes urban fringe land alienated from agriculture by land speculation and resulting high prices. If an average figure of 80 hectares for every increase of 1,000 in the urban population is used, the projected permanent conversion of land to urban development in Quebec and Ontario is 300,000 hectares and 500,000 hectares respectively. More than half of this land is good agricultural land in climatically favourable areas. Around Montreal, for instance, 8,700 hectares of the best agricultural land in Quebec is being lost to development each year. Equally serious may be the loss of farmland to low-density rural housing, but no firm data are available.
+
+There is a similar trend in Western Canada. About 40,000 hectares of farmland were lost to urban development between 1962 and 1972. In Alberta, over 16,000 hectares of prime land were absorbed in the course of seven years by the cities of Edmonton and Calgary, and there is evidence that smaller towns on the Prairies are consuming farmland at up to twice the rate, per unit population, of the big cities. The areas mentioned may not seem impressive in relation to the total area of farmland in Canada, and it is true that few statistics are available on the rates of loss of farmland. However, the picture is clear enough to provide the basis for rational choices.
+
+It must be remembered that only tiny areas of Canada, less than one per cent, have climates and soils suitable for the production of corn and soft fruits. Most of these valuable parcels of land are in the path of rapid urban and industrial growth. Productive farmland close to the city is basic insurance against future events such as food shortages and high prices that would result from: (a) a dramatic increase in the world's population; (b) a climatic shift such as a decrease of even a degree or two in the mean annual temperature; (c) a series of dry years; or (d) increasingly high transportation costs due to energy shortages.
+
+Because of its "greenbelt" character, farmland is also of immeasurable aesthetic value. City dwellers will often drive for miles to experience an orchard in blossom and enjoy the rural scene. Wildlife ecologists have persuaded us of the value of preserving endangered species like the whooping crane and of the necessity of selecting pipeline routes that will not disturb migrating animals like the caribou. Surely it is not too much to expect that we recognize the necessity of preserving for agriculture the prime farmland close to cities such as Montreal, Toronto and Vancouver.
+@end
+The main idea of this passage is that in Canada | urban and industrial growth should be slowed down. | *losses of farmland constitute an important problem. | accurate statistics on farmland conversion are needed. | prime farmland is scarce in areas of good climate. || The passage opens by calling farmland conversion "a major concern" and ends by urging that it be stopped; the other options are supporting details.
+Why do estimates of the rate of farmland conversion vary? | There is no uniform definition of "farmland". | The urban population is growing at such a rapid rate. | *Urban fringe land is not always included in the figures. | Experts have not devoted enough attention to the problem. || The text explains that "the higher figure includes urban fringe land", so the estimates differ depending on whether that land is counted.
+What would productive farmland near cities do? | *Prevent possible food shortages. | Keep present food prices high. | Encourage even more urban growth. | Increase the value of urban fringe land. || Productive farmland near cities is "basic insurance against future events such as food shortages and high prices".
+In smaller towns on the Prairies, farmland is being consumed | in proportion to increased land speculation. | at the rate of 16,000 hectares every 7 years. | principally by low-density rural housing. | *at a faster rate than in the big cities. || Smaller Prairie towns consume farmland "at up to twice the rate, per unit population, of the big cities".
+The amount of agricultural land lost does not seem "impressive" because | there is such a large amount of farmland in Canada. | the problem only affects Eastern Canada. | only crops such as corn and soft fruits are affected. | *people do not know the real extent of the problem. || The published key gives (d): the writer notes that "few statistics are available on the rates of loss", so the real extent is unknown.
+Maintaining urban fringe land for agricultural use will avoid problems associated with | a rise in the mean annual temperature. | soil unsuitable for production. | *rising transportation costs. | an excessive amount of moisture. || One of the listed dangers is "increasingly high transportation costs due to energy shortages". The passage mentions a decrease, not a rise, in temperature.
+The author concludes by asking readers | to propose solutions to the problem. | to learn to appreciate the aesthetic value of farmland. | to refrain from disturbing the animals when they visit farms. | *to support the preservation of farmland near big cities. || The final sentence asks us to recognise "the necessity of preserving for agriculture the prime farmland close to cities".
+
+@topic Collocation
+@instruction Choose the word that best fits both the grammar and the meaning of each numbered blank in the passage.
+@tip In a cloze test, read the whole text first. Many blanks test fixed pairs ("attention is paid", "comes from the fact", "the student's knowledge").
+@passage
+The Conversation Class
+
+The majority of students learning English are primarily interested in speaking the language. Unfortunately, in most English courses, far more (1) is paid to the skill of writing (2) to speech. Yet, in the end, a (3) knowledge of English will be judged (4) the world at large not on his (5) to write the language but (6) speak it.
+
+As far as the teacher (7) concerned, part of the difficulty comes (8) the fact that conversation lessons are (9) at all easy to conduct. Each (10) must be carefully prepared, otherwise the (11) will obtain little or no response (12) his class. No teacher would expect (13) students to attempt written composition before (14) had mastered a large number (15) basic sentence patterns and learned (16) write simple, compound and complex sentences. (17), many teachers will try to start (18) discussion with a group of students (19) providing the students with any preparation (20) all. During most classes of this (21), the student has to struggle to (22) complex ideas in English. The teacher may (23) hesitant to correct him because this (24) interrupt the flow of conversation. Even (25) he does correct him, the student will learn very little. Sometimes the whole class breaks down and the teacher ends up doing all the talking.
+@end
+Choose the best option for blank (1). | *attention | importance | interest | time || The collocation is "attention is paid to".
+Choose the best option for blank (2). | instead | or | *than | then || "Far more ... than" completes the comparison.
+Choose the best option for blank (3). | bilingual | overall | student | *student's || A possessive is needed: "a student's knowledge", referred to later as "his".
+Choose the best option for blank (4). | around | *by | over | to || In the passive, the agent takes "by": "judged by the world at large".
+Choose the best option for blank (5). | *ability | method | skill | way || "His ability to write" fits the infinitive that follows.
+Choose the best option for blank (6). | capacity | how | they | *to || "Not on his ability to write ... but (his ability) to speak it" keeps the parallel infinitive.
+Choose the best option for blank (7). | be | has | *is | was || The fixed phrase is "as far as the teacher is concerned".
+Choose the best option for blank (8). | after | by | *from | with || The pattern is "comes from the fact that".
+Choose the best option for blank (9). | also | becoming | most | *not || "Not at all easy" is the natural phrase, explaining the difficulty.
+Choose the best option for blank (10). | course | *lesson | question | students || "Each lesson must be carefully prepared" refers back to conversation lessons.
+Choose the best option for blank (11). | conversation | result | student | *teacher || The teacher obtains a response from "his class".
+Choose the best option for blank (12). | about | for | *from | in || One obtains a response "from" someone.
+Choose the best option for blank (13). | every | from | *his | their || "His students" agrees with "No teacher".
+Choose the best option for blank (14). | have | having | be | *they || A subject is needed: "before they had mastered".
+Choose the best option for blank (15). | many | *of | on | the || The phrase is "a large number of".
+Choose the best option for blank (16). | and | can | how | *to || The pattern is "learned to write".
+Choose the best option for blank (17). | Consequently | Not | Therefore | *Still || "Still" (nevertheless) introduces the contrast with the previous sentence.
+Choose the best option for blank (18). | *a | by | some | the || "Start a discussion" introduces a new, non-specific discussion.
+Choose the best option for blank (19). | and | are | by | *without || "Without providing ... any preparation" is the contrast the paragraph describes.
+Choose the best option for blank (20). | *at | before | in | of || The phrase is "any preparation at all".
+Choose the best option for blank (21). | course | discussion | *kind | session || "Classes of this kind" means classes of this type.
+Choose the best option for blank (22). | *express | have | learn | many || Students struggle to "express" complex ideas.
+Choose the best option for blank (23). | *be | not | often | to || After the modal "may", the base verb "be".
+Choose the best option for blank (24). | correction | have | *might | student || "This might interrupt" expresses possibility after "this".
+Choose the best option for blank (25). | *if | that | then | time || "Even if he does correct him" is the concessive condition.

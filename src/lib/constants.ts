@@ -1,43 +1,48 @@
 export const APP_NAME = "EPTPREP";
 export const APP_TAGLINE = "English Proficiency Test Preparation";
 
-export const LEVELS = {
-  A1: "A1 · Beginner",
-  A2: "A2 · Elementary",
-  B1: "B1 · Intermediate",
-  B2: "B2 · Upper Intermediate",
-  C1: "C1 · Advanced",
-  C2: "C2 · Proficient",
-} as const;
-
-export type Level = keyof typeof LEVELS;
-
-export function levelLabel(level: string) {
-  return LEVELS[level as Level] ?? level;
-}
-
 export type TestKind = "official" | "practice";
 export type CandidateAccess = "both" | "official" | "practice";
 
 export const KIND_LABEL: Record<TestKind, string> = {
-  official: "Proficiency Test",
-  practice: "Practice Test",
+  official: "Mock Examination",
+  practice: "Practice",
 };
 
-export const PRACTICE_TIME_OPTIONS = [10, 15, 20, 30, 45, 60];
+/** Practice builder limits. */
+export const PRACTICE_TIME_PRESETS = [10, 15, 20, 30, 45, 60, 90, 120];
+export const PRACTICE_MAX_MINUTES = 300;
+export const PRACTICE_QUESTION_PRESETS = [10, 20, 50, 100, 150];
+export const PRACTICE_MAX_QUESTIONS = 200;
+/** Suggested pace for practice sets; the UI paper allows 60 minutes for 150 questions (24s each). */
+export const SECONDS_PER_QUESTION = 36;
 
-export const PASS_MARK = 50;
+/** The UI Postgraduate School requires at least 40% on the proficiency test. */
+export const PASS_MARK = 40;
+
+/** Gender options on the sign-up form. */
+export const GENDERS = ["Female", "Male"] as const;
+
 export const MAX_FEEDBACKS = 3;
-/** Seconds after the timer ends during which a submission is still accepted. */
+/** Seconds after the timer ends during which answers and submission are still accepted. */
 export const SUBMIT_GRACE_SECONDS = 30;
 
-export function rating(percentage: number) {
-  if (percentage >= 90) return { label: "Excellent", tone: "amber" as const };
-  if (percentage >= 80) return { label: "Very good", tone: "green" as const };
-  if (percentage >= PASS_MARK) return { label: "Good", tone: "blue" as const };
-  return { label: "Needs work", tone: "red" as const };
+export type Tone = "amber" | "green" | "blue" | "red";
+
+/** Proficiency bands from the UI Postgraduate School sample-question booklet. */
+export function rating(percentage: number): { label: string; tone: Tone } {
+  if (percentage >= 85) return { label: "Highly proficient", tone: "amber" };
+  if (percentage >= 70) return { label: "Proficient", tone: "green" };
+  if (percentage >= 60) return { label: "Fairly proficient", tone: "blue" };
+  if (percentage >= 50) return { label: "Scarcely proficient", tone: "blue" };
+  if (percentage >= PASS_MARK) return { label: "Not yet proficient", tone: "red" };
+  return { label: "Below the pass mark", tone: "red" };
 }
 
 export function percent(score: number, total: number) {
   return total > 0 ? Math.round((score / total) * 1000) / 10 : 0;
+}
+
+export function suggestedMinutes(questions: number) {
+  return Math.max(5, Math.ceil((questions * SECONDS_PER_QUESTION) / 60));
 }

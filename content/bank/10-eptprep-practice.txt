@@ -1,0 +1,74 @@
+# Original practice questions written by EPTPREP to strengthen topics with few real-source items.
+# The first option on each line is the answer (the build shuffles the options). Explanations and tips: EPTPREP.
+@source EPTPREP practice
+
+@topic Register
+@instruction Choose the word that belongs to the register (field of use) named in the question.
+@tip Ask yourself where you would normally hear or read the word. A register word is used mainly by people in that field.
+Which word belongs to the register of law? | plaintiff | diagnosis | invoice | stanza || A plaintiff is the person who brings a case to court. Diagnosis is medical, invoice is commercial, stanza is literary.
+Which word belongs to the register of medicine? | prognosis | verdict | ledger | sonnet || A prognosis is a doctor's forecast of how an illness will develop.
+Which word belongs to the register of banking? | overdraft | affidavit | anaesthesia | refrain || An overdraft is money a bank lets a customer withdraw beyond the balance in the account.
+Which word belongs to the register of journalism? | headline | chancel | fertiliser | quorum || A headline is the title printed above a news story.
+Which word belongs to the register of agriculture? | harvest | subpoena | stethoscope | byline || Harvest is the gathering of crops. Subpoena is legal, stethoscope medical, byline journalistic.
+Which word belongs to the register of religion? | sermon | dividend | tackle | thesis || A sermon is a talk on a religious subject given by a preacher.
+Which word belongs to the register of sports? | referee | deacon | collateral | anthology || A referee controls a game such as football.
+Which word belongs to the register of literature? | protagonist | mortgage | catheter | offside || The protagonist is the main character in a story or play.
+Which word belongs to the register of the theatre? | rehearsal | deposit | irrigation | autopsy || Actors hold a rehearsal to practise a play before performing it.
+Which word belongs to the register of computing? | software | pulpit | acquittal | tillage || Software is the programs that run on a computer.
+
+@topic Sense Relation
+@instruction Choose the option that answers the question.
+@tip Homophones sound the same but differ in spelling and meaning. A hyponym is a word for a member of a larger class (rose is a hyponym of flower).
+Which word sounds the same as "principal"? | principle | principled | prince | primal || "Principal" (head of a school; main) and "principle" (a basic rule or belief) are homophones.
+Which word sounds the same as "stationary"? | stationery | station | stationed | statutory || "Stationary" means not moving; "stationery" means writing materials. They are pronounced alike.
+Which word sounds the same as "complement"? | compliment | complete | complaint | competent || "Complement" (something that completes) and "compliment" (praise) are homophones.
+Which word sounds the same as "aisle"? | isle | ale | oil | ail || "Aisle" (a passage between seats) and "isle" (an island) are both pronounced like "I'll".
+Which of these is a hyponym of "furniture"? | wardrobe | carpenter | timber | furnace || A wardrobe is a type of furniture. A carpenter makes furniture and timber is its material, but neither is a kind of furniture.
+Which of these is a hyponym of "vehicle"? | lorry | engine | driver | garage || A lorry is a kind of vehicle; the others are parts of, people connected with, or places for vehicles.
+Which word is the superordinate (general term) for "mango, pawpaw, guava and orange"? | fruit | tree | seed | juice || Each of the four is a kind of fruit, so "fruit" is the general term that includes them.
+"Hot" and "cold" are best described as | gradable antonyms | homophones | synonyms | hyponyms || There are degrees between them (warm, cool), so they are gradable antonyms.
+"Buy" and "sell" are best described as | converse antonyms | synonyms | homonyms | hyponyms || One describes the same transaction from the other side: if A sells to B, B buys from A. This is a converse relation.
+Which word has the same spelling and pronunciation as "bank" but a different meaning? | bank (the side of a river) | banker | bonk | blank || "Bank" (a financial institution) and "bank" (a river's edge) are homonyms: same form, unrelated meanings.
+
+@topic Tense and Aspect
+@instruction Choose the option that best completes the sentence.
+@tip Look for time markers: "since/for" usually need the perfect; "by the time" + past needs the past perfect; "already/yet/just" go with the present perfect.
+I ___ in Ibadan since 2019. | have lived | live | am living | lived || "Since 2019" describes a period that started in the past and continues now, which takes the present perfect.
+By the time the ambulance arrived, the patient ___. | had died | has died | died | dies || The death happened before the arrival (another past event), so the past perfect is needed.
+She ___ her thesis yet. | has not submitted | did not submit | does not submit | had not submit || "Yet" in a negative statement about up to now goes with the present perfect.
+Look! The children ___ in the rain. | are playing | play | have played | played || "Look!" points to an action in progress at this moment: present continuous.
+Water ___ at 100 degrees Celsius at sea level. | boils | is boiling | boiled | has boiled || A general scientific fact takes the simple present.
+If I had known about the test, I ___ harder. | would have studied | will study | would study | had studied || A third conditional (unreal past) pairs "if + had + past participle" with "would have + past participle".
+When I got home, my mother ___ dinner, so I helped her finish it. | was cooking | cooked | has cooked | cooks || The cooking was in progress when I arrived (and I helped finish it): past continuous.
+This time next year, we ___ our final examinations. | will be writing | write | wrote | have written || An action in progress at a definite future time takes the future continuous.
+
+@topic Word Class
+@instruction Choose the word class (part of speech) of the bold word as used in the sentence.
+@tip Decide by the job the word does in this sentence, not by what it usually is: the same word can be a noun in one sentence and a verb in another.
+The committee will **table** the proposal tomorrow. | verb | noun | adjective | adverb || "Will table" is the action the committee performs, so "table" is a verb here.
+She spoke **fast** during the presentation. | adverb | adjective | verb | noun || "Fast" tells how she spoke, modifying the verb "spoke": adverb.
+He broke his **fast** at sunset. | noun | adverb | adjective | verb || "His fast" (a period without food) is a thing, preceded by a possessive: noun.
+The students waited **outside** the hall. | preposition | adverb | adjective | conjunction || "Outside" is followed by its object "the hall", linking it to "waited": preposition.
+The students waited **outside**. | adverb | preposition | noun | adjective || With no object after it, "outside" simply tells where they waited: adverb.
+**Although** it rained, the match continued. | conjunction | preposition | adverb | pronoun || "Although" joins the subordinate clause "it rained" to the main clause: conjunction.
+The **elderly** need special care. | noun | adjective | adverb | verb || "The elderly" means elderly people and is the subject of "need", so it works as a noun.
+**Whose** book is lying on the floor? | determiner | conjunction | adverb | verb || "Whose" comes before the noun "book" and asks about its owner, so it functions as a determiner.
+
+@topic Tag Questions
+@instruction Choose the correct question tag.
+@tip Repeat the auxiliary of the statement (or use do/does/did), reverse the polarity, and use a pronoun. Watch for negative words like "never", "hardly" and "nobody".
+She hardly ever comes late, ___? | does she | doesn't she | is she | isn't she || "Hardly" makes the statement negative, so the tag is positive: "does she".
+Let's go to the library, ___? | shall we | will we | don't we | let we || Suggestions with "Let's" take the tag "shall we".
+Nobody called while I was out, ___? | did they | didn't they | did he | didn't he || "Nobody" is negative, so the tag is positive, and it is referred to with "they".
+I am your friend, ___? | aren't I | amn't I | am not I | isn't I || The standard tag after "I am" is "aren't I".
+Everyone has submitted, ___? | haven't they | hasn't he | has they | hasn't they || "Everyone" takes "they" in the tag, so the auxiliary becomes "have": "haven't they".
+
+@topic Capitalisation and Punctuation
+@instruction Choose the option that is correctly capitalised and punctuated.
+@tip Capitalise names of particular people, places, days, months, languages and titles used with a name. Do not capitalise seasons or general words like "university" used on their own.
+Choose the correct sentence. | We visited the University of Lagos in December. | We visited the university of Lagos in december. | we visited the University of Lagos in December. | We visited the University Of Lagos In December. || The full name of the university is a proper noun, and months take a capital; "of" stays lower case in a title.
+Choose the correct sentence. | My uncle, who lives in Abuja, is a doctor. | My uncle who lives in Abuja, is a doctor. | My uncle, who lives in Abuja is a doctor. | My Uncle, who lives in Abuja, is a doctor. || A non-defining clause is enclosed by a pair of commas, and "uncle" is not a title before a name here.
+Choose the correct sentence. | The students' hostel is near the Faculty of Arts. | The student's' hostel is near the faculty of arts. | The students hostel is near the Faculty of Arts. | The students's hostel is near the Faculty of Arts. || For a plural noun ending in s, the possessive apostrophe follows the s: "students'". The faculty's full name is capitalised.
+Choose the correct sentence. | It's clear that the dog has hurt its leg. | Its clear that the dog has hurt it's leg. | It's clear that the dog has hurt it's leg. | Its' clear that the dog has hurt its leg. || "It's" means "it is"; the possessive "its" has no apostrophe.
+Choose the correct sentence. | We study English, French and Yoruba in the harmattan. | We study english, french and yoruba in the harmattan. | We study English, French and Yoruba in the Harmattan Season. | we study English, French and Yoruba in the harmattan. || Names of languages are capitalised; seasons, including the harmattan, normally are not.
+Choose the correct sentence. | "Where are you going?" she asked. | "Where are you going"? she asked. | "Where are you going?" She asked. | "Where are you going," she asked? || The question mark belongs to the spoken question, inside the quotation marks, and "she" continues the same sentence in lower case.

@@ -1,0 +1,179 @@
+# University of Ibadan Post-UTME Practice Questions & Answers: Use of English (PDF supplied by the EPTPREP owner).
+# Note: this is the undergraduate (Post-UTME) paper, not the postgraduate test. Explanations and tips: EPTPREP.
+# The PDF's answer key contains errors. EPTPREP corrected: Q2 (D), Q3 (B), Q6 (A), Q7 (D), Q50 (C), Q54 (B), Q55 (B),
+# Q59 (B), Q73 (B), Q82 (A), Q98 (C). Left out: Q5, Q38, Q42, Q81 (two options defensible) and Q74 (repeats Q65).
+# Items printed with three options get a fourth wrong option. Underlining, lost in the PDF text, is restored as **bold**.
+@source University of Ibadan Post-UTME Practice Questions: Use of English
+
+@topic Comprehension
+@instruction Read the passage and answer the question.
+@tip Base every answer on what the passage actually states. Find the sentence that deals with the question and compare meanings carefully; reject options that add information.
+@passage
+Every discernible observer could foresee the crisis which engulfed the Edo House last week. Only a few days before, reports were rife about the AC reaching out to some PDP legislators to cross-carpet, the intention being to gain a majority and then assume the Speakership with the least constraint. Zakawanu Garuba, the then Speaker, retorted with a fiat, threatening to declare vacant the seat of any defector. This in spite of the constitutional support for such action, as evidenced, for example, by the crisis that has torn the PDP apart in Edo State. The party has two factional chairmen in the state, even though one is more vociferous.
+
+The desperate attempt by Garuba to cling to the Speaker's chair is condemnable. He was not being recalled from the legislature; and so, he still has his seat as a floor member. As Speaker, he was only first among equals. The Speakership is not his birthright. With the defection of one PDP lawmaker to the AC, the legislature reconvened hours after the bloodbath and elected a protem Speaker, while impeaching and suspending Garuba and a few others. They are to be probed.
+
+(Adapted from The Guardian, 4 March 2011)
+@end
+Why did the AC woo PDP members? | they are few in number | *they want speakership without stress | PDP members are faithful | The House is tough || The passage says the intention was "to gain a majority and then assume the Speakership with the least constraint", i.e. without stress.
+The legislators impeached | Garuba | PDP lawmakers | Garuba and some PDP lawmakers | *Garuba and some lawmakers || They impeached "Garuba and a few others"; the passage does not say the others were PDP members, so (d) is the accurate answer.
+According to the passage, the constitution supports | The speaker | *Defecting | Edo State | Factional chairmen || Garuba threatened defectors "in spite of the constitutional support for such action": the action supported is defection.
+The lawmakers reconvened | After the defection of a PDP member | *After the bloodbath | After suspending the Speaker | After electing a protem Speaker || The passage states that the legislature "reconvened hours after the bloodbath".
+To cross-carpet, as used in the passage, means to | *change party | renew membership of a party | change one's carpet | buy new carpet || In Nigerian political usage, to "cross-carpet" is to defect from one party to another; the passage uses it of PDP legislators joining the AC.
+The crisis in the Edo State House of Assembly could be predicted by | The lawmakers | Edo State indigenes | The protem Speaker | *All conscious observers || The opening sentence says "every discernible observer could foresee the crisis", i.e. all conscious observers.
+@passage
+Nigeria has a troubled power sector which is however undergoing reforms that, hopefully, should usher in an era of private sector dominance in terms of ownership and management of generation and distribution. In this transitory phase, it is crucial to lay a foundation for local sourcing of vital inputs and make it the norm for the industry. That is the only way to prevent a replication of the trend in the oil and gas sub-sector, where capital flight is as much as $16 billion per annum, as revealed by the Petroleum Technology Development Fund.
+
+The PHCN could legitimately insist on quality and standards in its procurement of equipment and materials, but what is playing out is an institutional orientation, evinced in several pursuits of the PHCN, that is contemptuous of Nigeria's aspiration for local content development. In 1998, the defunct National Electric Power Authority defied a directive by the then Minister of Power and Steel, Alhaji Bashir Dalhatu, to source its castable components from Nigerian foundries, some of which are of high standards. Actuated by a realisation of idle capacity in the foundries and the need to conserve foreign exchange, the Minister applied appropriate pressure on the management of NEPA but found his efforts frustrated. The acute shortage or inefficiency in the metering programme originated from the fact that the only local manufacturer then, the Federal Government-owned Electricity Meter Company in Zaria, Kaduna State, established in 1976 but sold to Dantata Investments Limited in December 2002, is not performing.
+
+(Adapted from The Punch, 25 May 2011)
+@end
+Why is there a shortage of meters? | Non-performance of PHCN | Non-performance of NEPA | *Non-performance of the Federal Government-owned Electricity Meter Company | Non-performance of Dantata Investments Ltd. || The shortage "originated from the fact that the only local manufacturer ... the Federal Government-owned Electricity Meter Company ... is not performing".
+According to the passage, the solution to the problem in the power sector lies in | *Sourcing for materials locally | Getting castable components | Obeying the minister | Getting $16 billion per annum || The writer says local sourcing of vital inputs "is the only way" forward.
+From the passage it is clear that | There is money in the country | *There is a shortage of electricity meters | NEPA is better than PHCN | NEPA was formed in 1998 || The passage refers to "the acute shortage ... in the metering programme".
+Which of these is not true of the power sector? | There is only one local manufacturer of electricity meters | The power sector is undergoing reforms | *The problem of the power sector cannot be solved | There was procurement of equipment and materials || The writer proposes a solution (local sourcing), so the passage does not claim the problem cannot be solved.
+Which of these is undergoing reforms? | NEPA | PHCN | Nigeria | *The power sector || The first sentence says the power sector "is however undergoing reforms".
+A suitable title for this passage is | Nigeria and her problems | NEPA versus PHCN | Electricity meters | *Problems in the power sector || The whole passage discusses the difficulties of the power sector; the other titles are too broad or too narrow.
+
+@topic Lexis and Structure
+@instruction Choose the option that best completes the gap.
+@nopassage
+@tip Modal verbs carry meaning: "should" (duty), "must" (necessity or strong deduction), "may" (permission), "might" (possibility), "need not" (no necessity). Choose by meaning, then check the form.
+University students ____ behave well. | can | *should | may | must || "Should" expresses what is right or expected: students ought to behave well.
+Gloria ____ have finished the project two days ago. | *must | may | can | supposed to || "Must have + past participle" expresses a confident deduction about the past.
+@tip "Need" as a modal has no -s and is followed by the bare infinitive in negatives: "He need not come."
+He ____ not come now. | needs | needed | *need | will need || As a modal, "need" takes no -s in the negative: "He need not come".
+@tip "Be supposed to" (= be expected to) always needs "be": "is supposed to", "was supposed to".
+Janet ____ to know that we are all here. | suppose | supposes | *is supposed | should suppose || "Is supposed to know" means "is expected to know".
+@tip After "let it be", use the past participle: "let it be known".
+Let it be ____ that there was no king in Ayegun. | know | knew | *known | knows || "Let it be known" is a passive construction with the past participle "known".
+@tip Modal verbs carry meaning: "may" for permission, "might" for possibility, "should" for duty.
+"You ____ now see the director," the secretary told the visitors. | can | *may | should | would || A secretary giving visitors permission politely uses "may".
+I knew David ____ let us down. | may | will | *might | can || In reported thought after "I knew", "might" expresses a past possibility.
+You ____ me last week. | ought to see | ought to had seen | *ought to have seen | had to have seen || For a past obligation not fulfilled, use "ought to have + past participle".
+@tip A dangling participle is one whose implied subject is not the subject of the main clause. The person who did the -ing action must be the subject that follows the comma.
+@instruction Pick out the odd/wrong expression in each of the following.
+ | I suppose you know the way | *I am supposed you know the way | I suppose he knows the way | They suppose he knows the way || "I am supposed you know" is ungrammatical: "suppose" meaning "think" is active ("I suppose ..."), while "be supposed" needs "to" + verb.
+ | I travel next week | I will travel next week | *I suppose to travel next week | I should travel next week || "I suppose to travel" is wrong; the correct form is "I am supposed to travel".
+ | Having discovered the error, he apologised | *Having discovered the error, the apology was tendered | Having known the error, he apologised | Having found out the error, he tendered an apology || In (b) the participle "having discovered" has no proper subject: the apology did not discover the error (a dangling participle).
+ | She must finish the project in two days | *She must finish the project two days ago | She must have finished the project two days ago | She ought to have finished the project two days ago || "Must finish" refers to the present or future and cannot combine with "two days ago".
+@tip A first conditional pairs a present tense with "will"; a second conditional pairs a past tense with "would". Don't mix them.
+ | If I went in there, I would beat the security officer | *If I go in there, I would beat the security officer | If I go in there, I will beat the security officer | If I go in there, I can beat the security officer || "If I go" (present) needs "will/can" in the main clause; "would" belongs with "if I went".
+@instruction Which of the following sentences is correct?
+@tip Keep pronouns consistent ("one ... one's") and use object pronouns after prepositions ("between you and me").
+ | One should mind his business. | *One should mind one's business. | One should mind her business. | One should mind our business. || When the subject is "one", formal English keeps "one's" for consistency.
+ | This case is between you and I. | *This case is between you and me. | This case is between the two both of us. | This case is between yourself and I. || "Between" is a preposition, so it takes the object pronoun "me".
+ | *With them around, we have a great problem on our hands. | With them around, we have a great problem on our hand. | With them around, we have a great problem on hand. | With them around, we have great problem on our hands. || The idiom is "on our hands" (plural), meaning we have to deal with it.
+
+@topic Tag Questions
+@instruction Choose the option that best completes the gap.
+@tip The tag repeats the auxiliary of the statement with opposite polarity: positive statement, negative tag ("You are ..., aren't you?"); negative statement, positive tag.
+You are Goodluck, ____? | are you? | *aren't you? | are'nt you? | don't you? || A positive statement with "are" takes the negative tag "aren't you?" ("are'nt" is misspelt).
+@tip "Shall" in the statement takes "shan't" in the tag.
+We shall see you soon, ____? | shall we? | *shan't we? | shouldn't we? | should we? || The auxiliary "shall" is repeated in the negative: "shan't we?"
+@tip The tag repeats the auxiliary of the statement with opposite polarity.
+She isn't Gloria, ____? | *is she? | isn't she? | aren't she? | doesn't she? || The statement is negative ("isn't"), so the tag is positive: "is she?"
+@tip With "have" meaning "possess", British English may use "haven't" in the tag; "don't we?" is also common.
+We have a bus, ____? | didn't we? | *haven't we? | doesn't we? | hasn't we? || "We have" (present) takes the tag "haven't we?" in British usage; past or third-person forms do not fit.
+@tip When the statement has no auxiliary, use do/does/did in the tag.
+You missed the match, ____? | don't you? | *didn't you? | hadn't you? | doesn't you? || "Missed" is past simple without an auxiliary, so the tag uses "did": "didn't you?"
+@tip Imperatives take "will you?" in the tag.
+Walk the dog right now, ____? | walkn't you? | *will you? | shall you? | would you? || An imperative (command) takes the tag "will you?"
+@tip After "I am", the negative tag is "aren't I?"
+I am a student, ____? | I'm I? | *aren't I? | isn't I? | wouldn't I? || The standard negative tag for "I am" is "aren't I?"
+
+@topic Concord
+@instruction Choose the option that best completes the gap.
+@tip "Neither", "either", "each" and "every" are singular. Amounts of money and distance take a singular verb.
+Neither of the presidential candidates ____ suitable. | are | *is | is been | are been || "Neither" (not one of the two) takes a singular verb.
+Ten miles ____ a great distance. | *is | are | is been | are been || A distance considered as one amount takes a singular verb.
+Twenty dollars ____ enough for my lunch. | are | *is | are just | were || A sum of money is one amount, so "is".
+@tip Plural subjects take the base form of the verb in the present simple.
+The pests ____ our farm every year. | *invade | invades | has invades | is invading || "The pests" is plural, so the verb has no -s; "every year" requires the present simple.
+
+@topic Tense and Aspect
+@instruction Choose the option that best completes the gap.
+@tip An unreal present condition ("If I were ...") takes "would" + base verb in the main clause.
+If I were the president, I ____ ask for the money. | will | should | *would | can || "If I were" introduces an unreal (hypothetical) condition, so the main clause uses "would".
+If I were the Governor, I ____ ask for the project. | will | should | *would | can || A hypothetical "if I were" condition takes "would" in the main clause.
+@tip In a time clause about the future ("after/when/before ..."), use the present or present perfect, not "will".
+I will see you after I ____ spoken with your supervisor. | might have | *have | will have | would have || After "after" referring to the future, English uses the present perfect: "after I have spoken".
+@tip In questions with "does/do", the main verb is in the base form.
+When ____ the Cleric ____ today? | does/arrives | does/arrived | *does/arrive | do arrive || "Does" carries the tense and person, so the main verb is in the base form: "When does the Cleric arrive?"
+
+@topic Vocabulary in Context
+@instruction Choose the option that most appropriately expresses the idea in the bold expression.
+@tip Use the rest of the sentence as a clue, then test each option in place of the bold expression. Idioms (cross my fingers, sit on the fence, above board) must be known as whole units.
+My friend's parents are **magnanimous**. | rich and popular | sociable and lovable | *kind and generous | wicked and stingy || "Magnanimous" means generous and forgiving, especially towards others.
+My friend has an **overbearing** attitude toward me. | patient | impatient | *opinionated and domineering | considerate and respectful || An "overbearing" person is unpleasantly domineering.
+There are a number of **makeshift** buildings in town. | modern buildings | old fashion buildings | *temporary buildings | permanent buildings || "Makeshift" means serving as a temporary substitute.
+Post UME is **a hurdle to cross**. | a necessary and simple exam to pass | an unnecessary and difficult exam to pass | an unnecessary but simple exam to pass | *a necessary and challenging exam to pass || A "hurdle" is an obstacle that must be overcome: necessary and challenging.
+His contribution to the project is **invaluable**. | *extremely useful | of no value | of little value | can not be valued || "Invaluable" means extremely useful (too valuable to measure), not "without value".
+That was a **down-to-earth** approach. | poor | ordinary | *practical | immodest || "Down-to-earth" means practical and realistic. (The PDF prints "dawn-to-earth" and keys "ordinary".)
+Concerning my admission, I have to **cross my fingers**. | *wait and hope for the best | wait in frustration | wait confidently | take some risk || To "cross one's fingers" is to hope for good luck.
+My father is **indifferent** to my choice of university. | supports | opposes | not decided | *not concerned || "Indifferent" means having no interest or concern.
+We need an **ad hoc** arrangement towards the project. | intelligent | advanced | permanent | *temporary || "Ad hoc" means made for a particular purpose only, i.e. temporary.
+The student's reply to the lecturer **betrayed** his rudeness. | covered | *showed | reduced | increased || To "betray" a feeling or quality is to reveal it unintentionally. (The PDF's key gives "reduced", which does not fit.)
+His conduct in the last elections was **above board**. | arrogant | *honest | above average | excellent || "Above board" means honest and open, with nothing hidden.
+That was a **dispassionate** decision. | biased | personal | *unaffected | ineffective || A "dispassionate" decision is not influenced by emotion, i.e. unaffected (impartial).
+On the matter of worship, some **sit on the fence**. | go to the extreme | are decisive | are fanatics | *are undecided || To "sit on the fence" is to avoid taking sides.
+
+@topic Synonyms and Antonyms
+@instruction Choose the option that is nearest in meaning to the bold word.
+@tip For synonyms, read the whole sentence to fix the meaning, then choose the option with the same meaning and tone.
+In this matter, we must be prepared to tolerate human **frailty**. | inquisitiveness | *weakness | profligacy | innovation || "Frailty" means weakness, physical or moral.
+I detest his **lackadaisical** attitude. | carefree | *lazy | supercilious | disloyal || "Lackadaisical" means lacking enthusiasm and effort, i.e. lazy. (The PDF's key gives "carefree", which lacks the negative meaning.)
+Nobody will endure such **profligate** spending habits. | generous | arrogant | *wasteful | mindless || "Profligate" means recklessly wasteful.
+Is he **oblivious** of the political situation in his community? | *unconscious | conscious | afraid | intolerant || "Oblivious" means unaware or unconscious of something.
+Many people look into the future with **trepidation**. | certainty | uncertainty | *fear | faith || "Trepidation" means fear or anxiety about what may happen.
+Can you marry such a **lanky** man? | *tall and thin | sturdy | fat and short | tall and short || "Lanky" means awkwardly tall and thin.
+The election system we adopted was his **brainchild**. | undoing factor | *invention | power | fabrication || A "brainchild" is an idea or invention originated by a particular person.
+@instruction Choose the option opposite in meaning to the bold word.
+@tip For antonyms, be sure of the word's meaning first; then reject options that are synonyms placed to mislead you.
+Peter always approaches issues **optimistically**. | realistically | *pessimistically | carelessly | unrealistically || "Optimistically" means expecting good outcomes; the opposite is "pessimistically".
+Why should Dixon be **evasive** in answering the question? | indirect | *direct | guessing | sure || "Evasive" means avoiding a direct answer; the opposite is "direct".
+John and Ahmed's ideas were **speculative**. | stipulative | superlative | *factual | attractive || "Speculative" ideas are based on guesswork; the opposite is "factual".
+Henry was admitted to the hospital with **profuse** bleeding. | much | *little | internal | continuous || "Profuse" means abundant; the opposite is "little".
+Many people regard him as **prolific**. | diplomatic | productive | *unproductive | unacademic || "Prolific" means producing a great deal; the opposite is "unproductive".
+Our success is **paramount** in his mind. | *unimportant | important | certain | uncertain || "Paramount" means of supreme importance; the opposite is "unimportant".
+In all, I consider the behaviour **unpalatable**. | unacceptable | offensive | *acceptable | inoffensive || "Unpalatable" means unpleasant or unacceptable; the opposite is "acceptable".
+Her action will certainly **exacerbate** the situation. | *ameliorate | worsen | aggravate | clarify || "Exacerbate" means make worse; the opposite is "ameliorate" (make better).
+Is he really behaving **oddly**? | abnormally | *normally | evenly | properly || "Oddly" means strangely or abnormally; the opposite is "normally". (The PDF's key gives "properly".)
+Her health **deteriorated** rapidly. | worsened | *improved | stagnated | declined || "Deteriorated" means became worse; the opposite is "improved".
+
+@topic Capitalisation and Punctuation
+@instruction Which of the following sentences is correct?
+@tip "It's" means "it is"; the possessive is "its". Hyphenate compound adjectives before a noun ("a ten-year-old boy").
+ | The dog wagged it's tail. | *The dog wagged its tail. | The dog wagged its' tail. | The dog wagged it is tail. || The possessive pronoun "its" has no apostrophe; "it's" means "it is".
+ | A ten year old boy is missing. | *A ten-year-old boy is missing. | A ten year-old boy is missing. | A ten-year old boy is missing. || A compound adjective before a noun is hyphenated throughout: "ten-year-old".
+
+@topic Sense Relation
+@instruction Choose the option that sounds the same as the given word.
+@tip Homophones sound alike but differ in spelling and meaning. Say each option aloud and compare the vowel sound carefully.
+Choose the option that sounds the same as **bear**. | *bare | beer | bared | beard || "Bear" and "bare" are homophones (/beə/). "Beer" has a different vowel. (The PDF's key gives "beer".)
+Choose the option that sounds the same as **key**. | kiss | *quay | keyed | kissed || "Key" and "quay" (a landing place for ships) are both pronounced /kiː/.
+
+@topic Spelling
+@instruction Choose the word that is correctly spelled.
+@tip Check doubled consonants: accommodation (cc, mm), embarrassment (rr, ss), horrific (rr).
+ | acomodation | *accommodation | accomodation | acommodation || "Accommodation" has double "c" and double "m".
+ | *embarrassment | embarassment | embarrasment | embarasment || "Embarrassment" has double "r" and double "s" (twice).
+ | *horrific | horific | horiffic | horriffic || "Horrific" (from "horror") has double "r" and single "f".
+
+@topic Word Class
+@instruction Identify the grammatical name or function of the bold expression.
+@tip A clause has a finite verb; a phrase does not. Name the unit by its form (clause, phrase) and its function (adverbial of time, appositive, complement).
+**As soon as Joy arrived**, she started looking for food. The bold expression is an | adverbial phrase of reason | adverbial clause of reason | adverbial phrase of time | *adverbial clause of time || It contains a finite verb ("arrived"), so it is a clause, and "as soon as" introduces time.
+My friend, **a brilliant lecturer**, won many prizes. The bold expression is a(n) | adjectival clause | relative clause | *appositive phrase | subject of "won" || It renames "my friend" and has no verb, so it is an appositive phrase.
+I passed very well **because** I studied hard. The bold word is a | relative clause introducer | linking verb | adverb of reason | *subordinating conjunction || "Because" introduces a dependent (subordinate) clause, so it is a subordinating conjunction.
+Bello and I love **each other**. The bold expression is a | preposition | *reciprocal pronoun | noun phrase | adjectival phrase || "Each other" expresses a mutual relationship: a reciprocal pronoun.
+I prefer **writing** to acting. The bold word is a(n) | verb | participle | *gerund | object || "Writing" is an -ing form used as a noun (the object of "prefer"), i.e. a gerund.
+**Having finished my assignment**, I started watching television. The bold expression is a(n) | infinitive clause | gerund | *participial phrase | noun clause || It is introduced by the participle "having finished" and modifies "I": a participial phrase.
+**If you leave early**, you'll meet Sola at home. The bold expression is a | nominal clause | verbal clause | *conditional clause | adjectival clause || A clause introduced by "if" that states a condition is a conditional clause.
+**Wounded by a lion**, the hunter trudged home. The bold expression is a | nominal clause | verbal clause | *participial clause | adjectival clause || It begins with the past participle "wounded" and has no finite verb: a (non-finite) participial clause.
+I'm proud **of you**. The bold expression functions as | prepositional complement | *adjectival complement | subject complement | verbal complement || "Of you" completes the meaning of the adjective "proud", so it is an adjectival complement.
+A noun phrase lacks one of the following: | noun | *verb | adjective | adverb || A noun phrase is built around a noun and may contain adjectives and adverbs, but it has no verb.
+Eve gave Adam **an apple**. "An apple" in the sentence functions as | subject of the verb "gave" | *direct object of the verb | indirect object of the verb | object complement || "An apple" is the thing given (direct object); "Adam" is the receiver (indirect object).
+I wonder if you know where he lives. This sentence is a(n) | thoughtful statement | polite command | *indirect question | subtle exclamation || It reports a question inside a statement ("I wonder if ..."), which is an indirect question. (The PDF's key gives "thoughtful statement".)
+An example of a gradable adjective is | each | *beautiful | dead | live || Gradable adjectives can be intensified or compared ("very beautiful", "more beautiful"); "dead" and "live" are not normally graded.
+A clause differs from a phrase because a clause contains | a larger number of words | a fewer number of words | *a finite verb | a non-finite verb || A clause has a finite verb (with tense and subject); a phrase does not.

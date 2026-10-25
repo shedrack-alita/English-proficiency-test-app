@@ -1,9 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  // Hide the Next.js development badge; compile and runtime errors are still shown.
+  devIndicators: false,
+  // Every page here depends on the signed-in candidate, so pages render per request.
   turbopack: {
     rules: {
       "*.css": {

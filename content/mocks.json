@@ -1,0 +1,14 @@
+[
+  {
+    "key": "uipg2013",
+    "title": "UI Postgraduate English Test: Official Sample Paper",
+    "description": "The 150 sample questions published by the University of Ibadan Postgraduate School (May 2013), in the original order. The booklet allows 60 minutes. One attempt.",
+    "minutes": 60
+  },
+  {
+    "key": "uipgmock100",
+    "title": "UI Postgraduate EPT Mock Examination",
+    "description": "A complete 100-question mock paper across 14 sections, in exam order. Timed, one attempt only.",
+    "minutes": 60
+  }
+]

@@ -1,0 +1,203 @@
+# UI Postgraduate EPT Mock Examination (Questions 1-100), supplied by the EPTPREP owner.
+# Options are in paper order; "*" marks the published answer. Explanations and tips: EPTPREP.
+@source UI Postgraduate EPT Mock Examination (Questions 1-100)
+@mock uipgmock100
+
+@topic Word Class
+@instruction Choose the option that correctly names the word class of the bold word.
+@tip Ask what job the word does in this sentence: naming (noun), describing a noun (adjective), describing a verb or adjective (adverb), linking (conjunction), showing relation (preposition) or expressing emotion (interjection).
+The **beautiful** garden attracted many visitors. | noun | *adjective | adverb | verb || "Beautiful" describes the noun "garden", so it is an adjective.
+The students **quickly** finished the test. | adjective | verb | *adverb | preposition || "Quickly" tells us how the students finished, so it modifies the verb and is an adverb.
+She waited **for** the bus. | *preposition | conjunction | adverb | pronoun || "For" links the verb "waited" to the noun phrase "the bus", which is what a preposition does.
+**Honesty** is the best policy. | adjective | verb | adverb | *noun || "Honesty" names a quality and is the subject of the sentence, so it is an (abstract) noun.
+He is tired **but** happy. | preposition | *conjunction | adverb | pronoun || "But" joins two adjectives of equal rank ("tired" and "happy") and shows contrast, so it is a coordinating conjunction.
+**Wow!** That was a great performance. | *interjection | adverb | noun | adjective || "Wow!" stands on its own to express surprise or admiration, which makes it an interjection.
+@instruction Choose the correct form of the word to fill the blank.
+@tip After a possessive ("the company's") or an article, the gap needs a noun. Look for noun endings such as -ity, -ness, -tion and -ment.
+The company's ____ increased after the new policy was introduced. | productive | productively | produce | *productivity || The possessive "company's" must be followed by a noun, and the noun meaning "rate of output" is "productivity". "Productive" is an adjective and "productively" an adverb.
+
+@topic Register
+@instruction Choose the option that is most appropriate to the field or situation indicated.
+@tip Register questions test the vocabulary that belongs to a profession or setting. Picture the setting (a courtroom, a bank, a hospital, a football match) and pick the word you would actually hear there.
+Which of the following words is most associated with the language of the law court? | *plaintiff | patient | tenor | goalkeeper || A plaintiff is the person who brings a case against another in a court of law. "Patient" belongs to medicine, "tenor" to music and "goalkeeper" to football.
+Which of the following words is most associated with banking? | sermon | verdict | *overdraft | offside || An overdraft is money withdrawn beyond the balance in a bank account, an arrangement made with a bank. The others belong to the church, the law court and football.
+Which of the following words belongs to the register of medicine? | cross-examination | *prognosis | mortgage | litigation || A prognosis is a doctor's forecast of how an illness will develop. "Cross-examination" and "litigation" are legal terms; "mortgage" belongs to banking and property.
+Which of the following sentences is most appropriate in a formal letter of application? | Hey, I want that job. | Give me the job, please. | I'm gonna apply for the job. | *I wish to apply for the position advertised in your newspaper. || A formal letter needs polite, complete, impersonal language. The other options are casual ("Hey", "gonna") or blunt commands.
+Which of the following words belongs to the register of football? | bail | syllabus | *offside | tenancy || "Offside" is a football rule. "Bail" belongs to law, "syllabus" to education and "tenancy" to property.
+Which of the following words is most associated with the language of the church? | *sermon | defendant | dividend | referee || A sermon is a talk on a religious subject given during a church service. The others belong to law, finance and sport.
+
+@topic Concord
+@instruction Fill in the blank space in each of the following sentences with the most suitable word from the options.
+@tip Find the true subject first. Phrases such as "together with", "as well as" and "along with" add information but do not change the number of the subject.
+The principal, together with the teachers, ____ attending the conference. | are | have | *is | were || The subject is "the principal" (singular); "together with the teachers" is an added phrase that does not make it plural, so the verb is "is".
+@tip With "neither ... nor" and "either ... or", the verb agrees with the subject closest to it (the rule of proximity).
+Neither the lecturer nor the students ____ aware of the change in the timetable. | was | is | has | *were || With "neither ... nor" the verb agrees with the nearer subject. "The students" is plural and the sentence is in the past, so "were" is correct.
+@tip "Each", "every", "either" and "neither" are singular, even when followed by "of" and a plural noun.
+Each of the candidates ____ a separate answer booklet. | have | *has | are | were || "Each" is singular; "of the candidates" only tells us which group. A singular subject takes "has".
+@tip Some collective nouns are always plural in form and meaning, e.g. police, people, cattle, clergy.
+The police ____ investigating the robbery at the bank. | is | *are | has | was || "Police" is always treated as plural in Standard English, so it takes "are".
+@tip "A number of" means "many" and takes a plural verb; "the number of" refers to one figure and takes a singular verb.
+A number of applicants ____ submitted their forms late. | has | is | was | *have || "A number of applicants" means "many applicants", a plural idea, so the verb is "have".
+The number of unemployed graduates ____ increasing every year. | *is | are | have | were || "The number" is a single figure and is the head of the subject, so the verb is singular: "is".
+@tip Amounts of money, time, distance and weight are treated as a single quantity and take a singular verb.
+Ten thousand naira ____ too much to pay for the textbook. | are | were | have been | *is || "Ten thousand naira" is one sum of money considered as a whole, so it takes the singular "is".
+@tip In conditions that are imaginary or contrary to fact ("If I were you..."), use "were" for every subject (the subjunctive).
+If I ____ you, I would apply for the postgraduate programme. | was | am | *were | be || The speaker is not the listener, so the condition is contrary to fact. Standard English uses the subjunctive "were" here, even with "I".
+
+@topic Parallelism
+@instruction Choose from the options a-d the expression that represents the most acceptable parallel structure.
+@tip Items joined by "and", "or" or listed in a series must share the same grammatical form: all adjectives, all -ing forms, all "to" infinitives, and so on.
+ | *She is intelligent, hardworking and honest. | She is intelligent, hardworking and has honesty. | She is intelligent, works hard and honest. | She is intelligent, hardworking and being honest. || All three items are adjectives after "is": intelligent, hardworking, honest. The other options switch to a verb phrase or a noun.
+ | Tunde enjoys reading novels, to write poems and watching films. | *Tunde enjoys reading novels, writing poems and watching films. | Tunde enjoys to read novels, writing poems and watching films. | Tunde enjoys reading novels, writing poems and to watch films. || "Enjoy" is followed by -ing forms, and the series stays parallel: reading, writing, watching.
+@tip When one "to" introduces a series, either use it once before the first item or repeat it before every item, and keep every verb in its base form.
+ | The manager promised to increase salaries, to reduce working hours and improving working conditions. | The manager promised increasing salaries, to reduce working hours and improve conditions. | *The manager promised to increase salaries, reduce working hours and improve working conditions. | The manager promised to increase salaries, reduce working hours and to improving conditions. || One "to" governs three base verbs: (to) increase, reduce, improve. The other options mix infinitives with -ing forms.
+ | The new laboratory is spacious, well-equipped and it has good ventilation. | The new laboratory is spacious, equipped well and with ventilation. | The new laboratory is spacious, well-equipped and ventilation is good. | *The new laboratory is spacious, well-equipped and well-ventilated. || Three adjectives describe the laboratory: spacious, well-equipped, well-ventilated. The others end with a clause or phrase instead of an adjective.
+@tip Items in a series must share the same grammatical form: all adjectives, all -ing forms, all "to" infinitives, and so on.
+ | Ade's duties include marking scripts, setting questions and to supervise projects. | *Ade's duties include marking scripts, setting questions and supervising projects. | Ade's duties include to mark scripts, setting questions and supervising projects. | Ade's duties include marking scripts, to set questions and supervising projects. || Each duty is an -ing phrase: marking scripts, setting questions, supervising projects.
+ | *The lecture was long, boring and tiring. | The lecture was long, boring and it was tiring. | The lecture was long, bored and tiring. | The lecture was long, boring and tire. || Three adjectives describe the lecture. "Bored" describes a person's feeling, not the lecture, and "tire" is a verb.
+@tip In comparisons with "would rather ... than", both sides take the base form of the verb, without "to" or -ing.
+ | She would rather walk to school than to take a taxi. | She would rather walk to school than taking a taxi. | *She would rather walk to school than take a taxi. | She would rather walking to school than take a taxi. || "Would rather" is followed by the bare infinitive on both sides of "than": walk ... take.
+@tip "Neither" is paired with "nor", and the word after "nor" must match the word after "neither".
+The speaker was neither rude ____. | *nor arrogant | or arrogant | or being arrogant | nor arrogance || "Neither" pairs with "nor", and "arrogant" is an adjective like "rude", keeping the structure parallel.
+
+@topic Standard Forms
+@instruction From the options a-d, select the one that best represents the Standard British English version of each bold word or expression.
+@tip Many Nigerian expressions add unnecessary words ("revert back", "cope up with"). Remove the extra word, or use the idiom a British speaker would use.
+The new lecturer promised to **revert back** to the students on Monday. | revert again | *get back to | reply back | return back || "Revert back" repeats itself, and "revert" in this sense is not standard British usage. A British speaker would say "get back to" the students.
+I could not **cope up with** the workload. | cope for | cope on with | *cope with | cope up on || The standard phrasal verb is "cope with". "Up" is an unnecessary addition.
+There was a heavy **go-slow** on the expressway this morning. | *traffic jam | slow go | go-and-stop | road delay || In British English a "go-slow" is a form of industrial action; congestion on a road is a "traffic jam".
+My mother bought a **fairly used** car for me. | half-used | *second-hand | fairly new used | nearly used || "Fairly used" is Nigerian usage. The standard term for goods that have had a previous owner is "second-hand".
+My friends came to **send me off** at the airport. | drop me off | send off me | *see me off | leave me off || To accompany someone to their point of departure is to "see them off". "Send off" means to dismiss or dispatch.
+Please **put off** the lights before you leave. | *switch off | quench | kill | put down || Lights and electrical appliances are "switched off" (or "turned off") in standard usage.
+The lecturer **took permission** to leave early. | took authority | *asked for permission | took leave | begged permission || Permission is asked for, sought or obtained, not "taken".
+She **passed out** from the university in 2019. | went out | fainted | exited | *graduated || In British English "pass out" usually means "faint". Completing a university degree is to "graduate".
+
+@topic Discourse Reference
+@instruction From the options a-d, identify the word or expression that the bold word(s) connect with in each of the sentences or exchanges below.
+@tip A pronoun usually refers back to the nearest noun that matches it in number and gender and makes sense in context. Replace the pronoun with each option and see which reads correctly.
+When Professor Adeyemi entered the hall, the students stood up to greet **him**. | The students | The hall | *Professor Adeyemi | Greet || "Him" is singular and masculine, and the students greeted the person who entered, Professor Adeyemi.
+@tip "The former" points to the first of two things just mentioned; "the latter" points to the second.
+Ngozi and Chika are sisters. **The former** is a lawyer, while the latter is a doctor. | Chika | Sisters | A lawyer | *Ngozi || "The former" refers to the first of the two people named, Ngozi.
+@tip A pronoun usually refers back to the nearest noun that matches it in number and makes sense in context.
+The lecturer returned the scripts after he had marked **them**. | The lecturer | *The scripts | He | Marked || "Them" is plural and is the thing that was marked, which is the scripts.
+@tip Words such as "few", "many", "some" and "most" can stand for a noun already mentioned (substitution or ellipsis). Work out the full phrase they replace.
+Many students applied for the scholarship, but **few** were successful. | *Few of the students who applied | Many | The scholarship | Applied || "Few" is short for "few of the students who applied"; the noun is understood from the first clause.
+@tip A pronoun usually refers back to the nearest noun that matches it in number and makes sense in context.
+Biola loves jollof rice and cooks **it** every Sunday. | Biola | Every Sunday | *Jollof rice | Loves || What Biola cooks is the jollof rice, so "it" refers to "jollof rice".
+@tip Words such as "the first" and "the second" stand for a noun already mentioned (ellipsis). Supply the missing noun.
+Seun: Did you read the two novels? Kemi: I read the first but not the **second**. | The first novel | Two | Read | *The second novel || "The second" omits the noun "novel", which is understood from Seun's question.
+@tip "The former" points to the first of two things just mentioned; "the latter" points to the second.
+Dr. Bello and Dr. Musa teach in the department. **The latter** also supervises postgraduate students. | *Dr. Musa | Dr. Bello | The department | Postgraduate students || "The latter" refers to the second of the two people named, Dr. Musa.
+
+@topic Comprehension
+@instruction Read the passage carefully and answer the question.
+@tip Answer from what the passage says, not from your own opinion. Find the sentence that deals with the question and match its meaning, not just its words.
+@passage
+Many universities in Nigeria are struggling with a growing problem: students who submit work that is not their own. Lecturers report that, with the arrival of the internet, copying from websites has become so easy that some students no longer see it as wrongdoing. Yet plagiarism, the presentation of another person's ideas or words as one's own, remains a serious academic offence. It damages the reputation of the student, the supervisor and the institution alike. Some institutions now use software that compares submitted work with millions of online sources within minutes. However, experts argue that technology alone cannot solve the problem. They insist that students must be taught to value honest scholarship, to cite their sources properly and to develop the confidence to express their own views. Only then, they say, will degrees earned in Nigerian universities command the respect they deserve.
+@end
+According to the passage, why has copying become easier? | Lecturers have become less strict. | *The internet has made material readily available. | Students no longer attend lectures. | Software encourages students to copy. || The passage says that "with the arrival of the internet, copying from websites has become so easy". The other options are not stated.
+What do the experts say about technology? | *It cannot solve the problem alone. | It is the only solution. | It should be banned from universities. | It encourages honest scholarship. || The passage states that "experts argue that technology alone cannot solve the problem."
+The word **command**, as used in the passage, means | order | control | instruct | *earn || Degrees that "command the respect they deserve" are degrees that earn or receive respect. "Order", "control" and "instruct" are other meanings of "command" that do not fit here. || For meaning-in-context questions, substitute each option into the sentence and keep the one that preserves the meaning.
+
+@topic Spelling
+@instruction Select the correctly spelt word.
+@nopassage
+@tip Learn the tricky parts of commonly misspelt words: doubled letters (millennium, necessary), "ie/ei" (receive) and silent letters (rhythm, conscience).
+ | millenium | milennium | *millennium | millennnium || "Millennium" has a double "l" and a double "n": mi-ll-e-nn-ium. It comes from Latin mille (thousand) and annus (year).
+ | neccessary | *necessary | necesary | neccesary || "Necessary" has one "c" and a double "s". A memory aid: one Collar and two Sleeves.
+ | recieve | receeve | reciebe | *receive || After "c", the order is "ei": receive, deceive, conceive.
+ | *rhythm | rythm | rhythem | rhythym || "Rhythm" has an "h" after both "r" and "t", and no vowel between "th" and "m".
+ | concience | *conscience | consciense | conscence || "Conscience" contains "science": con-science.
+
+@topic Capitalisation and Punctuation
+@instruction Select the correct sentence in terms of capitalisation.
+@tip Capitalise proper nouns (specific names of people, institutions, places, days and months) but not general compass directions or common nouns.
+ | The Nigerian Army will hold its parade at the University of Ibadan on friday. | The nigerian army will hold its parade at the University of Ibadan on Friday. | *The Nigerian Army will hold its parade at the University of Ibadan on Friday. | The Nigerian army will hold its parade at the university of Ibadan on Friday. || "The Nigerian Army" and "the University of Ibadan" are names of specific institutions, and days of the week always take capitals, so "Friday" is capitalised.
+ | *We travelled north to Kano and then west to the Atlantic Ocean. | We travelled North to Kano and then West to the atlantic ocean. | We travelled north to kano and then west to the Atlantic ocean. | we travelled north to Kano and then west to the Atlantic Ocean. || "North" and "west" are directions here, so they are lower case. "Kano" and "the Atlantic Ocean" are proper names, and the sentence must begin with a capital.
+
+@topic Tag Questions
+@instruction Choose the correct question tag to complete each sentence.
+@tip A question tag repeats the auxiliary verb of the statement with the opposite polarity (positive statement, negative tag) and a pronoun for the subject.
+The students are ready, ____? | isn't it | don't they | weren't they | *aren't they || The statement is positive with the auxiliary "are" and a plural subject, so the tag is negative: "aren't they?"
+She can't swim, ____? | can't she | *can she | isn't she | does she || The statement is negative ("can't"), so the tag is positive and repeats the same auxiliary: "can she?"
+@tip Special tags: "Let's ..." takes "shall we?", and imperatives usually take "will you?" (or "won't you?" for invitations).
+Let's go home, ____? | will we | don't we | *shall we | won't we || Suggestions beginning with "Let's" take the tag "shall we?"
+@tip After "I am", the negative tag is "aren't I?" ("amn't I" is not standard).
+I am invited, ____? | am I | amn't I | isn't I | *aren't I || The positive statement "I am" takes the negative tag "aren't I?" in Standard English.
+@tip Negative words such as nobody, nothing, never and hardly make the statement negative, so the tag is positive. "Nobody/everybody" take "they" in the tag.
+Nobody called, ____? | didn't they | did he | *did they | didn't he || "Nobody" makes the statement negative, so the tag is positive, and indefinite pronouns for people take "they": "did they?"
+@tip Special tags: "Let's ..." takes "shall we?", and imperatives usually take "will you?" (or "won't you?" for invitations).
+Open the door, ____? | *will you | do you | don't you | aren't you || An imperative (a command) takes the tag "will you?"
+
+@topic Collocation
+@instruction Choose the word that best fills each numbered blank in the passage below.
+@tip Collocation questions test which words naturally go together in formal English. Read the whole sentence: the right word fits both the meaning and the words around it (e.g. "abide by", "pay a fine", "observe silence").
+@passage
+Library Regulations
+
+Dear students, the University Library Board has recently (61) a new set of rules to (62) the use of library facilities. All students are expected to (63) by these rules at all times. Books borrowed from the lending section must be (64) within fourteen days, and any student who fails to do so will be required to (65) a fine of fifty naira per day. Those who wish to extend the loan period must (66) a formal application to the Librarian. All readers must also (67) strict silence in all reading areas, and anyone who (68) the rules may lose borrowing privileges.
+@end
+Choose the best option for blank (61) in the passage. | made up | put up | set up | *drawn up || Rules, plans and documents are "drawn up" (prepared formally in writing). "Made up" suggests invention.
+Choose the best option for blank (62) in the passage. | *govern | conduct | steer | lead || Rules "govern" the use of facilities, meaning they control and regulate it.
+Choose the best option for blank (63) in the passage. | stick | comply | *abide | conform || Only "abide" combines with "by": to abide by rules. We comply "with" and conform "to" rules.
+Choose the best option for blank (64) in the passage. | given | sent | *returned | brought || Borrowed books must be "returned" to the library by the due date.
+Choose the best option for blank (65) in the passage. | give | *pay | make | take || The fixed expression is "pay a fine".
+Choose the best option for blank (66) in the passage. | do | carry | take | *submit || An application is "submitted" to an official.
+Choose the best option for blank (67) in the passage. | watch | see | *observe | regard || The fixed expression is "observe silence", meaning to keep or respect it.
+Choose the best option for blank (68) in the passage. | cracks | *breaks | cuts | splits || Rules and laws are "broken" by those who disobey them.
+
+@topic Lexis and Structure
+@instruction Choose the option that best completes each sentence.
+@nopassage
+@tip Many adjectives and verbs are followed by a fixed preposition (allergic to, married to, insist on, dispose of). Learn them as pairs.
+He is allergic ____ groundnuts. | of | *to | with | for || The adjective "allergic" is followed by "to".
+She is married ____ a medical doctor. | with | by | *to | at || In Standard English one is married "to" someone.
+@tip "Hardly/Scarcely ... when" and "No sooner ... than" are fixed pairs; don't mix them.
+Hardly had the lecture begun ____ the power failed. | than | then | that | *when || "Hardly" is paired with "when". "Than" goes with "no sooner".
+@tip "Had I known" is an inverted third conditional (= "If I had known"), so the main clause takes "would have" + past participle.
+Had I known the answer, I ____ you. | *would have told | would told | will tell | had told || This is a third conditional about the past ("If I had known"), so the result clause is "would have told".
+@tip Many adjectives and verbs are followed by a fixed preposition (allergic to, married to, insist on, dispose of). Learn them as pairs.
+The company decided to ____ the old machines. | dispose | dispose with | *dispose of | dispose off || The phrasal verb meaning "get rid of" is "dispose of". "Dispose off" is a common error.
+The new law will come ____ effect next month. | in | on | to | *into || The fixed expression is "come into effect", meaning to start to apply.
+He insisted ____ paying the bill himself. | in | at | *on | to || "Insist" takes the preposition "on" (insist on doing something).
+She is accustomed ____ waking up early. | *to | at | with | for || "Accustomed to" is followed by a noun or an -ing form: accustomed to waking up early.
+
+@topic Stylistic Variation
+@instruction Choose from the options a-d the item that could be most appropriately used in a letter to your uncle during your visit to his fish farm.
+@tip In letter-context questions, the right option is both grammatically correct and suited to the reader. Check concord, tense, spelling (advice/advise) and comparison forms first.
+ | Uncle, more than one fish pond have been flooded by the rain. | *Uncle, more than one fish pond has been flooded by the rain. | Uncle, more than one fish pond are been flooded by the rain. | Uncle, more than one fish pond is been flooded by the rain. || "More than one" is followed by a singular noun and verb ("more than one pond has"). "Is been" and "are been" are not grammatical.
+ | *The manager, together with the workers, was here yesterday. | The manager, together with the workers, were here yesterday. | The manager, together with the workers, are here yesterday. | The manager, together with the workers, is here yesterday. || The subject is "the manager" (singular), and "yesterday" requires the past tense, so "was" is correct.
+ | I forget my notebook at the hatchery. | I forgotten my notebook at the hatchery. | I have leave my notebook at the hatchery. | *I left my notebook at the hatchery. || When a place is mentioned, use "leave" (past "left"): you leave something somewhere. "Forget" does not normally take a place.
+ | Uncle, I will advice you on the feed to buy. | *Uncle, I will advise you on the feed to buy. | Uncle, I will advise you to the feed to buy. | Uncle, I will advice you to the feed to buy. || "Advise" (with s) is the verb and "advice" the noun. We advise someone "on" a matter.
+ | Your farm is more productive than any other farms in the area. | Your farm is more productive than any farm in the area. | Your farm is most productive than any other farm in the area. | *Your farm is more productive than any other farm in the area. || A comparative with "than any other" takes a singular noun ("any other farm"). "Other" is needed because the farm cannot be compared with itself.
+@instruction Change the active sentence to the passive structure.
+@tip To make a passive, keep the tense of the active verb in the form of "be" and add the past participle; the old object becomes the subject, and the verb agrees with it.
+The workers feed the fish twice daily. | *The fish are fed by the workers twice daily. | The fish is fed by the workers twice daily. | The fish were fed by the workers twice daily. | The fish was being fed by the workers twice daily. || The active verb is present simple, so the passive uses "are" + "fed". "Fish" here refers to many fish, so the verb is plural.
+My uncle has built a new pond. | A new pond is built by my uncle. | A new pond was built by my uncle. | *A new pond has been built by my uncle. | A new pond have been built by my uncle. || The active verb is present perfect ("has built"), so the passive is "has been built". The subject "a new pond" is singular.
+They will harvest the fish next week. | The fish are harvested by them next week. | The fish will harvested by them next week. | The fish would be harvest by them next week. | *The fish will be harvested by them next week. || A future active ("will harvest") becomes "will be harvested" in the passive.
+
+@topic Sense Relation
+@instruction Choose the option that best answers each question on the relationships between word meanings.
+@tip Know the terms: synonymy (same meaning), antonymy (opposite), hyponymy (kind of, e.g. rose/flower), meronymy (part of, e.g. wheel/car), homonymy (same form, unrelated meanings), polysemy (one word, related meanings).
+"Furniture" is a ____ term for table, chair and bed. | subordinate | contrary | synonymous | *superordinate || "Furniture" is the general term that includes table, chair and bed; such a general term is a superordinate (the specific words are its hyponyms).
+The words "bank" (the edge of a river) and "bank" (a financial institution) are an example of | *homonymy | synonymy | antonymy | hyponymy || The two meanings of "bank" share the same form but are unrelated, which is homonymy.
+The words "hot" and "cold" are an example of | synonymy | hyponymy | *antonymy | polysemy || "Hot" and "cold" have opposite meanings, so they illustrate antonymy.
+The relationship between "wheel" and "car" is called | hyponymy | synonymy | antonymy | *meronymy || A wheel is a part of a car. The part-whole relationship is meronymy.
+The word "head" in "the head of the school" and "she scratched her head" shows | synonymy | *polysemy | antonymy | hyponymy || Both meanings of "head" are related (the top or leading part), so this is one word with related senses: polysemy.
+Which of the following pairs shows synonymy? | *big and large | buy and sell | up and down | hot and cold || "Big" and "large" have the same meaning. The other pairs are opposites.
+
+@topic Synonyms and Antonyms
+@instruction Choose the option that is closest in meaning to the bold word.
+@tip For synonyms, decide whether the word is positive or negative, then choose the option with the same meaning and the same tone. Test it in the sentence.
+The minister gave a **candid** answer. | *frank | polite | long | false || "Candid" means open and honest, like "frank".
+The old man was **frugal** with his money. | wasteful | *thrifty | generous | careless || "Frugal" means careful not to spend more than necessary, which is "thrifty". "Wasteful" is its opposite.
+The report was **concise**. | lengthy | accurate | *brief | late || "Concise" means giving information clearly in few words, i.e. brief.
+His **diligence** earned him a scholarship. | laziness | *hard work | luck | intelligence || "Diligence" is careful and persistent work or effort.
+The speaker's argument was **cogent**. | confusing | weak | lengthy | *convincing || A "cogent" argument is clear, logical and convincing.
+@instruction Choose the option that is opposite in meaning to the bold word.
+@tip For antonyms, first be sure what the word means, then look for the option meaning the opposite. Watch out for options that are synonyms placed to mislead you.
+The student gave a **vague** explanation. | long | wrong | short | *clear || "Vague" means unclear or imprecise; its opposite is "clear".
+He is a **generous** man. | *stingy | kind | rich | old || "Generous" means ready to give freely; its opposite is "stingy" (unwilling to give or spend).
+The test was **trivial**. | easy | short | *important | hard || "Trivial" means of little importance; its opposite is "important".
+The judge was **lenient**. | kind | *harsh | old | fair || "Lenient" means merciful or not strict in punishing; the opposite is "harsh".
+The manager's behaviour was **transparent**. | open | honest | clear | *secretive || "Transparent" behaviour is open and easy to understand; its opposite is "secretive". The other options are near-synonyms.
