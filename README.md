@@ -114,7 +114,11 @@ The questions are loaded into:
 - **UI Postgraduate English Test: Official Sample Paper**: the 150-question 2013 paper, 60 minutes.
 - **UI Postgraduate EPT Mock Examination**: the 100-question mock, 60 minutes.
 
-Mock examinations run in paper order and allow one attempt; the pass mark is 40%.
+Every candidate gets their own order: practice sets are drawn at random, and the mock papers
+shuffle their questions and options for each candidate. Questions on the same passage stay
+together in paper order, and options such as "All of the above" keep their place. Mock
+examinations allow one attempt; the pass mark is 40%. An admin can turn shuffling off for a
+test, or set "Questions shown" below the total so each candidate also gets a different set.
 
 ### Editing the questions
 
@@ -137,9 +141,9 @@ npm run bank
 ```
 
 This validates every question and writes `src/lib/seed-data/bank.json`. The next request (or
-deploy) replaces the built-in tests automatically; candidates' accounts stay, but attempts on
-built-in tests are cleared because their questions changed. Tests created in the admin panel are
-never touched.
+deploy) updates the built-in tests in place: edited questions are updated, new ones added and
+removed ones deleted, while candidates' accounts, attempts and results are kept. Tests created
+in the admin panel are never touched.
 
 ## How exams work
 
