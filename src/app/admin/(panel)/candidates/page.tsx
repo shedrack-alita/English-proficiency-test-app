@@ -14,7 +14,15 @@ export default async function CandidatesPage({ searchParams }: PageProps<"/admin
 
   return (
     <>
-      <PageHeader title="Candidates" subtitle="Everyone who has created an EPTPREP account." />
+      <PageHeader
+        title="Candidates"
+        subtitle="Everyone who has created an EPTPREP account."
+        actions={
+          <a href={`/admin/candidates/export${q ? `?q=${encodeURIComponent(q)}` : ""}`} className="btn-secondary">
+            {q ? "Export matching (CSV)" : "Export CSV"}
+          </a>
+        }
+      />
 
       <div className="mb-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         <StatCard label="Registered" value={signups.total} hint="All accounts" />

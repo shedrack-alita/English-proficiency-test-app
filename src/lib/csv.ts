@@ -42,7 +42,8 @@ export function parseCsv(text: string): string[][] {
 export function toCsv(rows: (string | number)[][]) {
   return rows
     .map((r) => r.map((cell) => {
-      const s = String(cell);
+      // Text that a spreadsheet would run as a formula (typed by a candidate, say) is prefixed with '.
+      const s = typeof cell === "string" && /^[=+\-@\t\r]/.test(cell) ? `'${cell}` : String(cell);
       return /[",\n\r]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
     }).join(","))
     .join("\r\n");
